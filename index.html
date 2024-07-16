@@ -1,0 +1,419 @@
+
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0045)http://6.869.csail.mit.edu/fa19/schedule.html -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<link href="https://fonts.cdnfonts.com/css/caveat" rel="stylesheet">
+<style>
+    @import url('https://fonts.cdnfonts.com/css/caveat');
+</style>
+<!-- <script src="./assets/teaser-data.js"></script> -->
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>T2I-CompBench</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <meta name="description"
+        content="Project page for &#39;T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation.&#39;">
+    <!-- <link rel="icon" href="./assets/showlab.ico"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
+
+    </style>
+
+</head>
+
+<body>
+    <p class="title">T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation</p>
+    <p class="author">
+        <span class="author">
+            Kaiyue Sun<sup>1</sup>
+        </span>
+        <span class="author">
+            Kaiyi Huang<sup>1</sup>
+        </span>
+        <span class="author">
+            <a href="https://alvinliu0.github.io/">Xian Liu</a><sup>2</sup>
+        </span>
+        <span class="author">
+            <a href="https://yuewuhkust.github.io/">Yue Wu</a><sup>3</sup>
+        </span>
+        <span class="author">
+            Zihan Xu<sup>1</sup>
+        </span>
+        <span class="author">
+            <a href="https://scholar.google.com.sg/citations?user=XboZC1AAAAAJ&hl=en">Zhenguo Li</a><sup>3</sup>
+        </span>
+        <span class="author">
+            <a href="https://xh-liu.github.io/">Xihui Liu</a><sup>1</sup>
+        </span>
+    </p>
+
+    <p class="affiliations">
+        <span class="author"><sup>1 </sup>The University of Hong Kong</span>
+        <span class="author"><sup>2 </sup>The Chinese University of Hong Kong</span>
+        <span class="author"><sup>3 </sup>Huawei Noah's Ark Lab</span>
+    </p>
+
+    <p class="menu">
+        <a style="color: steelblue" href="https://github.com/KaiyueSun98/T2V-CompBench">[Paper for T2V-CompBench]</a> 
+        <a style="color: steelblue" href="https://github.com/KaiyueSun98/T2V-CompBench" >[Code]</a>
+	  </p>
+	
+<!--     <div style="text-align: center">
+           <img src="./assets/teaser_1.jpg" alt="" width="600px" style="max-width: 100%; height: auto;;" />
+	   <img src="./assets/teaser_2.jpg" alt="" width="600px" style="max-width: 100%; height: auto;;" />
+    </div>   -->
+    <div style="text-align: center">
+	    <video width="80%" playsinline="" autoplay="" loop="" preload="" muted=""> <source src="./assets/example_video.mp4" type="video/mp4"> </video>
+    </div>
+	
+    <p style="text-align: center">
+        <em>T2V-CompBench Properties.</em>
+    </p>
+    
+    <p class="section">&nbsp;</p>
+
+     <div class="container">
+
+        &nbsp;
+        <p class="section">&nbsp;</p> 
+
+<!-- 	<p class="move-down">&nbsp;</p> -->
+        <p style="text-align: center;"><span class="section"><b>Abstract</b></span></p>
+        <p style="text-align: justify; display: flex; justify-content: center; max-width: 800px; margin:auto"> 
+	<p class="section">&nbsp;</p>
+        Text-to-video (T2V) generation models have advanced significantly, yet their ability to compose different objects, attributes, actions, and motions into a video remains unexplored. Previous text-to-video benchmarks also neglect this important ability for evaluation. In this work, we conduct the first systematic study on compositional text-to-video generation. We propose T2V-CompBench, the first benchmark tailored for compositional text-to-video generation. T2V-CompBench encompasses diverse aspects of compositionality, including consistent attribute binding, dynamic attribute binding, spatial relationships, motion binding, action binding, object interactions, and generative numeracy. We further carefully design evaluation metrics of MLLM-based metrics, detection-based metrics, and tracking-based metrics, which can better reflect compositional text-to-video generation quality of seven proposed categories with 700 text prompts. The effectiveness of the proposed metrics is verified by correlation with human evaluations. We also benchmark various text-to-video generation models and conduct in-depth analysis across different models and different compositional categories. We find that compositional text-to-video generation is highly challenging for current models, and we hope that our attempt will shed light on future research in this direction.
+        <p class="section">&nbsp;</p>
+	<p class="section"><b>Introduction</b></p>
+        <div style="text-align: center">
+	    <video width="80%" playsinline="" autoplay="" loop="" preload="" muted=""> <source src="./assets/T2I-CompBench_PPT for github demo_0709.mp4" type="video/mp4"> </video>
+        </div>
+	<p class="section">&nbsp;</p>
+
+	    
+        <p class="section"><b>Evaluation</b></p>
+        <div style="text-align: center">
+            <img src="./assets/2-0.jpg" alt="" style="max-width: 100%; height: auto;" />
+        </div>
+        </br>
+        <p style="text-align: center">
+            <em>BLIP-VQA for attribute binding evaluation, UniDet for spatial relationship evaluation, 
+		and MiniGPT4-CoT as a potential unified metric.</em>
+        </p>
+        
+        <p class="section">&nbsp;</p>
+	    
+	    
+        <p class="section"><b>Evaluation Results</b></p>
+        <div class="container" style="min-height: 224px">
+            <div id="resultCarousel3" class="carousel slide" data-ride="carousel" data-interval="5000">
+                <div class="carousel-inner">
+
+
+                    <div class="carousel-item active">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img src="./assets/eval_1.jpg" alt="" width="800px" style="max-width: 100%; height="400px";" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img src="./assets/eval_2.jpg" alt="" width="800px" style="max-width: 100%; height="400px";" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img src="./assets/2-3.PNG" alt="" width="800px" style="max-width: 100%; height="400px";" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+
+			<div class="carousel-item">
+			    <table width="800px" align="center">
+			        <tbody>
+			            <tr>
+			                <th>
+			                    <video width="800" controls>
+			                        <source src="./assets/eval_4_video.mp4" type="video/mp4">
+			                        Your browser does not support the video tag.
+			                    </video>
+			                </th>
+			            </tr>
+			        </tbody>
+			    </table>
+			</div>
+
+			
+
+			
+		    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img src="./assets/eval_5.jpg" alt="" width="800px" style="max-width: 100%; height="400px";" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+	            <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img src="./assets/eval_6.jpg" alt="" width="800px" style="max-width: 100%; height="400px";" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+		    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img src="./assets/2-7.PNG" alt="" width="800px" style="max-width: 100%; height="400px";" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+		    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img src="./assets/2-8.PNG" alt="" width="800px" style="max-width: 100%; height="400px";" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+			
+
+                </div>
+
+                <a class="carousel-control-prev" href="#resultCarousel3" role="button" data-slide="prev">
+                    <div class="slider-navigation-previous" style="top: 40%">
+                        <svg viewBox="0 0 50 80" xml:space="preserve">
+                            <polyline fill="white" stroke-width=".5em" stroke-linecap="round"
+                                stroke-linejoin="round" points="45.63,75.8 0.375,38.087 45.63,0.375 ">
+                            </polyline>
+                        </svg>
+                    </div>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#resultCarousel3" role="button" data-slide="next">
+                    <div class="slider-navigation-next" style="top: 40%">
+                        <svg viewBox="0 0 50 80" xml:space="preserve">
+                            <polyline fill="white" stroke-width=".5em" stroke-linecap="round"
+                                stroke-linejoin="round" points="0.375,0.375 45.63,38.087 0.375,75.8 ">
+                            </polyline>
+                        </svg>
+                    </div>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+	<p class="section">&nbsp;</p>
+
+	    
+	<p class="section"><b>Qualitative Comparison</b></p>
+        <div class="container" style="min-height: 224px">
+            <div id="resultCarousel2" class="carousel slide" data-ride="carousel" data-interval="5000">
+                <div class="carousel-inner">
+
+                    <div class="carousel-item active">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img width="800" src="./assets/3-1.jpg" /></th>
+                                </tr>
+                        
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img width="800" src="./assets/3-2.jpg" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img width="800" src="./assets/3-3.jpg" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img width="800" src="./assets/3-4.jpg" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+		    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img width="800" src="./assets/3-5.jpg" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+		    <div class="carousel-item">
+                        <table width="800px" align="center">
+                            <tbody>
+                                <tr>
+                                    <th><img width="800" src="./assets/3-6.jpg" /></th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+
+                <a class="carousel-control-prev" href="#resultCarousel2" role="button" data-slide="prev">
+                    <div class="slider-navigation-previous" style="top: 40%">
+                        <svg viewBox="0 0 50 80" xml:space="preserve">
+                            <polyline fill="white" stroke-width=".5em" stroke-linecap="round"
+                                stroke-linejoin="round" points="45.63,75.8 0.375,38.087 45.63,0.375 ">
+                            </polyline>
+                        </svg>
+                    </div>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#resultCarousel2" role="button" data-slide="next">
+                    <div class="slider-navigation-next" style="top: 40%">
+                        <svg viewBox="0 0 50 80" xml:space="preserve">
+                            <polyline fill="white" stroke-width=".5em" stroke-linecap="round"
+                                stroke-linejoin="round" points="0.375,0.375 45.63,38.087 0.375,75.8 ">
+                            </polyline>
+                        </svg>
+                    </div>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+
+        </br>
+
+
+        <p class="section">&nbsp;</p>
+
+
+        <p class="section" id="bibtex"><b>Bibtex</b></p>
+        <table border="0">
+            <tbody>
+                <pre style=" display: block;
+                    background: #eee;
+                    white-space: pre;
+                    -webkit-overflow-scrolling: touch;
+                    max-width: 100%;
+                    min-width: 100px;
+                    border-radius: 20px;
+                    ">
+
+    @article{huang2023t2icompbench,
+        title={T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation},
+        author={Kaiyi Huang and Kaiyue Sun and Enze Xie and Zhenguo Li and Xihui Liu},
+        journal={arXiv preprint arXiv: 2307.06350},
+        year={2023}
+    }       
+
+			    </pre>
+            </tbody>
+        </table>
+        
+    </div>
+
+    <footer class="footer">
+        <p style="text-align: center;">
+            This page was adapted from <a href="https://tuneavideo.github.io/">Tune-A-Video</a>.
+        </p>
+    </footer>
+
+
+</body>
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-WLX2Z5QLG8');
+ </script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+ <script type="text/javascript">
+    $(document).ready(function () {
+
+        if (localStorage.getItem("my_app_name_here-quote-scroll") != null) {
+            $(window).scrollTop(localStorage.getItem("my_app_name_here-quote-scroll"));
+        }
+
+        $(window).on("scroll", function() {
+            localStorage.setItem("my_app_name_here-quote-scroll", $(window).scrollTop());
+        });
+
+      });
+ </script>
+
+ <script>
+    function prompt_on(prompt_element) {
+        prompt_element.classList.add("caption-active");
+    }
+
+    function prompt_off(prompt_element) {
+        prompt_element.classList.remove("caption-active");
+    }
+
+    function toggle_prompt(active_prompt_id, inactive_prompt_ids, result_id) {
+        let active_prompt = document.getElementById(active_prompt_id);
+        prompt_on(active_prompt);
+        for (let i = 0; i < inactive_prompt_ids.length; i++) {
+            let inactive_prompt = document.getElementById(inactive_prompt_ids[i]);
+            prompt_off(inactive_prompt);
+        }
+
+        let result = document.getElementById(result_id);
+        result.src = file_paths[active_prompt_id];
+    }
+
+    function toggle_prompts(active_prompt_id1, active_prompt_id2, inactive_prompt_ids1, inactive_prompt_ids2, result_id1, result_id2 ) {
+    toggle_prompt(active_prompt_id1, inactive_prompt_ids1, result_id1);
+    toggle_prompt(active_prompt_id2, inactive_prompt_ids2, result_id2);
+    }
+
+
+ </script>
+
+ <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+ <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</html>

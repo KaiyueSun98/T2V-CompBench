@@ -53,7 +53,7 @@ Prepare the video path for `--video-path` and run the following command:
 python llava/eval/eval_consistent_attr.py --video-path ../video/consistent_attr --output-path ../csv_output_consistent_attr --read-prompt-file ../meta_data/consistent_attribute_binding.json --t2v-model mymodel
 ```
 
-The output will be a CSV file named f"{mymodel}_consistent_attr_score.csv" in the "../csv_output_consistent_attr" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
+The output will be a CSV file named f"{mymodel}_consistent_attr_score.csv" in the `../csv_output_consistent_attr` directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
 
 ##### Action Binding
 
@@ -63,7 +63,7 @@ Input the video path and run:
 python llava/eval/eval_action_binding.py --video-path ../video/action_binding --output-path ../csv_output_action_binding --read-prompt-file ../meta_data/action_binding.json --t2v-model mymodel
 ```
 
-The output will be a CSV file named f"{mymodel}_action_binding_score.csv" in the "../csv_output_action_binding" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
+The output will be a CSV file named f"{mymodel}_action_binding_score.csv" in the `../csv_output_action_binding` directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
 
 ##### Object Interactions
 
@@ -73,8 +73,65 @@ Input the video path and run:
 python llava/eval/eval_interaction.py --video-path ../video/interaction --output-path ../csv_output_object_interactions --read-prompt-file ../meta_data/object_interactions.json --t2v-model mymodel
 ```
 
-The output will be a CSV file named f"{mymodel}_object_interactions_score.csv" in the "../csv_output_object_interactions" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
+The output will be a CSV file named f"{mymodel}_object_interactions_score.csv" in the `../csv_output_object_interactions` directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
 
 **Evaluate Your Own Videos**
 
 To evaluate your own videos, prepare the evaluation videos and prompt or metadata files similar to the provided examples. Follow the same steps to run the evaluation codes.
+
+## Detection-based Evaluation
+We use GroundingDINO as the detection tool to evaluate the two categories: 2D spatial relationships and generative numeracy.
+
+We use Depth Anything + GroundingSAM to evaluate 3D spatial relationships ("in front of" & "behind").
+
+#### 1: Install Requirements
+
+Detection-based Evaluation metrics are based on the official repositories of Depth Anything and GroundingSAM. You can refer to [Depth Anything's GitHub repository](https://github.com/LiheYoung/Depth-Anything/tree/main) and [GroundingSAM's GitHub repository](https://github.com/IDEA-Research/GroundingDINO/tree/main) for specific environment dependencies and weights.
+
+#### 2. Prepare Evaluation Videos
+
+Generate videos of your model using the T2V-CompBench prompts provided in the `prompts` directory. Organize them in the following structure (using the *spatial relationships* category as an example):
+
+```
+../video/spatial_relationships
+├── 0001.mp4
+├── 0002.mp4
+├── 0003.mp4
+├── 0004.mp4
+...
+└── 0100.mp4
+```
+
+Note: Please put all the videos of spatial relationships (both 2D and 3D) together. The numerical names of the video files are just to indicate the reading order that matches the order of prompts. You can use other naming conventions that maintain the order (*e.g.* "0.mp4", "1.mpg", *etc.*)
+
+#### 3. Run the Evaluation Codes
+
+##### Spatial Relationships
+
+After obtaining the official Depth Anything code, place the following evaluation scripts in the `Depth-Anything/` directory:
+
+- `run_depth.py`
+
+After obtaining the official GroundingSAM code, place the following evaluation scripts in the `Grounded-Segment-Anything/` directory:
+
+- `eval_spatial_relationships.py`
+
+Compute the evaluation metric:
+
+step 1: prepare the input images
+```
+python Depth-Anything/run_depth.py --output_dir ../output_spatial_depth --read-prompt-file ../meta_data/spatial_relationships.json --video-path ../video/spatial_relationships --t2v-model mymodel
+```
+The depth images will be stored in the `../output_spatial_depth` directory.
+The frame images will be stored in the default path: `../video/frames/spatial_relationships/`
+
+step 2: 
+```
+python Grounded-Segment-Anything/eval_spatial_relationships.py --output-path ../csv_spatial --read-prompt-file ../meta_data/spatial_relationships.json --frame_folder ../video/frames/spatial_relationships/ --t2v-model mymodel --output_dir_3d ../output_3D_spatial --depth_folder ../output_spatial_depth --output_dir_2d ../output_2D_spatial/
+```
+
+The output frame images showing the bounding boxes of 2d spatial relationships will be stored in the `../output_2D_spatial/` directory.
+The output frame images showing the bounding boxes and object segmentations of 3d spatial relationship will be stored in the `../output_3D_spatial` directory.
+The frame scores will be saved in `../csv_spatial/mymodel_2dframe.csv` and `../csv_spatial/mymodel_3dframe.csv`.
+They will be combined to calculate the video scores, which will be saved in `../csv_spatial/mymodel_2dvideo.csv` and `../csv_spatial/mymodel_3dvideo.csv`.
+The final score of the model in this category (spatial relationships) will be saved in the last line of `../csv_spatial/mymodel_3dvideo.csv`.

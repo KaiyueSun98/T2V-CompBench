@@ -39,11 +39,22 @@ Note: The numerical names of the video files are just to indicate the reading or
 
 After obtaining the official LLaVA code, place the following evaluation scripts in the `LLaVA/llava/eval` directory:
 
-- `eval_consistent_attribute.py`
-- `eval_dynamic_attribute.py`
+- `eval_consistent_attr.py`
 - `eval_action_binding.py`
 - `eval_interaction.py`
 
-Prepare the video repository path (*e.g.*, "../video/consistent_attr") or a specific video path (*e.g.*, "../video/consistent_attr/0001.mp4") in the argument `--video_grid_folder_prefix`. Configure the output path with the `--output-path` argument, and the file of prompts or metadata with the `--read-prompt-file` argument. The evaluation codes will automatically convert the video into three different formats (a standard video with 16 frames, frames, and an image grid) and then calculate the score.
+Prepare the video repository path (*e.g.*, "../video/consistent_attr") or a specific video path (*e.g.*, "../video/consistent_attr/0001.mp4") in the argument `--video-path`. Configure the folder to store the csv files with the `--output-path` argument, the prompts and meta information with the `--read-prompt-file` argument. The evaluation codes will automatically convert the video into the required formats (image grid or 16 frames) and then calculate the score.
+
+##### Consistent Attribute Binding
+
+Prepare the video path for `--video-path` and run the following command:
+
+```
+python llava/eval/consistent_attribute.py --video-path ../video/consistent_attr --output-path ../csv_output_consistent_attr --t2v-model mymodel
+```
+
+The output will be a CSV file named f"{model_name}_consistent_attr_score.csv" in the "../csv_output_consistent_attr" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
+
+
 
 

@@ -50,11 +50,29 @@ Prepare the video repository path (*e.g.*, "../video/consistent_attr") or a spec
 Prepare the video path for `--video-path` and run the following command:
 
 ```
-python llava/eval/consistent_attribute.py --video-path ../video/consistent_attr --output-path ../csv_output_consistent_attr --t2v-model mymodel
+python llava/eval/eval_consistent_attr.py --video-path ../video/consistent_attr --output-path ../csv_output_consistent_attr --read-prompt-file ../meta_data/consistent_attribute_binding.json --t2v-model mymodel
 ```
 
-The output will be a CSV file named f"{model_name}_consistent_attr_score.csv" in the "../csv_output_consistent_attr" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
+The output will be a CSV file named f"{mymodel}_consistent_attr_score.csv" in the "../csv_output_consistent_attr" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
 
+##### Action Binding
 
+Input the video path and run:
+
+```
+python llava/eval/eval_action_binding.py --video-path ../video/action_binding --output-path ../csv_output_action_binding --read-prompt-file ../meta_data/action_binding.json --t2v-model mymodel
+```
+
+The output will be a CSV file named f"{mymodel}_action_binding_score.csv" in the "../csv_output_action_binding" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
+
+##### Object Interaction
+
+Input the video path and run:
+
+```
+python llava/eval/eval_interaction.py --video-path ../video/interaction --output-path ../csv_output_object_interactions --read-prompt-file ../meta_data/object_interactions.json --t2v-model mymodel
+```
+
+The output will be a CSV file named f"{mymodel}_object_interactions_score.csv" in the "../csv_output_object_interactions" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
 
 

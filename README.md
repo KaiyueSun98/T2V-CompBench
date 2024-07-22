@@ -65,7 +65,7 @@ python llava/eval/eval_action_binding.py --video-path ../video/action_binding --
 
 The output will be a CSV file named f"{mymodel}_action_binding_score.csv" in the "../csv_output_action_binding" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
 
-##### Object Interaction
+##### Object Interactions
 
 Input the video path and run:
 
@@ -75,4 +75,6 @@ python llava/eval/eval_interaction.py --video-path ../video/interaction --output
 
 The output will be a CSV file named f"{mymodel}_object_interactions_score.csv" in the "../csv_output_object_interactions" directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
 
+**Evaluate Your Own Videos**
 
+To evaluate your own videos, prepare the evaluation videos and prompt or metadata files similar to the provided examples. Follow the same steps to run the evaluation codes.

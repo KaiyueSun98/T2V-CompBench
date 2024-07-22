@@ -1,0 +1,502 @@
+[
+    {
+        "prompt": "two cats chase a butterfly in a sunny garden",
+        "objects": "cat",
+        "numbers": "2"
+    },
+    {
+        "prompt": "three dogs play in the snow with a red ball",
+        "objects": "dog,red ball",
+        "numbers": "3,1"
+    },
+    {
+        "prompt": "four birds build a nest together in a large tree",
+        "objects": "bird",
+        "numbers": "4"
+    },
+    {
+        "prompt": "six rabbits hop around a meadow full of flowers",
+        "objects": "rabbit",
+        "numbers": "6"
+    },
+    {
+        "prompt": "two horses race across a grassy field at sunset",
+        "objects": "horse",
+        "numbers": "2"
+    },
+    {
+        "prompt": "five squirrels gather nuts in a busy forest",
+        "objects": "squirrel",
+        "numbers": "5"
+    },
+    {
+        "prompt": "three children build a sandcastle on a beach",
+        "objects": "child",
+        "numbers": "3"
+    },
+    {
+        "prompt": "two monkeys swing from vines in a jungle",
+        "objects": "monkey",
+        "numbers": "2"
+    },
+    {
+        "prompt": "four dolphins jump out of the ocean waves",
+        "objects": "dolphin",
+        "numbers": "4"
+    },
+    {
+        "prompt": "three owls perch on a branch during a full moon",
+        "objects": "owl",
+        "numbers": "3"
+    },
+    {
+        "prompt": "two deer graze in a misty forest at dawn",
+        "objects": "deer",
+        "numbers": "2"
+    },
+    {
+        "prompt": "five penguins slide on ice into icy water",
+        "objects": "penguin",
+        "numbers": "5"
+    },
+    {
+        "prompt": "four children play tag in a park",
+        "objects": "child",
+        "numbers": "4"
+    },
+    {
+        "prompt": "three bears fish in a river surrounded by mountains",
+        "objects": "bear",
+        "numbers": "3"
+    },
+    {
+        "prompt": "six geese fly over a lake at sunrise",
+        "objects": "goose",
+        "numbers": "6"
+    },
+    {
+        "prompt": "two elephants spray each other with water",
+        "objects": "elephant",
+        "numbers": "2"
+    },
+    {
+        "prompt": "five goats climb a rocky mountain path",
+        "objects": "goat",
+        "numbers": "5"
+    },
+    {
+        "prompt": "three parrots chatter in a tropical rainforest",
+        "objects": "parrot",
+        "numbers": "3"
+    },
+    {
+        "prompt": "four frogs leap from lily pad to lily pad in a pond",
+        "objects": "frog",
+        "numbers": "4"
+    },
+    {
+        "prompt": "two kangaroos box playfully",
+        "objects": "kangaroo",
+        "numbers": "2"
+    },
+    {
+        "prompt": "three hedgehogs explore a garden full of autumn leaves",
+        "objects": "hedgehog",
+        "numbers": "3"
+    },
+    {
+        "prompt": "five chicks in a farmyard",
+        "objects": "chick",
+        "numbers": "5"
+    },
+    {
+        "prompt": "two beavers in a small stream",
+        "objects": "beaver",
+        "numbers": "2"
+    },
+    {
+        "prompt": "four turtles race slowly towards the ocean",
+        "objects": "turtle",
+        "numbers": "4"
+    },
+    {
+        "prompt": "six ladybugs crawl along the leaves of a lush, green plant",
+        "objects": "ladybug",
+        "numbers": "6"
+    },
+    {
+        "prompt": "two wolves howl in the wilderness",
+        "objects": "wolf",
+        "numbers": "2"
+    },
+    {
+        "prompt": "five apples are placed on the table in a kitchen",
+        "objects": "apple",
+        "numbers": "5"
+    },
+    {
+        "prompt": "three foxes in a snowy forest",
+        "objects": "fox",
+        "numbers": "3"
+    },
+    {
+        "prompt": "four sea lions sunbathe on a rocky beach",
+        "objects": "sea lion",
+        "numbers": "4"
+    },
+    {
+        "prompt": "three dogs and two cats play together in the snow",
+        "objects": "dog,cat",
+        "numbers": "3,2"
+    },
+    {
+        "prompt": "three bees and five butterflies flying around a blooming garden",
+        "objects": "bee,butterfly",
+        "numbers": "3,5"
+    },
+    {
+        "prompt": "four children and three dogs having a picnic in a park",
+        "objects": "child,dog",
+        "numbers": "4,3"
+    },
+    {
+        "prompt": "two horses and four cows graze together on a sunny hillside",
+        "objects": "horse,cow",
+        "numbers": "2,4"
+    },
+    {
+        "prompt": "five ducks and two swans swim in a serene lake",
+        "objects": "duck,swan",
+        "numbers": "5,2"
+    },
+    {
+        "prompt": "three squirrels and four birds share seeds on a snowy day",
+        "objects": "squirrel,bird",
+        "numbers": "3,4"
+    },
+    {
+        "prompt": "two lions and three zebras drink from a watering hole",
+        "objects": "lion,zebra",
+        "numbers": "2,3"
+    },
+    {
+        "prompt": "four rabbits and three foxes in a forest",
+        "objects": "rabbit,fox",
+        "numbers": "4,3"
+    },
+    {
+        "prompt": "five fish and three frogs in a pond",
+        "objects": "fish,frog",
+        "numbers": "5,3"
+    },
+    {
+        "prompt": "two owls and four pigeons perched on a tree",
+        "objects": "owl,pigeon",
+        "numbers": "2,4"
+    },
+    {
+        "prompt": "Three monkeys are jumping in the forest, while two parrots are flying among the trees",
+        "objects": "monkey,parrot",
+        "numbers": "3,2"
+    },
+    {
+        "prompt": "four elephants and six giraffes walking around a large tree",
+        "objects": "elephant,giraffe",
+        "numbers": "4,6"
+    },
+    {
+        "prompt": "three sharks and four turtles swim in the ocean",
+        "objects": "shark,turtle",
+        "numbers": "3,4"
+    },
+    {
+        "prompt": "five deers are fleeing from two wolves in the woods",
+        "objects": "deer,wolf",
+        "numbers": "5,2"
+    },
+    {
+        "prompt": "four penguins and two seals rest on an icy shore",
+        "objects": "penguin,seal",
+        "numbers": "4,2"
+    },
+    {
+        "prompt": "three cats and four dogs engage in a playful chase",
+        "objects": "cat,dog",
+        "numbers": "3,4"
+    },
+    {
+        "prompt": "two dolphins and six seagulls near the ocean surface",
+        "objects": "dolphin,seagull",
+        "numbers": "2,6"
+    },
+    {
+        "prompt": "three hedgehogs and four snails move slowly through a garden",
+        "objects": "hedgehog,snail",
+        "numbers": "3,4"
+    },
+    {
+        "prompt": "three dogs and five chairs in a cozy living room",
+        "objects": "dog,chair",
+        "numbers": "3,5"
+    },
+    {
+        "prompt": "three bees flying around five bonsais in a lush garden",
+        "objects": "bee,bonsai",
+        "numbers": "3,5"
+    },
+    {
+        "prompt": "six children talking and three crystal balls on a table",
+        "objects": "child,crystal ball",
+        "numbers": "6,3"
+    },
+    {
+        "prompt": "four pencils and two erasers are placed on the desk",
+        "objects": "pencil,eraser",
+        "numbers": "4,2"
+    },
+    {
+        "prompt": "four birds and six birdhouses in a backyard",
+        "objects": "bird,birdhouse",
+        "numbers": "4,6"
+    },
+    {
+        "prompt": "five squirrels and three acorns under an oak tree",
+        "objects": "squirrel,acorn",
+        "numbers": "5,3"
+    },
+    {
+        "prompt": "three monkeys are sharing two bananas",
+        "objects": "monkey,banana",
+        "numbers": "3,2"
+    },
+    {
+        "prompt": "five oranges and four apples are left on the dinner table",
+        "objects": "orange,apple",
+        "numbers": "5,4"
+    },
+    {
+        "prompt": "three owls and six books on a library shelf",
+        "objects": "owl,book",
+        "numbers": "3,6"
+    },
+    {
+        "prompt": "two elephants and five buckets in a zoo",
+        "objects": "elephant,bucket",
+        "numbers": "2,5"
+    },
+    {
+        "prompt": "four turtles and three seashells on a sandy beach",
+        "objects": "turtle,seashell",
+        "numbers": "4,3"
+    },
+    {
+        "prompt": "six children are flying four kites on a windy hill",
+        "objects": "child,kite",
+        "numbers": "6,4"
+    },
+    {
+        "prompt": "three foxes and two lanterns in a twilight forest",
+        "objects": "fox,lantern",
+        "numbers": "3,2"
+    },
+    {
+        "prompt": "two bears are enjoying honey from four pots in a wooded area",
+        "objects": "bear,pot",
+        "numbers": "2,4"
+    },
+    {
+        "prompt": "two wolves and six pinecones in a snowy forest",
+        "objects": "wolf,pinecone",
+        "numbers": "2,6"
+    },
+    {
+        "prompt": "three hedgehogs are playing with four rabbits in an autumn meadow",
+        "objects": "hedgehog,rabbit",
+        "numbers": "3,4"
+    },
+    {
+        "prompt": "four sea lions and three beach balls on a seaside",
+        "objects": "sea lion,beach ball",
+        "numbers": "4,3"
+    },
+    {
+        "prompt": "five kittens are standing on three chairs in living room",
+        "objects": "kitten,chair",
+        "numbers": "5,3"
+    },
+    {
+        "prompt": "five owls and three nests in a large old tree",
+        "objects": "owl,nest",
+        "numbers": "5,3"
+    },
+    {
+        "prompt": "three leopards are walking in front of five trees",
+        "objects": "leopard,tree",
+        "numbers": "3,5"
+    },
+    {
+        "prompt": "five chicks and four basket on a farmyard",
+        "objects": "chick,basket",
+        "numbers": "5,4"
+    },
+    {
+        "prompt": "six ravens and two scarecrows in a harvested field",
+        "objects": "raven,scarecrow",
+        "numbers": "6,2"
+    },
+    {
+        "prompt": "three llamas on a high plateau",
+        "objects": "llama",
+        "numbers": "3"
+    },
+    {
+        "prompt": "three rabbits and two carrots in a garden plot",
+        "objects": "rabbit,carrot",
+        "numbers": "3,2"
+    },
+    {
+        "prompt": "Two dolphins leap out of the ocean as the sun sets.",
+        "objects": "dolphin",
+        "numbers": "2"
+    },
+    {
+        "prompt": "Three sheep graze in a peaceful valley surrounded by hills.",
+        "objects": "sheep",
+        "numbers": "3"
+    },
+    {
+        "prompt": "Four butterflies dance around blooming flowers in a garden.",
+        "objects": "butterfly",
+        "numbers": "4"
+    },
+    {
+        "prompt": "Six ducks swim in a calm pond with lily pads.",
+        "objects": "duck",
+        "numbers": "6"
+    },
+    {
+        "prompt": "Two elephants playfully spray water at each other in a river.",
+        "objects": "elephant",
+        "numbers": "2"
+    },
+    {
+        "prompt": "Five owls perch on a fence under the moonlight.",
+        "objects": "owl",
+        "numbers": "5"
+    },
+    {
+        "prompt": "Three kangaroos hop across the outback during the day.",
+        "objects": "kangaroo",
+        "numbers": "3"
+    },
+    {
+        "prompt": "Four turtles bask on rocks near a flowing stream.",
+        "objects": "turtle",
+        "numbers": "4"
+    },
+    {
+        "prompt": "Six penguins waddle together across an icy landscape.",
+        "objects": "penguin",
+        "numbers": "6"
+    },
+    {
+        "prompt": "Two deer stand quietly in a misty forest clearing.",
+        "objects": "deer",
+        "numbers": "2"
+    },
+    {
+        "prompt": "Seven geese fly in a V-formation across the sky.",
+        "objects": "goose",
+        "numbers": "7"
+    },
+    {
+        "prompt": "Three kittens nap together in a cozy basket.",
+        "objects": "kitten",
+        "numbers": "3"
+    },
+    {
+        "prompt": "Five frogs croak in unison on a large lily pad.",
+        "objects": "frog",
+        "numbers": "5"
+    },
+    {
+        "prompt": "Four raccoons rummage through fallen leaves in the woods.",
+        "objects": "raccoon",
+        "numbers": "4"
+    },
+    {
+        "prompt": "Six parrots chatter on branches in a tropical rainforest.",
+        "objects": "parrot",
+        "numbers": "6"
+    },
+    {
+        "prompt": "Two bears fish in a rushing river.",
+        "objects": "bear",
+        "numbers": "2"
+    },
+    {
+        "prompt": "Five goats climb a rocky hillside at dawn.",
+        "objects": "goat",
+        "numbers": "5"
+    },
+    {
+        "prompt": "Three foxes play near the entrance of their den.",
+        "objects": "fox",
+        "numbers": "3"
+    },
+    {
+        "prompt": "Four peacocks display their feathers in a sunny courtyard.",
+        "objects": "peacock",
+        "numbers": "4"
+    },
+    {
+        "prompt": "Seven bees buzz around a blooming flower bed.",
+        "objects": "bee",
+        "numbers": "7"
+    },
+    {
+        "prompt": "Eight ants march in a line towards a crumb on the ground.",
+        "objects": "ant",
+        "numbers": "8"
+    },
+    {
+        "prompt": "Two peacocks strut across a lush garden.",
+        "objects": "peacock",
+        "numbers": "2"
+    },
+    {
+        "prompt": "Six horses graze in a field under a clear blue sky.",
+        "objects": "horse",
+        "numbers": "6"
+    },
+    {
+        "prompt": "Five eagles soar through the clear blue sky, their wings outstretched.",
+        "objects": "eagle",
+        "numbers": "5"
+    },
+    {
+        "prompt": "Seven flamingos stand on one leg in a shallow lagoon.",
+        "objects": "flamingo",
+        "numbers": "7"
+    },
+    {
+        "prompt": "Three seals sunbathe on a rocky shore.",
+        "objects": "seal",
+        "numbers": "3"
+    },
+    {
+        "prompt": "Five bunnies nibble on clover in a green meadow.",
+        "objects": "bunny",
+        "numbers": "5"
+    },
+    {
+        "prompt": "Four zebras graze together on the African savannah.",
+        "objects": "zebra",
+        "numbers": "4"
+    },
+    {
+        "prompt": "Two swans glide gracefully on a tranquil lake.",
+        "objects": "swan",
+        "numbers": "2"
+    }
+]

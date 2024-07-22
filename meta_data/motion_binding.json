@@ -1,0 +1,702 @@
+[
+    {
+        "prompt": "A cat slinking to the left side of a cozy living room",
+        "object_1": "cat",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A golden retriever scampering leftwards across a garden",
+        "object_1": "golden retriever",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A squirrel darting leftwards in a garden",
+        "object_1": "squirrel",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A boat sails to the left on the ocean",
+        "object_1": "boat",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A rabbit hops from left to right in a garden",
+        "object_1": "rabbit",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A drone flies leftwards while a bird swoops rightwards",
+        "object_1": "drone",
+        "d_1": "left",
+        "object_2": "bird",
+        "d_2": "right"
+    },
+    {
+        "prompt": "A ball rolls left while a puppy dashes right",
+        "object_1": "ball",
+        "d_1": "left",
+        "object_2": "puppy",
+        "d_2": "right"
+    },
+    {
+        "prompt": "A cat walks from left to right on a table",
+        "object_1": "cat",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A cyclist pedals from the left side to the right side on a street",
+        "object_1": "cyclist",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A fish swims across the coral from left to right in the sea",
+        "object_1": "fish",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A kite flies left to right on a windy day",
+        "object_1": "kite",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "An elderly man walking slowly to the right in a sunny park",
+        "object_1": "elderly man",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A soccer ball being kicked hard to the right",
+        "object_1": "soccer ball",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A paper airplane gliding to the right across a classroom",
+        "object_1": "paper airplane",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A frisbee flying right towards a waiting dog in a park",
+        "object_1": "frisbee",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A balloon drifts left to right above a statue in a city square",
+        "object_1": "balloon",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A fox sneaks past a sleeping dog from right to the left in the forest",
+        "object_1": "fox",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A deer runs leftward through the forest, an owl flies rightward above",
+        "object_1": "deer",
+        "d_1": "left",
+        "object_2": "owl",
+        "d_2": "right"
+    },
+    {
+        "prompt": "A red balloon guadually ascending above a crowded festival",
+        "object_1": "red balloon",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A drone ascending towards the clouds",
+        "object_1": "drone",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A balloon slowly ascending at an outdoor birthday party",
+        "object_1": "balloon",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A bird flies upwards in a garden",
+        "object_1": "bird",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "Wind gust lifts a kite into the sky",
+        "object_1": "kite",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A butterfly gracefully ascends and a stone is dropped into a tranquil pond",
+        "object_1": "butterfly",
+        "d_1": "up",
+        "object_2": "stone",
+        "d_2": "down"
+    },
+    {
+        "prompt": "A squirrel climbs upward on a tree",
+        "object_1": "squirrel",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A skateboard descending a steep ramp at a skate park",
+        "object_1": "skateboard",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A building block slides down from a slope",
+        "object_1": "building block",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "Sled slides down a snowy hill",
+        "object_1": "sled",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "An apple falling downwards from a tree in an orchard",
+        "object_1": "apple",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A penny dropping downwards into a wishing well",
+        "object_1": "penny",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "Book falls off a shelf",
+        "object_1": "book",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A leaf gently descending from a tree in autumn",
+        "object_1": "leaf",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A mouse darts rightward across a kitchen floor beneath a chair",
+        "object_1": "mouse",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A submarine descends into the ocean",
+        "object_1": "submarine",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A cat slinking to the right side of a living room",
+        "object_1": "cat",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A golden retriever scampering rightwards across a garden",
+        "object_1": "golden retriever",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A squirrel darting rightwards in a garden",
+        "object_1": "squirrel",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A boat sails to the right on the ocean",
+        "object_1": "boat",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A rabbit hops from right to left in a garden",
+        "object_1": "rabbit",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A drone flies rightwards in the sky",
+        "object_1": "drone",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A ball rolls right while a puppy dashes left",
+        "object_1": "ball",
+        "d_1": "right",
+        "object_2": "puppy",
+        "d_2": "left"
+    },
+    {
+        "prompt": "A cat walks from right to left on a table",
+        "object_1": "cat",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A cyclist pedals from the right side to the left side on a street",
+        "object_1": "cyclist",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A fish swims from right to left in the sea",
+        "object_1": "fish",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A robot vacuum is sweeping the floor from left to right",
+        "object_1": "robot vacuum",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A robot vacuum is sweeping the floor from right to left",
+        "object_1": "robot vacuum",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A drone is gradually descending to the ground in a park",
+        "object_1": "drone",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A kite flies right to left on a windy day",
+        "object_1": "kite",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "An elderly man walking slowly to the left in a sunny park",
+        "object_1": "elderly man",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A soccer ball being kicked hard to the left",
+        "object_1": "soccer ball",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A paper airplane gliding to the left across a classroom",
+        "object_1": "paper airplane",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A frisbee flying left towards a waiting dog in a park",
+        "object_1": "frisbee",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A balloon drifts right to left above a statue in a city square",
+        "object_1": "balloon",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A deer runs rightwards through the forest, an owl flies leftwards above",
+        "object_1": "deer",
+        "d_1": "right",
+        "object_2": "owl",
+        "d_2": "left"
+    },
+    {
+        "prompt": "A firefly moving smoothly from the right side of the screen to the left side, disappearing upon reaching the left end",
+        "object_1": "firefly",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A firefly moving smoothly from the left side of the screen to the right side, disappearing upon reaching the right end",
+        "object_1": "firefly",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A car driving left to right on the moon",
+        "object_1": "car",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A car driving right to left on the moon",
+        "object_1": "car",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A robot walking from left to right in a factory",
+        "object_1": "robot",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A robot walking from right to left in a factory",
+        "object_1": "robot",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A flower floats left to right by the flowing stream",
+        "object_1": "flower",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A flower floats right to left by the flowing stream",
+        "object_1": "flower",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A football rolling from the left to the right on the grass",
+        "object_1": "football",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A football rolling from the right to the left on the grass",
+        "object_1": "football",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A sailboat sails from right to left across the blue waters",
+        "object_1": "sailboat",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A sailboat sails from left to right across the blue waters",
+        "object_1": "sailboat",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "An egg rolling from the left to right on the table",
+        "object_1": "egg",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "An egg rolling from the right to left on the table",
+        "object_1": "egg",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A basketball is thrown from left to the right",
+        "object_1": "basketball",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A basketball is thrown from right to the left",
+        "object_1": "basketball",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A robot walking from right to left across the moon with a car driving left to right in the background",
+        "object_1": "robot",
+        "d_1": "left",
+        "object_2": "car",
+        "d_2": "right"
+    },
+    {
+        "prompt": "A robot walking from left to right across the moon with a car driving right to left in the background",
+        "object_1": "robot",
+        "d_1": "right",
+        "object_2": "car",
+        "d_2": "left"
+    },
+    {
+        "prompt": "A red balloon guadually descending in the sky",
+        "object_1": "red balloon",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "The parachute gradually descends onto the beach",
+        "object_1": "parachute",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A squirrel climbs downwards from a tree",
+        "object_1": "squirrel",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A child climbs down the slide",
+        "object_1": "child",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A man tumbling down a steep hill",
+        "object_1": "man",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "The sun begins its descent, gradually sinking below the horizon",
+        "object_1": "sun",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A kite gracefully floating downwards",
+        "object_1": "kite",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A paper airplane slowly descending, gracefully landing on the grass.",
+        "object_1": "paper airplane",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A feather gracefully gliding down to the desk",
+        "object_1": "feather",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A snowflake falling softly from the sky",
+        "object_1": "snowflake",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A helicopter gracefully descending to land",
+        "object_1": "helicopter",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A spider gracefully lowering itself down from its web",
+        "object_1": "spider",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A toy car drives from left to right, passing miniature buildings and trees",
+        "object_1": "toy car",
+        "d_1": "right",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A fish dives downward in the deep sea",
+        "object_1": "fish",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A mouse darts leftwards across a kitchen floor beneath a chair",
+        "object_1": "mouse",
+        "d_1": "left",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A fluffy teddy bear tumbles down from the wall and gently lands on a cozy bed in a bedroom",
+        "object_1": "teddy bear",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A submarine ascends from the ocean",
+        "object_1": "submarine",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A cyberpunk chibi cat riding in rocket upwards",
+        "object_1": "cyberpunk chibi cat",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "The sun rises, moving upwards behind stationary buildings",
+        "object_1": "sun",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A bird flies upwards in a garden",
+        "object_1": "bird",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A child climbs up the slide",
+        "object_1": "child",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A gift box falls from the top to the bottom of the screen, set against a white background",
+        "object_1": "gift box",
+        "d_1": "down",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A pink star rises from the bottom to the top of the screen, set against a blue background",
+        "object_1": "pink star",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A lantern rise into the night sky",
+        "object_1": "lantern",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A butterfly flying upwards towards a blue and bright sky",
+        "object_1": "butterfly",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A purple heart floating upward in a white background",
+        "object_1": "purple heart",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A bubble floats upwards, shimmering and reflecting the sunlight",
+        "object_1": "bubble",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    },
+    {
+        "prompt": "A cat climbing up a tall christmas tree",
+        "object_1": "cat",
+        "d_1": "up",
+        "object_2": "",
+        "d_2": ""
+    }
+]

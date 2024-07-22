@@ -1,0 +1,602 @@
+[
+    {
+        "prompt": "A dog running on the left of a bicycle",
+        "spatial": "left",
+        "object_1": "dog",
+        "object_2": "bicycle"
+    },
+    {
+        "prompt": "A cat sitting on the left of a fireplace",
+        "spatial": "left",
+        "object_1": "cat",
+        "object_2": "fireplace"
+    },
+    {
+        "prompt": "A bird flying on the left side of a hot air balloon",
+        "spatial": "left",
+        "object_1": "bird",
+        "object_2": "hot air balloon"
+    },
+    {
+        "prompt": "A toddler walking on the left of a dog in a park",
+        "spatial": "left",
+        "object_1": "toddler",
+        "object_2": "dog"
+    },
+    {
+        "prompt": "A squirrel on the left of an old house",
+        "spatial": "left",
+        "object_1": "squirrel",
+        "object_2": "old house"
+    },
+    {
+        "prompt": "A photographer setting up a tripod on the left of a tree",
+        "spatial": "left",
+        "object_1": "photographer",
+        "object_2": "tree"
+    },
+    {
+        "prompt": "A child building a sandcastle on the left of a beach umbrella",
+        "spatial": "left",
+        "object_1": "child",
+        "object_2": "beach umbrella"
+    },
+    {
+        "prompt": "A bee flying on the left of a flower",
+        "spatial": "left",
+        "object_1": "bee",
+        "object_2": "flower"
+    },
+    {
+        "prompt": "A penguin standing on the left side of a cactus in a desert",
+        "spatial": "left",
+        "object_1": "penguin",
+        "object_2": "cactus"
+    },
+    {
+        "prompt": "A sheep grazing on the left of a surfboard on a sandy beach",
+        "spatial": "left",
+        "object_1": "sheep",
+        "object_2": "surfboard"
+    },
+    {
+        "prompt": "A gorilla sitting on the left side of a vending machine in a forest",
+        "spatial": "left",
+        "object_1": "gorilla",
+        "object_2": "vending machine"
+    },
+    {
+        "prompt": "An elephant standing on the left of a rowboat in a small pond",
+        "spatial": "left",
+        "object_1": "elephant",
+        "object_2": "rowboat"
+    },
+    {
+        "prompt": "A llama walking on the left side of a motorcycle in a city street",
+        "spatial": "left",
+        "object_1": "llama",
+        "object_2": "motorcycle"
+    },
+    {
+        "prompt": "A squirrel on the left of a birthday cake at a party in the park",
+        "spatial": "left",
+        "object_1": "squirrel",
+        "object_2": "birthday cake"
+    },
+    {
+        "prompt": "A dog running on the right of a bicycle",
+        "spatial": "right",
+        "object_1": "dog",
+        "object_2": "bicycle"
+    },
+    {
+        "prompt": "A cat sitting on the right of a fireplace",
+        "spatial": "right",
+        "object_1": "cat",
+        "object_2": "fireplace"
+    },
+    {
+        "prompt": "A bird flying on the right side of a hot air balloon",
+        "spatial": "right",
+        "object_1": "bird",
+        "object_2": "hot air balloon"
+    },
+    {
+        "prompt": "A toddler walking on the right of a dog in a park",
+        "spatial": "right",
+        "object_1": "toddler",
+        "object_2": "dog"
+    },
+    {
+        "prompt": "A squirrel on the right of an old house",
+        "spatial": "right",
+        "object_1": "squirrel",
+        "object_2": "old house"
+    },
+    {
+        "prompt": "A photographer setting up a tripod on the right of a tree",
+        "spatial": "right",
+        "object_1": "photographer",
+        "object_2": "tree"
+    },
+    {
+        "prompt": "A child building a sandcastle on the right of a beach umbrella",
+        "spatial": "right",
+        "object_1": "child",
+        "object_2": "beach umbrella"
+    },
+    {
+        "prompt": "A bee flying on the right of a flower",
+        "spatial": "right",
+        "object_1": "bee",
+        "object_2": "flower"
+    },
+    {
+        "prompt": "A penguin standing on the right side of a cactus in a desert",
+        "spatial": "right",
+        "object_1": "penguin",
+        "object_2": "cactus"
+    },
+    {
+        "prompt": "A sheep grazing on the right of a surfboard on a sandy beach",
+        "spatial": "right",
+        "object_1": "sheep",
+        "object_2": "surfboard"
+    },
+    {
+        "prompt": "A gorilla sitting on the right side of a vending machine in a forest",
+        "spatial": "right",
+        "object_1": "gorilla",
+        "object_2": "vending machine"
+    },
+    {
+        "prompt": "An elephant standing on the right of a rowboat in a small pond",
+        "spatial": "right",
+        "object_1": "elephant",
+        "object_2": "rowboat"
+    },
+    {
+        "prompt": "A llama walking on the right side of a motorcycle in a city street",
+        "spatial": "right",
+        "object_1": "llama",
+        "object_2": "motorcycle"
+    },
+    {
+        "prompt": "A squirrel on the right of a birthday cake at a party in the park",
+        "spatial": "right",
+        "object_1": "squirrel",
+        "object_2": "birthday cake"
+    },
+    {
+        "prompt": "A traffic light suspended above a bicycle",
+        "spatial": "above",
+        "object_1": "traffic light",
+        "object_2": "bicycle"
+    },
+    {
+        "prompt": "A clock mounted above an ancient door in a bustling old town",
+        "spatial": "above",
+        "object_1": "clock",
+        "object_2": "ancient door"
+    },
+    {
+        "prompt": "A kite stuck in a tree above a boy in a park",
+        "spatial": "above",
+        "object_1": "kite",
+        "object_2": "boy"
+    },
+    {
+        "prompt": "A hot air balloon floating above a sheep",
+        "spatial": "above",
+        "object_1": "hot air balloon",
+        "object_2": "sheep"
+    },
+    {
+        "prompt": "A hammock strung between two trees above a suitcase",
+        "spatial": "above",
+        "object_1": "hammock",
+        "object_2": "suitcase"
+    },
+    {
+        "prompt": "A banner fluttering above a house",
+        "spatial": "above",
+        "object_1": "banner",
+        "object_2": "house"
+    },
+    {
+        "prompt": "A chandelier hanging above a grand piano in a busy hotel lobby",
+        "spatial": "above",
+        "object_1": "chandelier",
+        "object_2": "grand piano"
+    },
+    {
+        "prompt": "A rabbit playing on a table",
+        "spatial": "on",
+        "object_1": "rabbit",
+        "object_2": "table"
+    },
+    {
+        "prompt": "A backpack placed on a table in a bustling coffee shop",
+        "spatial": "on",
+        "object_1": "backpack",
+        "object_2": "table"
+    },
+    {
+        "prompt": "A hat left on a statue in a busy park",
+        "spatial": "on",
+        "object_1": "hat",
+        "object_2": "statue"
+    },
+    {
+        "prompt": "A frog perched on a refrigerator in a busy kitchen",
+        "spatial": "on",
+        "object_1": "frog",
+        "object_2": "refrigerator"
+    },
+    {
+        "prompt": "A cat lounging on top of a television in a living room",
+        "spatial": "on",
+        "object_1": "cat",
+        "object_2": "television"
+    },
+    {
+        "prompt": "A rabbit sitting on a drum in the middle of a rock concert",
+        "spatial": "on",
+        "object_1": "rabbit",
+        "object_2": "drum"
+    },
+    {
+        "prompt": "A dog sitting atop a moving robot vacuum in a room",
+        "spatial": "on",
+        "object_1": "dog",
+        "object_2": "robot vacuum"
+    },
+    {
+        "prompt": "A lizard basking on a solar panel on a hot day",
+        "spatial": "on",
+        "object_1": "lizard",
+        "object_2": "solar panel"
+    },
+    {
+        "prompt": "A goldfish bowl set on a suitcase",
+        "spatial": "on",
+        "object_1": "goldfish bowl",
+        "object_2": "suitcase"
+    },
+    {
+        "prompt": "A cat hiding under a bench in a park",
+        "spatial": "under",
+        "object_1": "cat",
+        "object_2": "bench"
+    },
+    {
+        "prompt": "A dog sitting under a umbrella on a sunny beach",
+        "spatial": "under",
+        "object_1": "dog",
+        "object_2": "umbrella"
+    },
+    {
+        "prompt": "A squirrel darting under a car",
+        "spatial": "under",
+        "object_1": "squirrel",
+        "object_2": "car"
+    },
+    {
+        "prompt": "A frog resting under a leaf during a rainstorm",
+        "spatial": "under",
+        "object_1": "frog",
+        "object_2": "leaf"
+    },
+    {
+        "prompt": "A puppy dozing under a crowded cafe table during lunch hour",
+        "spatial": "under",
+        "object_1": "puppy",
+        "object_2": "cafe table"
+    },
+    {
+        "prompt": "A turtle resting at the bottom of a garden bench",
+        "spatial": "under",
+        "object_1": "turtle",
+        "object_2": "garden bench"
+    },
+    {
+        "prompt": "A swan swimming under a bridge",
+        "spatial": "under",
+        "object_1": "swan",
+        "object_2": "bridge"
+    },
+    {
+        "prompt": "A basket placed below a television",
+        "spatial": "below",
+        "object_1": "basket",
+        "object_2": "television"
+    },
+    {
+        "prompt": "A toy lying under a swing in a playground",
+        "spatial": "under",
+        "object_1": "toy",
+        "object_2": "swing"
+    },
+    {
+        "prompt": "A horse hiding under a table",
+        "spatial": "under",
+        "object_1": "horse",
+        "object_2": "table"
+    },
+    {
+        "prompt": "A duck waddling below a spacecraft",
+        "spatial": "below",
+        "object_1": "duck",
+        "object_2": "spacecraft"
+    },
+    {
+        "prompt": "clouds floating under a balloon",
+        "spatial": "under",
+        "object_1": "clouds",
+        "object_2": "balloon"
+    },
+    {
+        "prompt": "A parrot flying under a drone",
+        "spatial": "under",
+        "object_1": "parrot",
+        "object_2": "drone"
+    },
+    {
+        "prompt": "A cat sitting in front of a cake",
+        "spatial": "in front of",
+        "object_1": "cat",
+        "object_2": "cake"
+    },
+    {
+        "prompt": "A dog waiting patiently in front of a shop",
+        "spatial": "in front of",
+        "object_1": "dog",
+        "object_2": "shop"
+    },
+    {
+        "prompt": "A horse standing in front of a farmhouse",
+        "spatial": "in front of",
+        "object_1": "horse",
+        "object_2": "farmhouse"
+    },
+    {
+        "prompt": "A motorcycle driving in front of a building",
+        "spatial": "in front of",
+        "object_1": "motorcycle",
+        "object_2": "building"
+    },
+    {
+        "prompt": "A cow walking in front of a chair",
+        "spatial": "in front of",
+        "object_1": "cow",
+        "object_2": "chair"
+    },
+    {
+        "prompt": "A bee flying in front of a bag",
+        "spatial": "in front of",
+        "object_1": "bee",
+        "object_2": "bag"
+    },
+    {
+        "prompt": "A vase is placed in front of a window",
+        "spatial": "in front of",
+        "object_1": "vase",
+        "object_2": "window"
+    },
+    {
+        "prompt": "A bird flying in front of a tower",
+        "spatial": "in front of",
+        "object_1": "bird",
+        "object_2": "tower"
+    },
+    {
+        "prompt": "A child walking in front of a car",
+        "spatial": "in front of",
+        "object_1": "child",
+        "object_2": "car"
+    },
+    {
+        "prompt": "A car parked in front of a pig",
+        "spatial": "in front of",
+        "object_1": "car",
+        "object_2": "pig"
+    },
+    {
+        "prompt": "A balloon floating in front of an airplane",
+        "spatial": "in front of",
+        "object_1": "balloon",
+        "object_2": "airplane"
+    },
+    {
+        "prompt": "A cup in front of a turtle",
+        "spatial": "in front of",
+        "object_1": "cup",
+        "object_2": "turtle"
+    },
+    {
+        "prompt": "A fish swimming in front of a suitcase",
+        "spatial": "in front of",
+        "object_1": "fish",
+        "object_2": "suitcase"
+    },
+    {
+        "prompt": "A camel lounging in front of a snowman",
+        "spatial": "in front of",
+        "object_1": "camel",
+        "object_2": "snowman"
+    },
+    {
+        "prompt": "A cat sitting behind a cake",
+        "spatial": "behind",
+        "object_1": "cat",
+        "object_2": "cake"
+    },
+    {
+        "prompt": "A dog waiting patiently behind a cat",
+        "spatial": "behind",
+        "object_1": "dog",
+        "object_2": "cat"
+    },
+    {
+        "prompt": "A horse standing behind a man",
+        "spatial": "behind",
+        "object_1": "horse",
+        "object_2": "man"
+    },
+    {
+        "prompt": "A sculpture displayed behind a candle",
+        "spatial": "behind",
+        "object_1": "sculpture",
+        "object_2": "candle"
+    },
+    {
+        "prompt": "A motorcycle parked behind a dog",
+        "spatial": "behind",
+        "object_1": "motorcycle",
+        "object_2": "dog"
+    },
+    {
+        "prompt": "A cow walking behind a chair",
+        "spatial": "behind",
+        "object_1": "cow",
+        "object_2": "chair"
+    },
+    {
+        "prompt": "A sheep grazing behind a bicycle",
+        "spatial": "behind",
+        "object_1": "sheep",
+        "object_2": "bicycle"
+    },
+    {
+        "prompt": "A dog sitting behind a vase",
+        "spatial": "behind",
+        "object_1": "dog",
+        "object_2": "vase"
+    },
+    {
+        "prompt": "A helicopter flying behind a balloon",
+        "spatial": "behind",
+        "object_1": "helicopter",
+        "object_2": "balloon"
+    },
+    {
+        "prompt": "A child walking behind a car",
+        "spatial": "behind",
+        "object_1": "child",
+        "object_2": "car"
+    },
+    {
+        "prompt": "A car parked behind a pig",
+        "spatial": "behind",
+        "object_1": "car",
+        "object_2": "pig"
+    },
+    {
+        "prompt": "A balloon floating behind a bird",
+        "spatial": "behind",
+        "object_1": "balloon",
+        "object_2": "bird"
+    },
+    {
+        "prompt": "A cup behind a turtle",
+        "spatial": "behind",
+        "object_1": "cup",
+        "object_2": "turtle"
+    },
+    {
+        "prompt": "A bus driving behind a man",
+        "spatial": "behind",
+        "object_1": "bus",
+        "object_2": "man"
+    },
+    {
+        "prompt": "A lion sitting behind a chicken",
+        "spatial": "behind",
+        "object_1": "lion",
+        "object_2": "chicken"
+    },
+    {
+        "prompt": "A camel lounging behind a snowman",
+        "spatial": "behind",
+        "object_1": "camel",
+        "object_2": "snowman"
+    },
+    {
+        "prompt": "A girl walking on the left of an elephant",
+        "spatial": "left",
+        "object_1": "girl",
+        "object_2": "elephant"
+    },
+    {
+        "prompt": "A book on the left of a bird",
+        "spatial": "left",
+        "object_1": "book",
+        "object_2": "bird"
+    },
+    {
+        "prompt": "A cat on the left of a vase",
+        "spatial": "left",
+        "object_1": "cat",
+        "object_2": "vase"
+    },
+    {
+        "prompt": "A dog on the left of a bowl",
+        "spatial": "left",
+        "object_1": "dog",
+        "object_2": "bowl"
+    },
+    {
+        "prompt": "A girl walking on the right of an elephant",
+        "spatial": "behind",
+        "object_1": "girl",
+        "object_2": "elephant"
+    },
+    {
+        "prompt": "A book on the right of a bird",
+        "spatial": "right",
+        "object_1": "book",
+        "object_2": "bird"
+    },
+    {
+        "prompt": "A cat on the right of a vase",
+        "spatial": "right",
+        "object_1": "cat",
+        "object_2": "vase"
+    },
+    {
+        "prompt": "A dog on the right of a bowl",
+        "spatial": "right",
+        "object_1": "dog",
+        "object_2": "bowl"
+    },
+    {
+        "prompt": "A raccoon foraging under a bird feeder in a backyard",
+        "spatial": "under",
+        "object_1": "raccoon",
+        "object_2": "bird feeder"
+    },
+    {
+        "prompt": "A bonsai is placed under a painting in a room",
+        "spatial": "under",
+        "object_1": "bonsai",
+        "object_2": "painting"
+    },
+    {
+        "prompt": "A clock is placed under a book",
+        "spatial": "under",
+        "object_1": "clock",
+        "object_2": "book"
+    },
+    {
+        "prompt": "A surfboard under a horse",
+        "spatial": "under",
+        "object_1": "surfboard",
+        "object_2": "horse"
+    },
+    {
+        "prompt": "A rabbit playing under a desk",
+        "spatial": "under",
+        "object_1": "rabbit",
+        "object_2": "desk"
+    }
+]

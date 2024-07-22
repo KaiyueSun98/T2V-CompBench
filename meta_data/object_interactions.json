@@ -1,0 +1,302 @@
+[
+    {
+        "prompt": "Two cars collide at an intersection"
+    },
+    {
+        "prompt": "Football players bump into each other during a game"
+    },
+    {
+        "prompt": "A swimmer dives into a pool, creating ripples."
+    },
+    {
+        "prompt": "Iron presses down on wrinkled fabric"
+    },
+    {
+        "prompt": "Drum skin vibrates when struck by a drumstick"
+    },
+    {
+        "prompt": "A horse jumps over a fence"
+    },
+    {
+        "prompt": "Raindrops hit a tin roof"
+    },
+    {
+        "prompt": "Rope tugs against a boat"
+    },
+    {
+        "prompt": "Car brakes abruptly, stopping at a red light"
+    },
+    {
+        "prompt": "Bird lands on a branch causing it to dip"
+    },
+    {
+        "prompt": "Child kicks a soccer ball"
+    },
+    {
+        "prompt": "Dog snatches a rolling ball"
+    },
+    {
+        "prompt": "The golfer striking the ball forward"
+    },
+    {
+        "prompt": "Basketball player dribbles"
+    },
+    {
+        "prompt": "Child jumps on a trampoline, bouncing high"
+    },
+    {
+        "prompt": "Wave crashes into rocks, splashing water everywhere"
+    },
+    {
+        "prompt": "Child pushes toy car"
+    },
+    {
+        "prompt": "Bowling ball strikes pins, scattering them"
+    },
+    {
+        "prompt": "Surfer catches a wave, riding forward"
+    },
+    {
+        "prompt": "Person slips on ice, sliding forward"
+    },
+    {
+        "prompt": "A tire pump inflates a bicycle tire"
+    },
+    {
+        "prompt": "Cat's paw presses on a soft pillow"
+    },
+    {
+        "prompt": "Footsteps imprint on soft sand"
+    },
+    {
+        "prompt": "Fork tines press into a piece of cake"
+    },
+    {
+        "prompt": "A child's hand presses a clay ball into a flat disc"
+    },
+    {
+        "prompt": "A pair of scissors cuts through fabric"
+    },
+    {
+        "prompt": "Spoon stirs cream into coffee"
+    },
+    {
+        "prompt": "Dog's nose touches a reflective glass door"
+    },
+    {
+        "prompt": "An eraser removes marks from paper"
+    },
+    {
+        "prompt": "A knife slices through a ripe tomato"
+    },
+    {
+        "prompt": "Chef slices cucumber"
+    },
+    {
+        "prompt": "Soccer ball strikes window, causing it to crack"
+    },
+    {
+        "prompt": "Knife sharpens pencil"
+    },
+    {
+        "prompt": "Lightning strikes tree, splitting it in half"
+    },
+    {
+        "prompt": "Glass shatters when hit by a rock"
+    },
+    {
+        "prompt": "A mirror breaks when struck by a thrown rock"
+    },
+    {
+        "prompt": "Firewood splits under axe's chop"
+    },
+    {
+        "prompt": "Pottery shatters on the floor"
+    },
+    {
+        "prompt": "Paper burns in a fire"
+    },
+    {
+        "prompt": "Balloon pops when pricked with a needle"
+    },
+    {
+        "prompt": "Blue ink drops into water and disperses"
+    },
+    {
+        "prompt": "Butter melts on hot toast"
+    },
+    {
+        "prompt": "Mage conjures fireball in palm, controlling the flames"
+    },
+    {
+        "prompt": "A magician pulls a rabbit out of a hat"
+    },
+    {
+        "prompt": "Alice shrinks after drinking mysterious potion"
+    },
+    {
+        "prompt": "Warrior controls wind, creating a tornado"
+    },
+    {
+        "prompt": "Sorcerer summons water from thin air, flooding room"
+    },
+    {
+        "prompt": "Superhero phases through falling debris unharmed"
+    },
+    {
+        "prompt": "Water sprite freezes lake with a touch"
+    },
+    {
+        "prompt": "Man teaches robot to play chess"
+    },
+    {
+        "prompt": "Woman discusses project with colleague over coffee"
+    },
+    {
+        "prompt": "Boy shares ice cream with his dog"
+    },
+    {
+        "prompt": "Cats chase each other around the living room"
+    },
+    {
+        "prompt": "Girl reads bedtime story to her stuffed bear"
+    },
+    {
+        "prompt": "Business partners shake hands on a new deal"
+    },
+    {
+        "prompt": "Child plays with family dog at the beach"
+    },
+    {
+        "prompt": "Old friends hug each other at a reunion"
+    },
+    {
+        "prompt": "Couple dances closely at a dimly lit party"
+    },
+    {
+        "prompt": "Fisherman feeds seagulls at the dock"
+    },
+    {
+        "prompt": "Mother teaches son how to tie his shoes"
+    },
+    {
+        "prompt": "Two wolves howl together under a full moon"
+    },
+    {
+        "prompt": "Two monkeys groom each other on a tree branch"
+    },
+    {
+        "prompt": "Coach motivates athlete during a tough workout"
+    },
+    {
+        "prompt": "Customer negotiates price with a street vendor"
+    },
+    {
+        "prompt": "Rabbit in a suit negotiates carrot deal with farmer"
+    },
+    {
+        "prompt": "Business cat types on laptop"
+    },
+    {
+        "prompt": "Owl teacher explains math to squirrel students"
+    },
+    {
+        "prompt": "Bear chef tastes honey from his gourmet kitchen"
+    },
+    {
+        "prompt": "Dapper wolf discusses stock market trends"
+    },
+    {
+        "prompt": "Giraffe painter reaches high walls without a ladder"
+    },
+    {
+        "prompt": "Mouse detective investigates cheese theft"
+    },
+    {
+        "prompt": "Duck journalist interviews a famous goose"
+    },
+    {
+        "prompt": "Tiger coach whistles at soccer practice"
+    },
+    {
+        "prompt": "Raccoon trash collector cleans up the park"
+    },
+    {
+        "prompt": "Penguin waiter slides dinner to customers"
+    },
+    {
+        "prompt": "Rabbit tailor sews fabric into a dress"
+    },
+    {
+        "prompt": "Beaver architect designs a dam"
+    },
+    {
+        "prompt": "Sloth librarian arranges books slowly but surely"
+    },
+    {
+        "prompt": "Dog firefighter rescues kittens from a tree"
+    },
+    {
+        "prompt": "Rabbit police officer directs traffic"
+    },
+    {
+        "prompt": "Bear journalist interviews a celebrity"
+    },
+    {
+        "prompt": "Friends share stories around bonfire, under starry night sky"
+    },
+    {
+        "prompt": "Violinist and pianist captivate with harmonious duet performance"
+    },
+    {
+        "prompt": "Astronauts repair spacecraft, floating weightlessly in vastness of space"
+    },
+    {
+        "prompt": "Gardener tenderly prunes bonsai tree, creating natural art"
+    },
+    {
+        "prompt": "Girl and grandmother bake cookies, laughter filling the kitchen"
+    },
+    {
+        "prompt": "Elderly man feeds pigeons, surrounded by fluttering wings"
+    },
+    {
+        "prompt": "A group of elephants playfully spray water at each other"
+    },
+    {
+        "prompt": "A young girl and her teddy bear have a tea party"
+    },
+    {
+        "prompt": "A child and a puppy embark on an adventure through a forest"
+    },
+    {
+        "prompt": "A pack of wolves howl in harmony, their voices echoing through the night"
+    },
+    {
+        "prompt": "A parent and child build a sandcastle together"
+    },
+    {
+        "prompt": "A conductor leads an orchestra, guiding the musicians to create a harmonious symphony"
+    },
+    {
+        "prompt": "A dog and a cat playfully chase each other"
+    },
+    {
+        "prompt": "A group of children engage in a lively game of jump rope"
+    },
+    {
+        "prompt": "A couple dances under the moonlight, their steps perfectly in sync with the romantic melody"
+    },
+    {
+        "prompt": "A group of volunteers clean up a beach, working together to protect the environment"
+    },
+    {
+        "prompt": "A parent teaches a child to ride a bike"
+    },
+    {
+        "prompt": "A group of firefighters work together, battling the flames and saving lives"
+    },
+    {
+        "prompt": "A parent and child plant a garden, nurturing plants and watching them grow"
+    }
+]

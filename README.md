@@ -123,6 +123,7 @@ step 1: prepare the input images
 python Depth-Anything/run_depth.py --output_dir ../output_spatial_depth --read-prompt-file ../meta_data/spatial_relationships.json --video-path ../video/spatial_relationships --t2v-model mymodel
 ```
 The depth images will be stored in the `../output_spatial_depth` directory.
+
 The frame images will be stored in the default path: `../video/frames/spatial_relationships/`
 
 step 2: 
@@ -131,7 +132,11 @@ python Grounded-Segment-Anything/eval_spatial_relationships.py --output-path ../
 ```
 
 The output frame images showing the bounding boxes of 2d spatial relationships will be stored in the `../output_2D_spatial/` directory.
+
 The output frame images showing the bounding boxes and object segmentations of 3d spatial relationship will be stored in the `../output_3D_spatial` directory.
+
 The frame scores will be saved in `../csv_spatial/mymodel_2dframe.csv` and `../csv_spatial/mymodel_3dframe.csv`.
+
 They will be combined to calculate the video scores, which will be saved in `../csv_spatial/mymodel_2dvideo.csv` and `../csv_spatial/mymodel_3dvideo.csv`.
+
 The final score of the model in this category (spatial relationships) will be saved in the last line of `../csv_spatial/mymodel_3dvideo.csv`.

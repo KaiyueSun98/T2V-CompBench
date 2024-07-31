@@ -40,6 +40,7 @@ Note: The numerical names of the video files are just to indicate the reading or
 After obtaining the official LLaVA code, place the following evaluation scripts in the `LLaVA/llava/eval` directory:
 
 - `eval_consistent_attr.py`
+- `eval_dynamic_attr.py`
 - `eval_action_binding.py`
 - `eval_interaction.py`
 
@@ -53,7 +54,21 @@ Prepare the video path for `--video-path` and run the following command:
 python llava/eval/eval_consistent_attr.py --video-path ../video/consistent_attr --output-path ../csv_output_consistent_attr --read-prompt-file ../meta_data/consistent_attribute_binding.json --t2v-model mymodel
 ```
 
-The output will be a CSV file named f"{mymodel}_consistent_attr_score.csv" in the `../csv_output_consistent_attr` directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
+The conversations with the MLLM will be saved in a CSV file: `../csv_output_consistent_attr/mymodel_consistent_attr_score.csv`. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score". 
+
+The final score of the model in this category (consistent attribute binding) will be saved in the last line of this CSV file.
+
+##### Dynamic Attribute Binding
+
+Input the video path and run:
+
+```
+python llava/eval/eval_dynamic_attr.py --video-path ../video/dynamic_attr --output-path ../csv_output_dynamic_attr --read-prompt-file ../meta_data/dynamic_attribute_binding.json --t2v-model mymodel
+```
+
+The conversations with the MLLM will be saved in a CSV file: `../csv_output_dynamic_attr/mymodel_dynamic_attr_score.csv`. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score". 
+
+The final score of the model in this category (dynamic attribute binding) will be saved in the last line of this CSV file.
 
 ##### Action Binding
 
@@ -63,7 +78,9 @@ Input the video path and run:
 python llava/eval/eval_action_binding.py --video-path ../video/action_binding --output-path ../csv_output_action_binding --read-prompt-file ../meta_data/action_binding.json --t2v-model mymodel
 ```
 
-The output will be a CSV file named f"{mymodel}_action_binding_score.csv" in the `../csv_output_action_binding` directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
+The conversations with the MLLM will be saved in a CSV file: `../csv_output_action_binding/mymodel_action_binding_score.csv`. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score". 
+
+The final score of the model in this category (action binding) will be saved in the last line of this CSV file.
 
 ##### Object Interactions
 
@@ -73,7 +90,9 @@ Input the video path and run:
 python llava/eval/eval_interaction.py --video-path ../video/interaction --output-path ../csv_output_object_interactions --read-prompt-file ../meta_data/object_interactions.json --t2v-model mymodel
 ```
 
-The output will be a CSV file named f"{mymodel}_object_interactions_score.csv" in the `../csv_output_object_interactions` directory. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score".
+The conversations with the MLLM will be saved in a CSV file: `../csv_output_object_interactions/mymodel_object_interactions_score.csv`. The video name, prompt, and score for each text-video pair will be recorded in the columns named of "name","prompt", "Score". 
+
+The final score of the model in this category (object interactions) will be saved in the last line of this CSV file.
 
 ## Detection-based Evaluation
 We use GroundingDINO as the detection tool to evaluate the two categories: 2D spatial relationships and generative numeracy.

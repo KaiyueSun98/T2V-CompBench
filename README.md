@@ -141,6 +141,28 @@ They will be combined to calculate the video scores, which will be saved in `../
 
 The final score of the model in this category (spatial relationships) will be saved in the last line of `../csv_spatial/mymodel_3dvideo.csv`.
 
+##### Generative Numeracy
+
+You can reuse the official implementation of GroundingSAM and its environment by placing the following evaluation script in the `Grounded-Segment-Anything/GroundingDINO/demo` directory:
+
+- `eval_numeracy.py`
+
+Or you can refer to [GroundingDINO's GitHub repository](https://github.com/IDEA-Research/GroundingDINO/tree/main) to install the required environment dependencies and download the weights. Then place the the same evaluation script in the `GroundingDINO/demo` directory
+
+Compute the evaluation metric:
+
+Generative numeracy:  
+```
+python eval_numeracy.py --video-path ../video/generative_numeracy --read-prompt-file ../meta_data/generative_numeracy.json --t2v-model mymodel --output_dir ../output_numeracy/ --output-path ../csv_numeracy
+```
+The output frame images showing the object bounding boxes will be stored in the `../output_numeracy/mymodel` directory.
+
+The frame scores will be saved in `../csv_numeracy/mymodel_numeracy_frame.csv`.
+
+They will be combined to calculate the video scores, which will be saved in `../csv_numeracy/mymodel_numeracy_video.csv` and `../csv_spatial/mymodel_3dvideo.csv`.
+
+The final score of the model in this category (generative numeracy) will be saved in the last line of `../csv_numeracy/mymodel_numeracy_video.csv`.
+
 ## Tracking-based Evaluation
 We use GroundingSAM + DOT to evaluate motion binding.
 

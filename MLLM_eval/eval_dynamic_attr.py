@@ -170,8 +170,8 @@ def load_images(image_files):
 def eval_model(args):
     
     video_path = args.video_path
-    video_preprocess = video_preprocess()
-    frame_folder = video_preprocess.convert_video_to_frames(video_path)
+    vid_preprocess = video_preprocess()
+    frame_folder = vid_preprocess.convert_video_to_frames(video_path)
     
     # Model
     disable_torch_init()

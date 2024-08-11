@@ -173,8 +173,8 @@ def extract_json(string):
 def eval_model(args):
     # preprocess: video 2 grid
     video_path = args.video_path
-    video_preprocess = video_preprocess()
-    image_grid_path = video_preprocess.convert_video_to_grid(video_path)
+    vid_preprocess = video_preprocess()
+    image_grid_path = vid_preprocess.convert_video_to_grid(video_path)
     
     # Model
     disable_torch_init()

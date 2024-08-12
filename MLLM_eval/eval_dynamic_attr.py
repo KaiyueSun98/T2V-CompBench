@@ -327,7 +327,7 @@ Provide your analysis and explanation in JSON format with the following keys: sc
             flag = 0
             flag_cnt = 0 # for intermediate state
             intermediate_frames = 16 - 2
-            frame_array = np.range(1,15)
+            frame_array = np.arange(1,15)
             for j, inter_state in enumerate(frame_array):
                 image_file = [os.path.join(frame_folder,frame_images[i],image_files[inter_state])]
                 images = load_images(image_file)

@@ -7,7 +7,7 @@ import numpy as np
 import scipy
 import math
 
-from dot.utils.options.CODE_demo_options import DemoOptions
+from dot.utils.options.demo_options import DemoOptions
 from dot.models import create_model
 from dot.utils.io import create_folder, write_video, read_video, read_frame
 from dot.utils.torch import to_device, get_grid

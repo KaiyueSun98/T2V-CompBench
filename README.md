@@ -23,12 +23,14 @@ This repository is the official implementation of the following paper:
   - [Generative Numeracy](#generative_numeracy)
 - [Tracking-based Evaluation](#tracking_eval)
   - [Motion Binding](#motion_binding)
+- [Sampled Videos](#sampled_videos)
 - [Evaluate Your Own Videos](#eval_your_own)
 - [Citation](#citation)
 
 <a name="updates"></a>
 ## 🚩 Updates
 - :black_square_button: [TODO] T2V-CompBench Leaderboard
+- ✅ [08/2024] Release the generated videos for T2V-CompBench evaluation.
 - ✅ [07/2024] Release the evaluation code for 7 categories in compositional Text-to-Video (T2V) generation.
 - ✅ [07/2024] Release the prompt dataset and metadata.
   
@@ -364,6 +366,10 @@ The score for each video will be saved in `../csv_motion_binding/mymodel_score.c
 
 The final score of the model in this category (motion) will be saved in the last line of `../csv_motion_binding/mymodel_score.csv`.
 
+<a name="sampled_videos"></a>
+## :film_strip: Sampled Videos
+To facilitate future research and ensure complete transparency, we release all the videos we sampled and used for the T2V-CompBench evaluation.
+You can download them on [OneDrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/kaiyue_connect_hku_hk/EjXmmz0XXQBFu_EMmBM2WCkBI9iuATOib-dC3GLBUmCuIw?e=a6lFCC).
 
 
 <a name="eval_your_own"></a>

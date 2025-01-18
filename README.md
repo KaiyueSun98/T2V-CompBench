@@ -45,8 +45,7 @@ We propose **T2V-CompBench**, the first benchmark tailored for **compositional t
 ## :mortar_board: Evaluation Results
 We benchmark 17 publicly available text-to-video generation models and 6 commercial models including Kling, Gen-3, Gen-2, Pika, Dreamina and PixVerse. We normalize the results for clearer comparisons. 
 Please see our leaderboard for the most updated ranking and numerical results. <a href='https://huggingface.co/spaces/Kaiyue/T2V-CompBench_Leaderboard'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Leaderboard-blue'></a> 
-![ranking](./asset/ranking.png
-)
+![ranking](./asset/ranking.png)
 
 <a name="leaderboard"></a>
 ## :mortar_board: How to join T2V-CompBench Leaderboard

@@ -1,0 +1,200 @@
+A cat slinking to the left side of a cozy living room
+A golden retriever scampering leftwards across a garden
+A squirrel darting leftwards in a garden
+A boat sails to the left on the ocean
+A rabbit hops from left to right in a garden 
+A drone flies leftwards while a bird swoops rightwards
+A ball rolls left while a puppy dashes right
+A cat walks from left to right on a table
+A cyclist pedals from the left side to the right side on a street
+A fish swims across the coral from left to right in the sea
+A kite flies left to right on a windy day
+An elderly man walking slowly to the right in a sunny park
+A soccer ball being kicked hard to the right
+A paper airplane gliding to the right across a classroom
+A frisbee flying right towards a waiting dog in a park
+A balloon drifts left to right above a statue in a city square
+A fox sneaks past a sleeping dog from right to the left in the forest
+A deer runs leftward through the forest, an owl flies rightward above
+A red balloon guadually ascending above a crowded festival
+A drone ascending towards the clouds
+A balloon slowly ascending at an outdoor birthday party
+A bird flies upwards in a garden
+Wind gust lifts a kite into the sky
+A butterfly gracefully ascends and a stone is dropped into a tranquil pond
+A squirrel climbs upward on a tree
+A skateboard descending a steep ramp at a skate park
+A building block slides down from a slope
+Sled slides down a snowy hill
+An apple falling downwards from a tree in an orchard
+A penny dropping downwards into a wishing well
+Book falls off a shelf
+A leaf gently descending from a tree in autumn
+A mouse darts rightward across a kitchen floor beneath a chair
+A submarine descends into the ocean
+A cat slinking to the right side of a living room
+A golden retriever scampering rightwards across a garden
+A squirrel darting rightwards in a garden
+A boat sails to the right on the ocean
+A rabbit hops from right to left in a garden 
+A drone flies rightwards in the sky
+A ball rolls right while a puppy dashes left
+A cat walks from right to left on a table
+A cyclist pedals from the right side to the left side on a street
+A fish swims from right to left in the sea
+A robot vacuum is sweeping the floor from left to right
+A robot vacuum is sweeping the floor from right to left
+A drone is gradually descending to the ground in a park
+A kite flies right to left on a windy day
+An elderly man walking slowly to the left in a sunny park
+A soccer ball being kicked hard to the left
+A paper airplane gliding to the left across a classroom
+A frisbee flying left towards a waiting dog in a park
+A balloon drifts right to left above a statue in a city square
+A deer runs rightwards through the forest, an owl flies leftwards above
+A firefly moving smoothly from the right side of the screen to the left side, disappearing upon reaching the left end
+A firefly moving smoothly from the left side of the screen to the right side, disappearing upon reaching the right end
+A car driving left to right on the moon
+A car driving right to left on the moon
+A robot walking from left to right in a factory
+A robot walking from right to left in a factory
+A flower floats left to right by the flowing stream
+A flower floats right to left by the flowing stream
+A football rolling from the left to the right on the grass
+A football rolling from the right to the left on the grass
+A sailboat sails from right to left across the blue waters
+A sailboat sails from left to right across the blue waters
+An egg rolling from the left to right on the table
+An egg rolling from the right to left on the table
+A basketball is thrown from left to the right 
+A basketball is thrown from right to the left 
+A robot walking from right to left across the moon with a car driving left to right in the background
+A robot walking from left to right across the moon with a car driving right to left in the background
+A red balloon guadually descending in the sky
+The parachute gradually descends onto the beach
+A squirrel climbs downwards from a tree
+A child climbs down the slide 
+A man tumbling down a steep hill
+The sun begins its descent, gradually sinking below the horizon
+A kite gracefully floating downwards
+A paper airplane slowly descending, gracefully landing on the grass.
+A feather gracefully gliding down to the desk
+A snowflake falling softly from the sky
+A helicopter gracefully descending to land
+A spider gracefully lowering itself down from its web
+A toy car drives from left to right, passing miniature buildings and trees
+A fish dives downward in the deep sea
+A mouse darts leftwards across a kitchen floor beneath a chair
+A fluffy teddy bear tumbles down from the wall and gently lands on a cozy bed in a bedroom
+A submarine ascends from the ocean
+A cyberpunk chibi cat riding in rocket upwards
+The sun rises, moving upwards behind stationary buildings
+A bird flies upwards in a garden
+A child climbs up the slide 
+A gift box falls from the top to the bottom of the screen, set against a white background
+A pink star rises from the bottom to the top of the screen, set against a blue background
+A lantern rise into the night sky
+A butterfly flying upwards towards a blue and bright sky
+A purple heart floating upward in a white background 
+A bubble floats upwards, shimmering and reflecting the sunlight
+A cat climbing up a tall christmas tree
+A car speeds left, tires squealing as it cuts across the intersection.
+A horse gallops left across the meadow, mane flying in the wind.
+A fresh orange rolls left across the countertop, leaving a faint citrus scent.
+A vibrant bird flutters leftwards, wings catching the morning light.
+A chair is dragged left across the wooden floor, legs screeching softly.
+A shiny bottle rolls leftwards on the picnic table
+A sleek motorcycle cruises left along the highway, engine roaring.
+A fluffy sheep trots left through the lush green field, its wool bouncing gently with each step.
+A strong camel strides left across the golden desert
+A bright lantern floats left down the river, its warm glow reflecting off the gentle ripples.
+A penguin waddles left, leaving a trail of tiny footprints in the pristine snow.
+A gentle swan glides left over the lake, its feathers creating small, graceful ripples in the water.
+A suitcase rolls left, its wheels spinning smoothly as it moves across the polished floor.
+A helmet is pushed left across the table, its visor reflecting the bright overhead light.
+A tractor moves left across the field, its large tires leaving deep defined tracks in the soil.
+A pumpkin rolls left off the haystack, its round body bouncing gently on the ground.
+A spaceship accelerates left through the starry void, its metallic exterior shimmering under distant starlight.
+A watermelon rolls left across the picnic blanket
+A skateboard glides left along the pavement, its wheels spinning rapidly beneath a vibrant deck.
+A large cake is pushed left across the counter
+A car speeds right, tires squealing as it cuts across the intersection.
+A horse gallops right across the meadow, mane flying in the wind.
+A fresh orange rolls right across the countertop, leaving a faint citrus scent.
+A chair is dragged right across the wooden floor, legs screeching softly.
+A sleek motorcycle cruises right along the highway, engine roaring.
+A fluffy sheep trots right through the lush green field, its wool bouncing gently with each step.
+A strong camel strides right across the golden desert
+A bright lantern floats right down the river, its warm glow reflecting off the gentle ripples.
+A gentle swan glides right over the lake, its feathers creating small, graceful ripples in the water.
+A suitcase rolls right, its wheels spinning smoothly as it moves across the polished floor.
+A tractor moves right across the field, its large tires leaving deep defined tracks in the soil.
+A spaceship accelerates right through the starry void, its metallic exterior shimmering under distant starlight.
+A watermelon rolls right across the picnic blanket
+A skateboard glides right along the pavement, its wheels spinning rapidly beneath a vibrant deck.
+The spaceship launches upward into the sky, trailing a brilliant glow. 
+A fluffy pillow is tossed upward into the air, feathers fluffing out as it rises. 
+A helicopter ascends upward from the helipad, blades spinning furiously. 
+A large flag is hoisted upward on the flagpole, unfurling and catching the breeze as it rises.
+A hot air balloon ascends upward, with majestic mountains stretching across the backdrop.
+A tennis ball is tossed upward into the air, bouncing higher with each spin. 
+A soccer ball is kicked upward into the air, spinning rapidly as it soars over the green field
+A basketball arcs upward from a jump shot, heading toward the hoop.
+An apple is tossed upward from a basket.
+An orange is thrown upward into the air in the kitchen.
+A golden leaf is lifted upward by a playful gust of wind, spinning and twirling through the air. 
+A parrot flies upward from a roof.
+A statue is raised upward onto a plinth by a crane, standing tall against the city skyline as it takes its place.
+A rubber ball is thrown upward, soaring high above the playground.
+A ceramic vase is lifted upward on an invisible wire during a photoshoot, the intricate floral designs glowing under the studio lights.
+A balloon is released upward at a wedding, the surface shimmering in the sunlight as it drifts higher.
+A paper airplane soars upward, catching the wind and gliding above the playground.
+An airplane lifts upward from the runway, engines roaring as it ascends into the clouds.
+A white dove flaps its wings and rises upward, soaring gracefully into the sky above the old chapel.
+A sofa is carried upward by a giant helium balloon, floating lazily into the sky above a summer festival.
+A pair of sunglasses float upward on a subtle air cushion, lenses reflecting a beach scene.
+A car is lifted upward on a platform, wheels spinning as bright showroom lights showcase glossy detail.
+A luxury handbag is hoisted upward by delicate gold chains.
+The spaceship descends slowly toward the landing pad, landing gears extending beneath it.
+A fluffy pillow drops downward onto the bed, sinking softly into the duvet.
+A helicopter descends downward, landing skids meeting the ground with precision.
+A large flag is lowered downward along a flagpole.
+A hot air balloon floats downward, it gently approaches the grassy field.
+A tennis ball drops downward, landing back onto the clay court.
+A soccer ball falls downward, descending toward the grass. 
+A basketball drops downward, falling back to the court.
+An apple falling downward, gently landing in a basket.
+An orange falls downward, landing into the outstretched hands of a farmer.
+A golden leaf flutters downward, settling quietly onto a table.
+A parrot swoops downward, landing gracefully on a nearby branch.
+A statue is lowered downward by a crane from the pedestal.
+A rubber ball falling downward to the pavement on a street.
+A ceramic vase is lowered downward onto a marble tabletop from the mid-air.
+A balloon descends downward from the mid-air, leaving it to rest on the sandy beach.
+A dog sprints leftward across the park, while a cat slinks rightward.
+A dog sprints rightward across the park, while a cat slinks leftward.
+A car speeds leftward down the busy street, while a motorcycle roars rightward.
+A car speeds rightward down the busy street, while a motorcycle roars leftward.
+A white swan glides leftward across the lake, while a duck paddles rightward
+A white swan glides rightward across the lake, while a duck paddles leftward
+A watermelon rolls right across the picnic blanket, while an orange rolls left
+A watermelon rolls left across the picnic blanket, while an orange rolls right
+A kite rises upward, while an apple falls downward
+An apple rises upward, while a kite falls downward
+A tennis ball is tossed upward into the air, while a soccer ball falls downward, descending toward the grass.
+A soccer ball is tossed upward into the air, while a tennis ball falls downward, descending toward the grass.
+An apple is tossed upward from a basket, while an orange falling downward, gently landing in a basket.
+An orange is tossed upward from a basket, while an apple falling downward, gently landing in a basket.
+A hot air balloon rises upward into the morning sky, while a bird swoops downward, diving gracefully toward the treetops.
+A yellow balloon floats upward into the sky, while a dry autumn leaf falls downward to the ground.
+A golden leaf flutters upward and a parrot swoops downward
+A golden leaf flutters downward and a parrot swoops upward
+A rubber ball falling downward and a balloon is released upward
+A balloon falling downward and a rubber ball is thrown upward
+A statue is lowered downward by a crane from the pedestal and a ceramic vase is lifted upwards
+A ceramic vase is lowered downward by a crane and a statue is lifed upwards from the pedestal
+The spaceship descends slowly toward the landing pad, while a helicopter ascends upward
+The spaceship launches upward into the sky, while a helicopter descends downward
+A fluffy pillow drops downward onto the bed, while a teddy bear rises upwards to the mid-air
+A teddy bear drops downward onto the bed, while a fluffy pillow rises upwards to the mid-air
+A large flag is hoisted upward on the flagpole, while a bird flying downwards from the flagpole to the ground

@@ -1,0 +1,200 @@
+A dog running on the left of a bicycle
+A cat sitting on the left of a fireplace
+A bird flying on the left side of a hot air balloon
+A toddler walking on the left of a dog in a park
+A squirrel on the left of an old house
+A photographer setting up a tripod on the left of a tree
+A child building a sandcastle on the left of a beach umbrella
+A bee flying on the left of a flower
+A penguin standing on the left side of a cactus in a desert
+A sheep grazing on the left of a surfboard on a sandy beach
+A gorilla sitting on the left side of a vending machine in a forest
+An elephant standing on the left of a rowboat in a small pond
+A llama walking on the left side of a motorcycle in a city street
+A squirrel on the left of a birthday cake at a party in the park
+A dog running on the right of a bicycle
+A cat sitting on the right of a fireplace
+A bird flying on the right side of a hot air balloon
+A toddler walking on the right of a dog in a park
+A squirrel on the right of an old house
+A photographer setting up a tripod on the right of a tree
+A child building a sandcastle on the right of a beach umbrella
+A bee flying on the right of a flower
+A penguin standing on the right side of a cactus in a desert
+A sheep grazing on the right of a surfboard on a sandy beach
+A gorilla sitting on the right side of a vending machine in a forest
+An elephant standing on the right of a rowboat in a small pond
+A llama walking on the right side of a motorcycle in a city street
+A squirrel on the right of a birthday cake at a party in the park
+A traffic light suspended above a bicycle
+A clock mounted above an ancient door in a bustling old town
+A kite stuck in a tree above a boy in a park
+A hot air balloon floating above a sheep
+A hammock strung between two trees above a suitcase
+A banner fluttering above a house
+A chandelier hanging above a grand piano in a busy hotel lobby
+A rabbit playing on a table
+A backpack placed on a table in a bustling coffee shop
+A hat left on a statue in a busy park
+A frog perched on a refrigerator in a busy kitchen
+A cat lounging on top of a television in a living room
+A rabbit sitting on a drum in the middle of a rock concert
+A dog sitting atop a moving robot vacuum in a room
+A lizard basking on a solar panel on a hot day
+A goldfish bowl set on a suitcase
+A cat hiding under a bench in a park
+A dog sitting under a umbrella on a sunny beach
+A squirrel darting under a car
+A frog resting under a leaf during a rainstorm
+A puppy dozing under a crowded cafe table during lunch hour
+A turtle resting at the bottom of a garden bench
+A swan swimming under a bridge
+A basket placed below a television
+A toy lying under a swing in a playground
+A horse hiding under a table
+A duck waddling below a spacecraft
+clouds floating under a balloon
+A parrot flying under a drone
+A cat sitting in front of a cake
+A dog waiting patiently in front of a shop
+A horse standing in front of a farmhouse
+A motorcycle driving in front of a building
+A cow walking in front of a chair
+A bee flying in front of a bag
+A vase is placed in front of a window
+A bird flying in front of a tower
+A child walking in front of a car
+A car parked in front of a pig
+A balloon floating in front of an airplane
+A cup in front of a turtle
+A fish swimming in front of a suitcase
+A camel lounging in front of a snowman 
+A cat sitting behind a cake
+A dog waiting patiently behind a cat
+A horse standing behind a man
+A sculpture displayed behind a candle
+A motorcycle parked behind a dog
+A cow walking behind a chair
+A sheep grazing behind a bicycle
+A dog sitting behind a vase
+A helicopter flying behind a balloon
+A child walking behind a car
+A car parked behind a pig
+A balloon floating behind a bird
+A cup behind a turtle
+A bus driving behind a man
+A lion sitting behind a chicken
+A camel lounging behind a snowman
+A girl walking on the left of an elephant
+A book on the left of a bird
+A cat on the left of a vase
+A dog on the left of a bowl
+A girl walking on the right of an elephant
+A book on the right of a bird
+A cat on the right of a vase
+A dog on the right of a bowl
+A raccoon foraging under a bird feeder in a backyard
+A bonsai is placed under a painting in a room
+A clock is placed under a book
+A surfboard under a horse
+A rabbit playing under a desk
+A traffic light suspended under a bicycle
+A clock mounted under an ancient door in a bustling old town
+A hot air balloon floating under a sheep
+A hammock strung between two trees under a suitcase
+A chandelier hanging under a grand piano in a busy hotel lobby
+A backpack placed under a table in a bustling coffee shop
+A frog perched under a refrigerator in a busy kitchen
+A cat lounging under a television in a living room
+A rabbit sitting under a drum in the middle of a rock concert
+A lizard hide under a solar panel on a hot day
+A goldfish bowl set under a suitcase 
+A cat sitting on a bench in a park
+A dog sitting on a umbrella on a sunny beach
+A squirrel darting above a car
+A frog resting on a leaf during a rainstorm
+A puppy dozing on a crowded cafe table during lunch hour
+A turtle walking on a garden bench
+A swan landing on a bridge
+A basket placed above a television
+A toy lying on a swing in a playground
+A horse standing on a table
+A duck waddling on a spacecraft
+clouds floating above a balloon
+A parrot flying above a drone
+A donut placed above a handbag
+A donut placed under a handbag
+A horse galloping in front of a fence
+A spaceship hovering in front of a skyscraper
+A rabbit hopping in front of a bicycle
+A dolphin gliding in front of a ship
+A goat grazing in front of a tractor
+A robot wheeling in front of a computer
+A cat sneaking in front of a window
+A plane flying in front of a rainbow
+A bear sniffing in front of a picnic table
+A dog running in front of a bench
+A teacher explaining in front of a chalkboard
+A soldier saluting in front of a flagpole
+A girl painting in front of an easel
+A runner stretching in front of a bench in the park
+A child laughing in front of a dining table
+A baby crawls in front of a dog
+A horse galloping behind a fence
+A spaceship hovering behind a skyscraper
+A rabbit hopping behind a bicycle
+A dolphin gliding behind a ship
+A goat grazing behind a tractor
+A robot wheeling behind a computer
+A cat sneaking behind a window
+A plane flying behind a rainbow
+A bear sniffing behind a picnic table
+A soldier saluting behind a flagpole
+A girl painting behind an easel
+A runner stretching behind a bench in the park
+A child laughing behind a dining table
+A baby crawls behind a dog
+A robot dancing on the left of a backpack
+A teddy bear reading on the left of the bookcase
+A squirrel hiding on the left of a pumpkin
+A swan gliding gracefully on the left of the lily pad
+A puppy playing on the left of a basket.
+A turtle basking in the sun on the left of the potted plant
+A tractor plowing on the left of a farmhouse
+A dress hanging on the left of a mirror
+A jacket draped on the left of a chair
+A book lying open on the left of a cup
+A flag waving proudly on the left of the historic castle
+A baby crawling on the left of a kitten in the living room
+A robot dancing on the right of a backpack
+A teddy bear reading on the right of the bookcase.
+A squirrel hiding on the right of a pumpkin
+A swan gliding gracefully on the right of the lily pad
+A puppy playing on the right of a basket
+A turtle basking in the sun on the right of the potted plant
+A tractor plowing on the right of a farmhouse
+A dress hanging on the right of a mirror
+A jacket draped on the right of a chair
+A book lying open on the right of a cup
+A flag waving proudly on the right of the historic castle
+A baby crawling on the right of a kitten in the living room
+A sheep grazing on the left of a pumpkin.
+A penguin waddling on the left of a box.
+A turtle crawling on the left of a basket.
+A girl reading a book on the left of a bicycle.
+A sheep grazing on the right of a pumpkin.
+A penguin waddling on the right of a box.
+A turtle crawling on the right of a basket.
+A girl reading a book on the right of a bicycle.
+A teddy bear reading a book on top of a pillow.
+A vase stands on top of a crawling turtle.
+A surfboard balances on top of a running car.
+A teddy bear reading a book under a pillow.
+A vase rolling under a turtle.
+A surfboard stored beneath a parked car.
+A turtle crawling in front of a basket
+A girl walking in front of a bicycle
+A boy reading in front of a bench
+A turtle crawling behind a basket
+A girl walking behind a bicycle
+A boy reading behind a bench

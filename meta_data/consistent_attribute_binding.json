@@ -1,0 +1,802 @@
+[
+    {
+        "prompt": "A blue car drives past a white picket fence on a sunny day",
+        "phrases": "a blue car; a white picket fence"
+    },
+    {
+        "prompt": "A black dog sits beside a red vase on a table",
+        "phrases": "a black dog; a red vase"
+    },
+    {
+        "prompt": "Red toaster toasting bread beside a white refrigerator",
+        "phrases": "red toaster; a gray refrigerator"
+    },
+    {
+        "prompt": "Green parrot perching on a brown chair",
+        "phrases": "green parrot; a brown chair"
+    },
+    {
+        "prompt": "Yellow rubber duck floating next to a blue bath towel",
+        "phrases": "yellow rubber duck; a blue bath towel"
+    },
+    {
+        "prompt": "Blue umbrella shielding a pink picnic blanket",
+        "phrases": "blue umbrella; a pink picnic blanket"
+    },
+    {
+        "prompt": "Green tractor plowing near a white farmhouse",
+        "phrases": "green tractor; a white farmhouse"
+    },
+    {
+        "prompt": "Orange cat sleeping on a purple cushion",
+        "phrases": "orange cat; a purple cushion"
+    },
+    {
+        "prompt": "Black swan gliding past a green lily pad",
+        "phrases": "black swan; a green lily pad"
+    },
+    {
+        "prompt": "Brown squirrel climbing a black lamp post",
+        "phrases": "brown squirrel; a black lamp post"
+    },
+    {
+        "prompt": "Green taxi drives past a yellow building",
+        "phrases": "green taxi; a yellow building"
+    },
+    {
+        "prompt": "Blue jay swooping near a red maple tree",
+        "phrases": "blue jay; a red maple tree"
+    },
+    {
+        "prompt": "Pink motorcycle weaving through orange traffic cones",
+        "phrases": "pink motorcycle; orange traffic cones"
+    },
+    {
+        "prompt": "Yellow curtains swaying near a blue sofa",
+        "phrases": "yellow curtains; a blue sofa"
+    },
+    {
+        "prompt": "Blue curtains swaying near a yellow sofa",
+        "phrases": "blue curtains; a yellow sofa"
+    },
+    {
+        "prompt": "Yellow school bus stopping in front of a red building",
+        "phrases": "yellow school bus; a red building"
+    },
+    {
+        "prompt": "White tractor plowing near a green farmhouse",
+        "phrases": "white tractor; a green farmhouse"
+    },
+    {
+        "prompt": "Man in a black suit driving a red sports car",
+        "phrases": "a man in a black suit; a red sports car"
+    },
+    {
+        "prompt": "Girl in pink sweater holding a golden trophy",
+        "phrases": "a girl in a pink sweater; a golden trophy"
+    },
+    {
+        "prompt": "Man in a red suit driving a black sports car",
+        "phrases": "a man in a red suit; a black sports car"
+    },
+    {
+        "prompt": "Yellow pencil writing on a green notebook",
+        "phrases": "yellow pencil; a green notebook"
+    },
+    {
+        "prompt": "Round soccer ball bouncing near a square scoreboard",
+        "phrases": "round soccer ball; a square scoreboard"
+    },
+    {
+        "prompt": "Cylindrical thermos pouring into a conical paper cup",
+        "phrases": "cylindrical thermos; a conical paper cup"
+    },
+    {
+        "prompt": "Oblong canoe gliding past a circular buoy",
+        "phrases": "oblong canoe; a circular buoy"
+    },
+    {
+        "prompt": "Pyramidal tent sheltering a round grill",
+        "phrases": "pyramidal tent; a round grill"
+    },
+    {
+        "prompt": "Rectangular briefcase swinging near a hexagonal fountain",
+        "phrases": "rectangular briefcase; a hexagonal fountain"
+    },
+    {
+        "prompt": "Conical hat spinning beside a square cake",
+        "phrases": "conical hat; a square cake"
+    },
+    {
+        "prompt": "Cylindrical bin rolling towards a triangular sign",
+        "phrases": "cylindrical bin; a triangular sign"
+    },
+    {
+        "prompt": "Oval bathtub filling near a rectangular towel",
+        "phrases": "oval bathtub; a rectangular towel"
+    },
+    {
+        "prompt": "Spherical globe rotating next to a cube clock",
+        "phrases": "spherical globe; a cube clock"
+    },
+    {
+        "prompt": "Star-shaped cookie resting on a round coaster",
+        "phrases": "star-shaped cookie; a round coaster"
+    },
+    {
+        "prompt": "Spiral staircase winding beside a cubic stool",
+        "phrases": "spiral staircase; a cubic stool"
+    },
+    {
+        "prompt": "Elliptical mirror hanging near a square window",
+        "phrases": "elliptical mirror; a square window"
+    },
+    {
+        "prompt": "Diamond-shaped kite soaring above a flat roof",
+        "phrases": "diamond-shaped kite; a flat roof"
+    },
+    {
+        "prompt": "Heart-shaped pillow tossed onto a circular bed",
+        "phrases": "heart-shaped pillow; a circular bed"
+    },
+    {
+        "prompt": "Woolen scarf fluttering near a leather suitcase",
+        "phrases": "woolen scarf; a leather suitcase"
+    },
+    {
+        "prompt": "Silk dress swaying beside a velvet curtain",
+        "phrases": "silk dress; a velvet curtain"
+    },
+    {
+        "prompt": "Leather boots stepping on a marble floor",
+        "phrases": "leather boots; a marble floor"
+    },
+    {
+        "prompt": "Wooden chair sliding across a slate tile",
+        "phrases": "wooden chair; a slate tile"
+    },
+    {
+        "prompt": "Ceramic vase rotating on a copper table",
+        "phrases": "ceramic vase; a copper table"
+    },
+    {
+        "prompt": "Denim jacket hanging on a metal coat rack",
+        "phrases": "denim jacket; a metal coat rack"
+    },
+    {
+        "prompt": "Crystal chandelier swinging above a wooden table",
+        "phrases": "crystal chandelier; a wooden table"
+    },
+    {
+        "prompt": "Corduroy cloth brushing against a glass table",
+        "phrases": "corduroy cloth; a glass table"
+    },
+    {
+        "prompt": "Velvet ribbon tied on an iron fence",
+        "phrases": "velvet ribbon; an iron fence"
+    },
+    {
+        "prompt": "Linen curtains blowing beside a bamboo wall",
+        "phrases": "linen curtains; a bamboo wall"
+    },
+    {
+        "prompt": "Plush teddy bear tumbling next to a leather couch",
+        "phrases": "plush teddy bear; a leather couch"
+    },
+    {
+        "prompt": "Furry dog fetching a rubber ball",
+        "phrases": "furry dog; a rubber ball"
+    },
+    {
+        "prompt": "Slick seal sliding near a rubber mat",
+        "phrases": "slick seal; a rubber mat"
+    },
+    {
+        "prompt": "Silver-haired woman admiring a black grand piano",
+        "phrases": "silver-haired woman; a black grand piano"
+    },
+    {
+        "prompt": "Young boy tossing a leather baseball glove",
+        "phrases": "young boy; a leather baseball glove"
+    },
+    {
+        "prompt": "Muscular man wielding an iron sword",
+        "phrases": "muscular man; an iron sword"
+    },
+    {
+        "prompt": "Elderly artist with a white beard painting on a white canvas",
+        "phrases": "artist with a white beard; a white canvas"
+    },
+    {
+        "prompt": "Girl with braids feeding a spotted deer",
+        "phrases": "girl with braids; a spotted deer"
+    },
+    {
+        "prompt": "Boy in a blue shirt playing chess with a bearded man",
+        "phrases": "boy in a blue shirt; a bearded man"
+    },
+    {
+        "prompt": "Tall woman discussing plans with a short woman",
+        "phrases": "tall woman; a short woman"
+    },
+    {
+        "prompt": "Girl with curly hair riding a red bike",
+        "phrases": "girl with curly hair; a red bike"
+    },
+    {
+        "prompt": "Woman in red dress painting with a man in a green shirt",
+        "phrases": "woman in red dress; a man in a green shirt"
+    },
+    {
+        "prompt": "Golden retriever chasing a yellow frisbee in the park",
+        "phrases": "golden retriever; a yellow frisbee in the park"
+    },
+    {
+        "prompt": "Red car racing past an old church",
+        "phrases": "red car; an old church"
+    },
+    {
+        "prompt": "Green tree shedding leaves near a wooden cabin",
+        "phrases": "green tree; a wooden cabin"
+    },
+    {
+        "prompt": "Fresh sushi served on a slate plate",
+        "phrases": "fresh sushi; a slate plate"
+    },
+    {
+        "prompt": "Striped cat lounging on a velvet pillow",
+        "phrases": "striped cat; a velvet pillow"
+    },
+    {
+        "prompt": "Blue truck hauling a load of orange pumpkins",
+        "phrases": "blue truck; a load of orange pumpkins"
+    },
+    {
+        "prompt": "Woman with glasses reading to a little girl",
+        "phrases": "woman with glasses; a little girl"
+    },
+    {
+        "prompt": "man in a white vest fixing a red bike",
+        "phrases": "man in a white vest; a red bike"
+    },
+    {
+        "prompt": "Elderly woman watering red rose",
+        "phrases": "elderly woman; red rose"
+    },
+    {
+        "prompt": "Boy with a cap playing soccer with a girl wearing a red shirt",
+        "phrases": "boy with a cap; a girl wearing a red shirt"
+    },
+    {
+        "prompt": "Green beetle crawling on a gray rock",
+        "phrases": "green beetle; a gray rock"
+    },
+    {
+        "prompt": "Fluffy squirrel playing on a metal bench",
+        "phrases": "fluffy squirrel; a metal bench"
+    },
+    {
+        "prompt": "Orange truck hauling a load of blue pumpkins",
+        "phrases": "orange truck; a load of blue pumpkins"
+    },
+    {
+        "prompt": "Golden sunlight piercing through dark clouds",
+        "phrases": "golden sunlight; dark clouds"
+    },
+    {
+        "prompt": "Fluffy clouds drifting over a jagged mountain peak",
+        "phrases": "fluffy clouds; a jagged mountain peak"
+    },
+    {
+        "prompt": "Murky water swirling around a shiny anchor",
+        "phrases": "murky water; a shiny anchor"
+    },
+    {
+        "prompt": "Glistening waves crashing against a rugged cliffside",
+        "phrases": "glistening waves; a rugged cliffside"
+    },
+    {
+        "prompt": "Bioluminescent jellyfish floating near red corals",
+        "phrases": "bioluminescent jellyfish; red corals"
+    },
+    {
+        "prompt": "Blue apple bouncing near a pink tree",
+        "phrases": "blue apple; a pink tree"
+    },
+    {
+        "prompt": "Green cat chasing a purple mouse",
+        "phrases": "green cat; a purple mouse"
+    },
+    {
+        "prompt": "Purple banana hanging from a green vine",
+        "phrases": "purple banana; a green vine"
+    },
+    {
+        "prompt": "Orange elephant standing on a blue ball",
+        "phrases": "orange elephant; a blue ball"
+    },
+    {
+        "prompt": "A red dog chasing a green horse",
+        "phrases": "a red dog; a green horse"
+    },
+    {
+        "prompt": "Pink giraffe eating from a brown bush",
+        "phrases": "pink giraffe; a brown bush"
+    },
+    {
+        "prompt": "Ancient vase displayed next to a glass sculpture",
+        "phrases": "ancient vase; a glass sculpture"
+    },
+    {
+        "prompt": "Chef in white apron slicing green cucumbers",
+        "phrases": "chef in white apron; green cucumbers"
+    },
+    {
+        "prompt": "Star-shaped mirror reflecting a square moon",
+        "phrases": "star-shaped mirror; a square moon"
+    },
+    {
+        "prompt": "Heart-shaped book opening next to a circular lamp",
+        "phrases": "heart-shaped book; a circular lamp"
+    },
+    {
+        "prompt": "Triangular pizza slicing next to a round plate",
+        "phrases": "triangular pizza; a round plate"
+    },
+    {
+        "prompt": "L-shaped sofa placed next to a round window",
+        "phrases": "L-shaped sofa; a round window"
+    },
+    {
+        "prompt": "Crystal cake shimmering beside a metal apple",
+        "phrases": "crystal cake; a metal apple"
+    },
+    {
+        "prompt": "Metallic tree rustling near a paper bench",
+        "phrases": "metallic tree; a paper bench"
+    },
+    {
+        "prompt": "A paper plane flying above a knitted vase",
+        "phrases": "a paper plane; a knitted vase"
+    },
+    {
+        "prompt": "Wooden car speeding past a porcelain tree",
+        "phrases": "wooden car; a porcelain tree"
+    },
+    {
+        "prompt": "Man with a balloon head juggling transparent apples",
+        "phrases": "man with a balloon head; transparent apples"
+    },
+    {
+        "prompt": "Dancer with metallic skin twirling near a glowing tree",
+        "phrases": "dancer with metallic skin; a glowing tree"
+    },
+    {
+        "prompt": "Pig with wings flying above a diamond mountain",
+        "phrases": "pig with wings; a diamond mountain"
+    },
+    {
+        "prompt": "Cubic watermelon rolling towards a rainbow river",
+        "phrases": "cubic watermelon; a rainbow river"
+    },
+    {
+        "prompt": "Paper car racing a crystal snail",
+        "phrases": "paper car; a crystal snail"
+    },
+    {
+        "prompt": "Porcelain rabbit hopping by a golden cactus",
+        "phrases": "porcelain rabbit; a golden cactus"
+    },
+    {
+        "prompt": "Purple ballon floating near a yellow car",
+        "phrases": "purple balloon; a yellow car"
+    },
+    {
+        "prompt": "Yellow rose swaying near a green bench",
+        "phrases": "yellow rose; a green bench"
+    },
+    {
+        "prompt": "Big hearts and small stars floating upwards",
+        "phrases": "big hearts; small stars"
+    },
+    {
+        "prompt": "A red bicycle races alongside a yellow taxi through the bustling streets",
+        "phrases": "A red bicycle races; a yellow taxi"
+    },
+    {
+        "prompt": "A silver rocket launches past a blue skyscraper under a bright sky",
+        "phrases": "A silver rocket; a blue skyscraper"
+    },
+    {
+        "prompt": "A green bird flutters near a blue window on a sunny day",
+        "phrases": "A green bird; a blue window"
+    },
+    {
+        "prompt": "A pink balloon drifts past a green traffic light on the street",
+        "phrases": "A pink balloon; a green traffic light"
+    },
+    {
+        "prompt": "A black motorcycle zooms alongside a green bus on a busy road",
+        "phrases": "A black motorcycle; a green bus"
+    },
+    {
+        "prompt": "A white horse gallops past a brown fence, kicking up dust",
+        "phrases": "A white horse; a brown fence"
+    },
+    {
+        "prompt": "A white pigeon circles above a blue suitcase, preparing to land",
+        "phrases": "A white pigeon; a blue suitcase"
+    },
+    {
+        "prompt": "A blue boat sails past a white lighthouse, waves crashing around it",
+        "phrases": "A blue boat; a white lighthouse"
+    },
+    {
+        "prompt": "A green soccer ball bounces near a yellow bench in the playground",
+        "phrases": "A green soccer ball; a yellow bench"
+    },
+    {
+        "prompt": "A red fox sneaks past a green statue in the garden",
+        "phrases": "A red fox; a green statue"
+    },
+    {
+        "prompt": "A yellow car passed by a red stop sign on a street",
+        "phrases": "A yellow car; a red stop sign"
+    },
+    {
+        "prompt": "A blue ladder leans against a red farmhouse, feet stomping up each rung",
+        "phrases": "A blue ladder; a red farmhouse"
+    },
+    {
+        "prompt": "A yellow pencil rolls off a purple notebook on the desk",
+        "phrases": "A yellow pencil; a purple notebook"
+    },
+    {
+        "prompt": "A pink basket tumbles away from a blue picnic blanket, blown by a strong wind",
+        "phrases": "A pink basket; a blue picnic blanket"
+    },
+    {
+        "prompt": "A blue umbrella spins near a green door, rain splattering all around",
+        "phrases": "A blue umbrella; a green door"
+    },
+    {
+        "prompt": "A yellow hair drier blasts air onto a purple towel, making the fabric ripple gracefully",
+        "phrases": "A yellow hair drier; a purple towel"
+    },
+    {
+        "prompt": "A red cushion flies through the air as a gray cat leaps to catch it",
+        "phrases": "A red cushion; a gray cat"
+    },
+    {
+        "prompt": "A brown raccoon tips over a yellow bin, scavenging for snacks",
+        "phrases": "A brown raccoon; a yellow bin"
+    },
+    {
+        "prompt": "A gray squirrel climbs onto a black remote, accidentally changing the channel",
+        "phrases": "A gray squirrel; a black remote"
+    },
+    {
+        "prompt": "A golden monkey plays tennis with a blue tennis racket",
+        "phrases": "A golden monkey; a blue tennis racket"
+    },
+    {
+        "prompt": "A white rabbit hops across a red carpet in a living room",
+        "phrases": "A white rabbit; a red carpet"
+    },
+    {
+        "prompt": "A yellow teddy bear has breakfast from a blue bowl, sitting on the dining table",
+        "phrases": "A yellow teddy bear; a blue bowl"
+    },
+    {
+        "prompt": "A green spaceship zooms past a purple airplane in the sky",
+        "phrases": "A green spaceship; a purple airplane"
+    },
+    {
+        "prompt": "A pink teddy bear sits on a black oven in the kitchen",
+        "phrases": "A pink teddy bear; a black oven"
+    },
+    {
+        "prompt": "A white kitten naps in a purple bathtub, paws stretched out as it dreams peacefully",
+        "phrases": "A white kitten; a purple bathtub"
+    },
+    {
+        "prompt": "A girl in a red dress rides a blue bicycle in the park",
+        "phrases": "A girl in a red dress; a blue bicycle"
+    },
+    {
+        "prompt": "A little boy wearing a green jacket have a meal with a red spoon",
+        "phrases": "A little boy; a red spoon"
+    },
+    {
+        "prompt": "A lady wearing a pink dress holds a green umbrella, twirling it as she dances in the rain",
+        "phrases": "A lady wearing a pink dress; a green umbrella"
+    },
+    {
+        "prompt": "A grandmother in a purple shawl knits beside a golden fireplace",
+        "phrases": "A grandmother in a purple shawl; a golden fireplace"
+    },
+    {
+        "prompt": "A father in a green vest pitches a yellow tent, securing each peg with careful precision",
+        "phrases": "A father in a green vest; a yellow tent"
+    },
+    {
+        "prompt": "A mother in a pink blouse pushes a brown stroller in a park",
+        "phrases": "A mother in a pink blouse; a brown stroller"
+    },
+    {
+        "prompt": "A king dressed in gold swings a blue sword in the palace",
+        "phrases": "A king dressed in gold; a blue sword"
+    },
+    {
+        "prompt": "A cowboy in a white hat lassos a black bull on a sunny day",
+        "phrases": "A cowboy in a white hat; a black bull"
+    },
+    {
+        "prompt": "A girl in a black dress watering a green rose in the garden",
+        "phrases": "A girl in a black dress; a green rose"
+    },
+    {
+        "prompt": "A baby in a yellow onesie claps happily as a blue robot dances in front of them",
+        "phrases": "A baby in a yellow onesie; a blue robot"
+    },
+    {
+        "prompt": "A girl in a pink hat chases a white kitten, her laughter filling the garden",
+        "phrases": "A girl in a pink hat; a white kitten"
+    },
+    {
+        "prompt": "A toddler in a red onesie hugs a white teddy bear, snuggling it tightly",
+        "phrases": "A toddler in a red onesie; a white teddy bear"
+    },
+    {
+        "prompt": "A DJ in a purple hoodie adjusts a green turntable, music echoing through the venue",
+        "phrases": "A DJ in a purple hoodie; a green turntable"
+    },
+    {
+        "prompt": "A girl in a yellow dress races a boy in a blue hoodie, both laughing as they run through the park",
+        "phrases": "A girl in a yellow dress; a boy in a blue hoodie"
+    },
+    {
+        "prompt": "A boy in a yellow shirt tosses a football to a girl in a blue shirt, both focused on the game",
+        "phrases": "A boy in a yellow shirt; a girl in a blue shirt"
+    },
+    {
+        "prompt": "A blue scarf flutters away from a yellow handbag, carried by the wind",
+        "phrases": "A blue scarf; a yellow handbag"
+    },
+    {
+        "prompt": "A yellow scarf flutters away from a blue handbag, carried by the wind",
+        "phrases": "A yellow scarf; a blue handbag"
+    },
+    {
+        "prompt": "A blue ball rolls near a red backpack on the playground field",
+        "phrases": "A blue ball; a red backpack"
+    },
+    {
+        "prompt": "A red ball rolls near a blue backpack on the playground field",
+        "phrases": "A red ball; a blue backpack"
+    },
+    {
+        "prompt": "A yellow frisbee spins away from a blue dog, the dog leaping to catch it mid-air",
+        "phrases": "A yellow frisbee; a blue dog"
+    },
+    {
+        "prompt": "A blue frisbee spins away from a yellow dog, the dog leaping to catch it mid-air",
+        "phrases": "A blue frisbee; a yellow dog"
+    },
+    {
+        "prompt": "A green potted plant sways as an orange cat darts by, leaves rustling in the sudden movement",
+        "phrases": "A green potted plant; an orange cat"
+    },
+    {
+        "prompt": "An orange potted plant sways as a green cat darts by, leaves rustling in the sudden movement",
+        "phrases": "An orange potted plant; a green cat"
+    },
+    {
+        "prompt": "A green parrot perches atop a red fire hydrant, fluttering its wings to stay balanced",
+        "phrases": "A green parrot; a red fire hydrant"
+    },
+    {
+        "prompt": "A red parrot perches atop a green fire hydrant, fluttering its wings to stay balanced",
+        "phrases": "A red parrot; a green fire hydrant"
+    },
+    {
+        "prompt": "A bride in a white gown holds a blue bouquet, petals fluttering as she walks down the aisle",
+        "phrases": "A bride in a white gown; a blue bouquet"
+    },
+    {
+        "prompt": "A bride in a blue gown holds a white bouquet, petals fluttering as she walks down the aisle",
+        "phrases": "A bride in a blue gown; a white bouquet"
+    },
+    {
+        "prompt": "A blue dolphin leaping over a pink sailboat, splashing sparkling droplets everywhere",
+        "phrases": "A blue dolphin; a pink sailboat"
+    },
+    {
+        "prompt": "A pink dolphin leaping over a blue sailboat, splashing sparkling droplets everywhere",
+        "phrases": "A pink dolphin; a blue sailboat"
+    },
+    {
+        "prompt": "A yellow crab scuttling beside a red surfboard on the sandy shore",
+        "phrases": "A yellow crab; a red surfboard"
+    },
+    {
+        "prompt": "A red crab scuttling beside a yellow surfboard on the sandy shore",
+        "phrases": "A red crab; a yellow surfboard"
+    },
+    {
+        "prompt": "A purple tractor pulling a cart of orange carrots",
+        "phrases": "A purple tractor; a cart of orange carrots"
+    },
+    {
+        "prompt": "An orange tractor pulling a cart of purple carrots",
+        "phrases": "An orange tractor; a cart of purple carrots"
+    },
+    {
+        "prompt": "A girl in green dress playing a black piano",
+        "phrases": "A girl in green dress; a black piano"
+    },
+    {
+        "prompt": "A girl in black dress playing a green piano",
+        "phrases": "A girl in black dress; a green piano"
+    },
+    {
+        "prompt": "A heart-shaped balloon floats near an oblong bench, tugging at its string with the breeze",
+        "phrases": "A heart-shaped balloon; an oblong bench"
+    },
+    {
+        "prompt": "A star-shaped lantern glows over a rectangular table, casting intricate patterns on the surface",
+        "phrases": "A star-shaped lantern; a rectangular table"
+    },
+    {
+        "prompt": "A bell-shaped glass covers a triangular cake",
+        "phrases": "A bell-shaped glass; a triangular cake"
+    },
+    {
+        "prompt": "A spherical drone hovers around a circular monument, scanning each detail with a soft hum",
+        "phrases": "A spherical drone; a circular monument"
+    },
+    {
+        "prompt": "A triangular leaf flutters down, landing softly next onto an L-shaped sofa in the living room",
+        "phrases": "A triangular leaf; an L-shaped sofa"
+    },
+    {
+        "prompt": "A spherical cow grazes near a triangular hut",
+        "phrases": "A spherical cow; a triangular hut"
+    },
+    {
+        "prompt": "A cube-shaped planet drifts near a cylindrical space station, orbiting with a mysterious grace",
+        "phrases": "A cube-shaped planet; a cylindrical space station"
+    },
+    {
+        "prompt": "A cube-shaped ice block slides across a round plate",
+        "phrases": "A cube-shaped ice block; a round plate"
+    },
+    {
+        "prompt": "An S-shaped logo spins above a cube-shaped building",
+        "phrases": "An S-shaped logo; a cube-shaped building"
+    },
+    {
+        "prompt": "A circular mirror reflects a cat lounging on a square cushion",
+        "phrases": "A circular mirror; a square cushion"
+    },
+    {
+        "prompt": "A cylindrical vase tips over as a playful kitten with a triangular hat pounces on it",
+        "phrases": "A cylindrical vase; a triangular hat"
+    },
+    {
+        "prompt": "A round Rubik's cube spins beside a heart-shaped alarm clock",
+        "phrases": "A round Rubik's cube; a heart-shaped alarm clock"
+    },
+    {
+        "prompt": "A fan-shaped window casts light onto a star-shaped bottle",
+        "phrases": "A fan-shaped window; a star-shaped bottle"
+    },
+    {
+        "prompt": "A square watermelon and a heart-shaped peach balance carefully on a stool, wobbling with each movement",
+        "phrases": "A square watermelon; a heart-shaped peach"
+    },
+    {
+        "prompt": "A cuboid balloon drifts past a circular window, sunlight streaming through the glass panes",
+        "phrases": "A cuboid balloon; a circular window"
+    },
+    {
+        "prompt": "A metallic apple rolls across a woven picnic blanket in a garden",
+        "phrases": "A metallic apple; a woven picnic blanket"
+    },
+    {
+        "prompt": "A spongy ball bounces near a marble bench",
+        "phrases": "A spongy ball; a marble bench"
+    },
+    {
+        "prompt": "A marble teapot pours tea into a parchment cup, steam rising into the crisp morning air",
+        "phrases": "A marble teapot; a parchment cup"
+    },
+    {
+        "prompt": "A leathery umbrella spins beside a bamboo bridge",
+        "phrases": "A leathery umbrella; a bamboo bridge"
+    },
+    {
+        "prompt": "A feathered pillow floats beside a clay sculpture, drifting peacefully in the gentle breeze",
+        "phrases": "A feathered pillow; a clay sculpture"
+    },
+    {
+        "prompt": "A lacy curtain billows beside a wooden vase, catching the breeze from the open window",
+        "phrases": "A lacy curtain; a wooden vase"
+    },
+    {
+        "prompt": "A cardboard plane glides over a woven rug",
+        "phrases": "A cardboard plane; a woven rug"
+    },
+    {
+        "prompt": "A glass apple tumbles from a wicker basket",
+        "phrases": "A glass apple; a wicker basket"
+    },
+    {
+        "prompt": "A woolen hat flies off a wooden bench, carried away by a sudden gust of wind",
+        "phrases": "A woolen hat; a wooden bench"
+    },
+    {
+        "prompt": "A rubbery duck swims in a marble pool",
+        "phrases": "A rubbery duck; a marble pool"
+    },
+    {
+        "prompt": "A wooden ladder tips over beside a clay statue",
+        "phrases": "A wooden ladder; a clay statue"
+    },
+    {
+        "prompt": "A cardboard castle collapses as a rubbery ball crashes into it",
+        "phrases": "A cardboard castle; a rubbery ball"
+    },
+    {
+        "prompt": "A man in the leather jacket pours coffee into a ceramic mug, steam rising in gentle curls",
+        "phrases": "A man in the leather jacket; a ceramic mug"
+    },
+    {
+        "prompt": "A glass teapot pours tea into a ceramic teacup",
+        "phrases": "A glass teapot; a ceramic teacup"
+    },
+    {
+        "prompt": "A paper cup pours milk into a glass vase, the liquid swirling and splashing inside",
+        "phrases": "A paper cup; a glass vase"
+    },
+    {
+        "prompt": "A grandmother wearing pearl earrings next to her granddaughter in a colorful sweater, sharing family stories",
+        "phrases": "A grandmother wearing pearl earrings; a granddaughter in a colorful sweater"
+    },
+    {
+        "prompt": "A man in a suit and tie talks with a woman in a blouse and trousers at a networking event",
+        "phrases": "A man in a suit and tie; a woman in a blouse and trousers"
+    },
+    {
+        "prompt": "A girl wearing a colorful scarf giggles with a boy in a cute hat as they play with a puppy in the park",
+        "phrases": "A girl wearing a colorful scarf; a boy in a cute hat"
+    },
+    {
+        "prompt": "A boy in a superhero costume jumps excitedly next to a girl with long braids",
+        "phrases": "A boy in a superhero costume; a girl with long braids"
+    },
+    {
+        "prompt": "A grandmother wearing a cozy sweater shares cookies with her grandson in pajamas, both enjoying a quiet afternoon at home",
+        "phrases": "A grandmother wearing a cozy sweater; a grandson in pajamas"
+    },
+    {
+        "prompt": "A girl wearing sunglasses plays a guitar next to a boy in tank top, strumming along in the summer breeze",
+        "phrases": "A girl wearing sunglasses; a boy in tank top"
+    },
+    {
+        "prompt": "A woman with curly hair helps a toddler in a cute onesie pick flowers in a sunny garden",
+        "phrases": "A woman with curly hair; a toddler in a cute onesie"
+    },
+    {
+        "prompt": "A prince in formal attire greets a princess in a beautiful gown, both smiling at the royal ball",
+        "phrases": "A prince in formal attire; a princess in a beautiful gown"
+    },
+    {
+        "prompt": "An artist in a paint-splattered apron demonstrates techniques to a boy in a t-shirt and jeans, both engaged in a creative workshop.",
+        "phrases": "An artist in a paint-splattered apron; a boy in a t-shirt and jeans"
+    },
+    {
+        "prompt": "A scientist in safety goggles examines a sample next to a girl in a scrub top, both working diligently in a laboratory",
+        "phrases": "A scientist in safety goggles; a girl in a scrub top"
+    }
+]

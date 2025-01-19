@@ -1,0 +1,1102 @@
+[
+    {
+        "prompt": "A timelapse of a leaf transitioning from green to bright red as autumn progresses.",
+        "state 0": "A green leaf",
+        "state 1": "A bright red leaf",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A timelapse of a piece of metal gradually rusting when exposed to moisture.",
+        "state 0": "A piece of metal",
+        "state 1": "A rusted piece of metal",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a caterpillar morphing into a butterfly inside a cocoon.",
+        "state 0": "A caterpillar",
+        "state 1": "A butterfly",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a flower bud blooming into a full flower.",
+        "state 0": "A flower bud",
+        "state 1": "A full flower",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a snowman melting under the afternoon sun.",
+        "state 0": "A snowman",
+        "state 1": "A melted snowman",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of an apple decaying over time.",
+        "state 0": "A fresh apple",
+        "state 1": "A decayed apple",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a wall painting fading due to prolonged sun exposure.",
+        "state 0": "A vibrant wall painting",
+        "state 1": "A faded wall painting",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A timelapse of ice cream melting during a hot day.",
+        "state 0": "Solid ice cream",
+        "state 1": "Melted ice cream",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a candle burning down.",
+        "state 0": "A full candle",
+        "state 1": "A burned down candle",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a puddle drying up and disappearing on a hot day.",
+        "state 0": "A puddle of water on the ground",
+        "state 1": "A dry spot where the puddle was",
+        "tag": "state change"
+    },    
+    {
+        "prompt": "A timelapse of a piece of bread initially fresh, then growing moldy.",
+        "state 0": "Fresh bread",
+        "state 1": "Moldy bread",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a green banana turning yellow as it ripens.",
+        "state 0": "A green banana",
+        "state 1": "A yellow banana",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A timelapse of a ceramic vase glossy and new, becoming cracked and weathered with age.",
+        "state 0": "A glossy new ceramic vase",
+        "state 1": "A cracked and weathered ceramic vase",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of the healing process of a scar on the skin.",
+        "state 0": "A fresh scar on the skin",
+        "state 1": "A healed scar on the skin",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a polished wooden floor shiny and smooth, becoming scratched and worn.",
+        "state 0": "A polished, shiny wooden floor",
+        "state 1": "A scratched and worn wooden floor",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A timelapse of a steel bridge gleaming and new, acquiring rust streaks over time.",
+        "state 0": "A gleaming new steel bridge",
+        "state 1": "A rust-streaked steel bridge",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a piece of wood being carved into a sculpture.",
+        "state 0": "A plain piece of wood",
+        "state 1": "A carved wooden sculpture",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a river freezing over during winter.",
+        "state 0": "A flowing river",
+        "state 1": "A frozen river",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A timelapse of a pair of jeans blue and new, fading to white.",
+        "state 0": "A pair of blue, new jeans",
+        "state 1": "A pair of faded white jeans",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A timelapse of a full moon diminishing to a new moon over the lunar cycle.",
+        "state 0": "A full moon",
+        "state 1": "A new moon",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A balloon expanding as it is filled with air",
+        "state 0": "A deflated balloon",
+        "state 1": "An expanded balloon",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A glass fogging up in a humid room",
+        "state 0": "A clear glass",
+        "state 1": "A fogged-up glass",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A full bottle of wine, gradually emptying into glasses until none remains",
+        "state 0": "A full bottle of wine",
+        "state 1": "An empty bottle of wine",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A book's pages yellowing with age",
+        "state 0": "A book with white pages",
+        "state 1": "A book with yellowed pages",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A patch of snow turning slushy as it thaws",
+        "state 0": "A patch of solid snow",
+        "state 1": "A patch of slushy snow",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A sandcastle being eroded by the incoming tide",
+        "state 0": "A complete sandcastle",
+        "state 1": "An eroded sandcastle",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A pumpkin growing from a small bud into a large fruit",
+        "state 0": "A small pumpkin bud",
+        "state 1": "A large pumpkin",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A frozen lake thawing as the temperature rises",
+        "state 0": "A frozen lake",
+        "state 1": "A thawed lake",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A chalk drawing on a sidewalk washing away in the rain",
+        "state 0": "A clear chalk drawing",
+        "state 1": "A washed-away chalk drawing",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A green chameleon changes its skin color to pink",
+        "state 0": "A green chameleon",
+        "state 1": "A pink chameleon",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A coffee mug staining over years of use",
+        "state 0": "A clean coffee mug",
+        "state 1": "A stained coffee mug",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A banana peel blackening after being discarded",
+        "state 0": "A yellow banana peel",
+        "state 1": "A blackened banana peel",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A soap bar diminishing with each use",
+        "state 0": "A full soap bar",
+        "state 1": "A diminished soap bar",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A lizard shedding its old skin for new",
+        "state 0": "A lizard with old skin",
+        "state 1": "A lizard with new skin",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A moon waxing from new to full",
+        "state 0": "A new moon",
+        "state 1": "A full moon",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A popcorn kernel popping into a fluffy piece",
+        "state 0": "A popcorn kernel",
+        "state 1": "A fluffy piece of popcorn",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A tree losing its leaves and becoming bare during the autumn season",
+        "state 0": "A tree with leaves",
+        "state 1": "A bare tree",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A spider web collecting dew in the morning light",
+        "state 0": "A dry spider web",
+        "state 1": "A spider web with dew",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A silver coin tarnishing from shiny to dull",
+        "state 0": "A shiny silver coin",
+        "state 1": "A dull silver coin",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Freshly cut grass changing from bright green to brown as it dries",
+        "state 0": "Bright green freshly cut grass",
+        "state 1": "Brown dried grass",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A clear sky clouding over",
+        "state 0": "A clear sky",
+        "state 1": "A cloudy sky",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A bright blue paint on a house fading to pale",
+        "state 0": "A house with bright blue paint",
+        "state 1": "A house with pale blue paint",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A chocolate bar solid at first, then melting",
+        "state 0": "A solid chocolate bar",
+        "state 1": "A melted chocolate bar",
+        "tag": "state change"
+    },
+    {
+        "prompt": "A glossy photograph fading to a muted finish after decades of display",
+        "state 0": "A glossy photograph",
+        "state 1": "A faded photograph",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A green pepper turning red as it ripens",
+        "state 0": "A green pepper",
+        "state 1": "A red pepper",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A brand new book with a crisp cover, becoming dog-eared and tattered with use",
+        "state 0": "A brand new book with a crisp cover",
+        "state 1": "A dog-eared and tattered book",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Green apple ripens to red alongside a banana yellowing from green",
+        "state 0": "A green apple and a green banana",
+        "state 1": "A red apple and a yellow banana",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Wet sidewalk dries while nearby puddle evaporates completely",
+        "state 0": "A wet sidewalk and a puddle",
+        "state 1": "A dry sidewalk and no puddle",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Candle burns and melts as adjacent ice cube melts into water",
+        "state 0": "A full candle and a solid ice cube",
+        "state 1": "A melted candle and melted ice cube",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Red brick wall weathers to a faded pink, parallel to a wooden door darkening",
+        "state 0": "A red brick wall and a regular wooden door",
+        "state 1": "A faded pink brick wall and a darkened wooden door",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Bright green leaf wilts to brown as a nearby flower blooms from bud to full red",
+        "state 0": "A bright green leaf and a flower bud",
+        "state 1": "A brown wilted leaf and a full red flower",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Shiny silver fork tarnishes next to a ceramic plate chipping around the edges",
+        "state 0": "A shiny silver fork and a ceramic plate",
+        "state 1": "A tarnished silver fork and a chipped ceramic plate",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Black rubber tire deflates and flattens and a steel bike gradually rusts.",
+        "state 0": "An inflated black rubber tire and a non-rusted steel bike",
+        "state 1": "A deflated black rubber tire and a rusted steel bike",
+        "tag": "state change"
+    },    
+    {
+        "prompt": "Yellow butter melts on hot toast",
+        "state 0": "Solid yellow butter",
+        "state 1": "Melted butter on toast",
+        "tag": "state change"
+    },
+    {
+        "prompt": "The bright orange pumpkin gradually rots and the cornstalk wilts, losing its vitality and strength.",
+        "state 0": "A bright orange pumpkin and a healthy cornstalk",
+        "state 1": "A rotting pumpkin and a wilting cornstalk",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Green avocado darkens to black as the tomato beside it ripens to a deep red",
+        "state 0": "A green avocado and an unripe tomato",
+        "state 1": "A black avocado and a deep red tomato",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A green rose gradually transitions to a shade of blue",
+        "state 0": "A green rose",
+        "state 1": "A blue rose",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Orange juice in a glass spontaneously turns green",
+        "state 0": "A glass of orange juice",
+        "state 1": "A glass of green juice",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "White snow on a hillside turns blue",
+        "state 0": "White snow on a hillside",
+        "state 1": "Blue snow on a hillside",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A red book cover fades to a glowing white over time",
+        "state 0": "A red book cover",
+        "state 1": "A glowing white book cover",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A cat's green eyes turn a red",
+        "state 0": "A cat's green eyes",
+        "state 1": "A cat's red eyes",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Purple clouds in the sky turn red",
+        "state 0": "Purple clouds in the sky",
+        "state 1": "Red clouds in the sky",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Black coffee in a clear mug turns transparent",
+        "state 0": "Black coffee in a clear mug",
+        "state 1": "Transparent liquid in a clear mug",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A vibrant green leaf transitions to a soft shade of pink",
+        "state 0": "A vibrant green leaf",
+        "state 1": "A soft pink leaf",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A gray concrete pathway lights up with unexpected rainbow hues",
+        "state 0": "A gray concrete pathway",
+        "state 1": "A rainbow-hued concrete pathway",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A yellow rubber duck in bath water turns a deep purple",
+        "state 0": "A yellow rubber duck",
+        "state 1": "A deep purple rubber duck",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "The blue flame of a gas stove turns a bright yellow",
+        "state 0": "A blue flame",
+        "state 1": "A bright yellow flame",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A green lime in a glass of water turns a vibrant pink",
+        "state 0": "A green lime in a glass of water",
+        "state 1": "A vibrant pink lime in a glass of water",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Brown chocolate melts into a bright red liquid",
+        "state 0": "Solid brown chocolate",
+        "state 1": "Bright red liquid chocolate",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Golden honey in a jar changes to a striking shade of black",
+        "state 0": "Golden honey in a jar",
+        "state 1": "Black honey in a jar",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A red brick wall gradually transforms into a spectrum of rainbow colors",
+        "state 0": "A red brick wall",
+        "state 1": "A rainbow-colored brick wall",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Blue apple turns pink next to a yellow banana turning purple",
+        "state 0": "A blue apple and a yellow banana",
+        "state 1": "A pink apple and a purple banana",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Green rose darkens to brown beside a violet tulip turning bright orange",
+        "state 0": "A green rose and a violet tulip",
+        "state 1": "A brown rose and a bright orange tulip",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Clear water in a glass turns black as tea in a cup turns transparent",
+        "state 0": "Clear water in a glass and tea in a cup",
+        "state 1": "Black water in a glass and transparent liquid in a cup",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Silver car changes to a gold as the red bicycle beside it shifts to green",
+        "state 0": "A silver car and a red bicycle",
+        "state 1": "A gold car and a green bicycle",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Yellow balloon stretches to translucent",
+        "state 0": "A yellow balloon",
+        "state 1": "A translucent balloon",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Glossy ceramic mug turns matte and brittle",
+        "state 0": "A glossy ceramic mug",
+        "state 1": "A matte and brittle ceramic mug",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Green grass fades to straw-yellow",
+        "state 0": "Green grass",
+        "state 1": "Straw-yellow grass",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Smooth metal spoon becomes dull and uneven",
+        "state 0": "A smooth metal spoon",
+        "state 1": "A dull and uneven metal spoon",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Purple flower wilts to pale lavender",
+        "state 0": "A purple flower",
+        "state 1": "A pale lavender flower",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Clear ice cube melts into shapeless water",
+        "state 0": "A clear ice cube",
+        "state 1": "Shapeless water",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Red brick wall fades to muted pink",
+        "state 0": "A red brick wall",
+        "state 1": "A muted pink brick wall",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "White t-shirt yellows and stiffens",
+        "state 0": "A white t-shirt",
+        "state 1": "A yellowed and stiff t-shirt",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "Clear blue sky turns stormy gray",
+        "state 0": "A clear blue sky",
+        "state 1": "A stormy gray sky",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Green apple ripens to red",
+        "state 0": "A green apple",
+        "state 1": "A red apple",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "White cloud dissipates to invisible",
+        "state 0": "A white cloud",
+        "state 1": "An invisible cloud",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Rough sandstone weathers to smooth",
+        "state 0": "Rough sandstone",
+        "state 1": "Smooth sandstone",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Silver necklace tarnishes to black",
+        "state 0": "A silver necklace",
+        "state 1": "A black tarnished necklace",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "A wet towel drying",
+        "state 0": "A wet towel",
+        "state 1": "A dry towel",
+        "tag": "state change"
+    },
+    {
+        "prompt": "Dry sponge swells to squishy",
+        "state 0": "A dry sponge",
+        "state 1": "A squishy sponge",
+        "tag": "state change"
+    },
+    {
+        "prompt": "The background is changing from pink to blue.",
+        "state 0": "A pink background",
+        "state 1": "A blue background",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "The leaf is turning from green to yellow.",
+        "state 0": "A green leaf",
+        "state 1": "A yellow leaf",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "The room is turning darker.",
+        "state 0": "A bright room",
+        "state 1": "A dark room",
+        "tag": "state change"
+    },
+    {
+        "prompt": "The leaves are changing color from green to yellow.",
+        "state 0": "Green leaves",
+        "state 1": "Yellow leaves",
+        "tag": "attribute change"
+    },
+    {
+        "prompt": "The 3D pixels are changing from a cuboid into the shape of a man.",
+        "state 0": "Cuboid 3D pixels",
+        "state 1": "3D pixels in the shape of a man",
+        "tag": "state change"
+    },
+    {
+        "prompt": "The face is morphing from a chimpanzee into a human.",
+        "state 0": "A chimpanzee face",
+        "state 1": "A human face",
+        "tag": "state change"
+    },
+    {
+        "prompt": "The plant is reviving",
+        "state 0": "A wilted plant",
+        "state 1": "A revived plant",
+        "tag": "state change"
+    },
+    {
+        "prompt": "The flowers are wilting.",
+        "state 0": "Fresh flowers",
+        "state 1": "Wilted flowers",
+        "tag": "state change"
+    },
+    {
+        "prompt": "The eye is changing from closed to open",
+        "state 0": "A closed eye",
+        "state 1": "An open eye",
+        "tag": "state change"
+    },
+    {
+        "prompt": "The glass is going from empty to full of water",
+        "state 0": "An empty glass",
+        "state 1": "A glass full of water",
+        "tag": "state change"
+    },
+    {
+        "prompt": "The sky is shifting from bright to dark.",
+        "state 0": "bright sky",
+        "state 1": "dark sky"
+    },
+    {
+        "prompt": "The sky is shifting from dark to bright.",
+        "state 0": "dark sky",
+        "state 1": "bright sky"
+    },
+    {
+        "prompt": "The traffic lights are changing from red to green.",
+        "state 0": "red traffic lights",
+        "state 1": "green traffic lights"
+    },
+    {
+        "prompt": "The traffic lights are changing from green to red.",
+        "state 0": "green traffic lights",
+        "state 1": "red traffic lights"
+    },
+    {
+        "prompt": "The light bulb is lighting up.",
+        "state 0": "unlit light bulb",
+        "state 1": "lit light bulb"
+    },
+    {
+        "prompt": "The light bulb is turning off.",
+        "state 0": "lit light bulb",
+        "state 1": "unlit light bulb"
+    },
+    {
+        "prompt": "A pink chameleon changes its skin color to green",
+        "state 0": "pink chameleon",
+        "state 1": "green chameleon"
+    },
+    {
+        "prompt": "The polar aurora fills the sky, changing dynamically from green to pink in waves.",
+        "state 0": "green aurora",
+        "state 1": "pink aurora"
+    },
+    {
+        "prompt": "The polar aurora fills the sky, changing dynamically from pink to green in waves.",
+        "state 0": "pink aurora",
+        "state 1": "green aurora"
+    },
+    {
+        "prompt": "The winter frost thaws, changing the grass from frosty white back to vibrant green.",
+        "state 0": "frosty white grass",
+        "state 1": "vibrant green grass"
+    },
+    {
+        "prompt": "The sphere building is changing from blue to green.",
+        "state 0": "blue sphere building",
+        "state 1": "green sphere building"
+    },
+    {
+        "prompt": "The sphere building is changing from green to blue.",
+        "state 0": "green sphere building",
+        "state 1": "blue sphere building"
+    },
+    {
+        "prompt": "The background is changing from blue to pink.",
+        "state 0": "blue background",
+        "state 1": "pink background"
+    },
+    {
+        "prompt": "Red clouds in the sky turn purple",
+        "state 0": "red clouds",
+        "state 1": "purple clouds"
+    },
+    {
+        "prompt": "The chalkboard is filling with colorful diagrams, transforming from empty to covered in notes.",
+        "state 0": "empty chalkboard",
+        "state 1": "chalkboard covered in notes"
+    },
+    {
+        "prompt": "The ink on the canvas changing from green to blue.",
+        "state 0": "green ink on canvas",
+        "state 1": "blue ink on canvas"
+    },
+    {
+        "prompt": "The ink on the canvas changing from blue to green.",
+        "state 0": "blue ink on canvas",
+        "state 1": "green ink on canvas"
+    },
+    {
+        "prompt": "The neon sign is changing from red to yellow.",
+        "state 0": "red neon sign",
+        "state 1": "yellow neon sign"
+    },
+    {
+        "prompt": "The neon sign is changing from yellow to red.",
+        "state 0": "yellow neon sign",
+        "state 1": "red neon sign"
+    },
+    {
+        "prompt": "The skyline background is turning from bright orange to deep purple.",
+        "state 0": "bright orange skyline",
+        "state 1": "deep purple skyline"
+    },
+    {
+        "prompt": "A red chameleon changes its skin color to green as the neon sign is changing from red to green.",
+        "state 0": "red chameleon and red neon sign",
+        "state 1": "green chameleon and green neon sign"
+    },
+    {
+        "prompt": "A green chameleon changes its skin color to red as the neon sign is changing from green to red.",
+        "state 0": "green chameleon and green neon sign",
+        "state 1": "red chameleon and red neon sign"
+    },
+    {
+        "prompt": "An apple changes from pink to blue as the background is changing from blue to pink.",
+        "state 0": "pink apple and blue background",
+        "state 1": "blue apple and pink background"
+    },
+    {
+        "prompt": "The concrete wall crumbles into small blocks.",
+        "state 0": "solid concrete wall",
+        "state 1": "small blocks"
+    },
+    {
+        "prompt": "The small blocks are assembled into a solid concrete wall.",
+        "state 0": "small blocks",
+        "state 1": "solid concrete wall"
+    },
+    {
+        "prompt": "The skyscraper is collapsing into a pile of rubble.",
+        "state 0": "intact skyscraper",
+        "state 1": "pile of rubble"
+    },
+    {
+        "prompt": "The pile of rubble is being constructed into a skyscraper.",
+        "state 0": "pile of rubble",
+        "state 1": "intact skyscraper"
+    },
+    {
+        "prompt": "The eye is changing from open to closed.",
+        "state 0": "open eye",
+        "state 1": "closed eye"
+    },
+    {
+        "prompt": "The ice cream is freezing.",
+        "state 0": "unfrozen ice cream",
+        "state 1": "frozen ice cream"
+    },
+    {
+        "prompt": "The glass is going from full of water to empty.",
+        "state 0": "full glass of water",
+        "state 1": "empty glass"
+    },
+    {
+        "prompt": "A balloon deflating as air is released.",
+        "state 0": "inflated balloon",
+        "state 1": "deflated balloon"
+    },
+    {
+        "prompt": "A square sheet folds diagonally, creating a crease and forming a triangular shape as its edges align perfectly.",
+        "state 0": "flat square sheet",
+        "state 1": "triangular sheet"
+    },
+    {
+        "prompt": "The clouds billow and stretch, changing from fluffy cotton-like shapes to wispy, delicate strands in the wind.",
+        "state 0": "fluffy clouds",
+        "state 1": "wispy clouds"
+    },
+    {
+        "prompt": "The sapling tree grows, transforming from a thin stick-like shape into a sturdy trunk with spreading branches.",
+        "state 0": "thin sapling",
+        "state 1": "sturdy tree with branches"
+    },
+    {
+        "prompt": "The mushroom cap expands, going from a closed button shape to a broad, flat disc.",
+        "state 0": "closed mushroom cap",
+        "state 1": "flat mushroom cap"
+    },
+    {
+        "prompt": "The seed germinates, transforming from a small, compact shell into a sprout with spreading roots and leaves.",
+        "state 0": "small seed",
+        "state 1": "a sprout with spreading roots and leaves"
+    },
+    {
+        "prompt": "The bread dough rises, swelling from a dense ball into a fluffy, rounded loaf.",
+        "state 0": "dense dough ball",
+        "state 1": "fluffy loaf"
+    },
+    {
+        "prompt": "The umbrella opens, changing from a collapsed rod to a wide, circular canopy.",
+        "state 0": "collapsed umbrella",
+        "state 1": "open umbrella"
+    },
+    {
+        "prompt": "The 3D shapes are transforming from cubes into spheres.",
+        "state 0": "cubic 3D shapes",
+        "state 1": "spherical 3D shapes"
+    },
+    {
+        "prompt": "The 3D shapes are transforming from spheres into cubes.",
+        "state 0": "spherical 3D shapes",
+        "state 1": "cubic 3D shapes"
+    },
+    {
+        "prompt": "The battery charge is increasing from zero to full.",
+        "state 0": "empty battery",
+        "state 1": "fully charged battery"
+    },
+    {
+        "prompt": "The battery charge is decreasing from full to zero.",
+        "state 0": "fully charged battery",
+        "state 1": "empty battery"
+    },
+    {
+        "prompt": "The paper is changing from a wrinkled paper ball into a flattened sheet.",
+        "state 0": "wrinkled paper ball",
+        "state 1": "flat paper sheet"
+    },
+    {
+        "prompt": "The paper is changing from a flattened sheet into a wrinkled paper ball.",
+        "state 0": "flat paper sheet",
+        "state 1": "wrinkled paper ball"
+    },
+    {
+        "prompt": "The 3D pixels are changing from the shape of a man into a cuboid.",
+        "state 0": "man-shaped 3D pixels",
+        "state 1": "cuboid 3D pixels"
+    },
+    {
+        "prompt": "The 3D house model is being demolished into particles.",
+        "state 0": "3D house model",
+        "state 1": "3D particles"
+    },
+    {
+        "prompt": "The 3D house model is being constructed from particles.",
+        "state 0": "3D particles",
+        "state 1": "3D house model"
+    },
+    {
+        "prompt": "The 3D pixel is transforming from the shape of a flower into a white square.",
+        "state 0": "flower-shaped 3D pixel",
+        "state 1": "white square 3D pixel"
+    },
+    {
+        "prompt": "The 3D pixel is transforming from a white square into the shape of a flower.",
+        "state 0": "white square 3D pixel",
+        "state 1": "flower-shaped 3D pixel"
+    },
+    {
+        "prompt": "The inflatable pool deflates, collapsing from a full, structured circle to a flat, limp sheet.",
+        "state 0": "inflated pool",
+        "state 1": "deflated pool"
+    },
+    {
+        "prompt": "The inflatable pool inflates, expanding from a flat, limp sheet to a full, structured circle.",
+        "state 0": "deflated pool",
+        "state 1": "inflated pool"
+    },
+    {
+        "prompt": "The fabric is stretching from a wrinkled bundle into a taut, flat surface.",
+        "state 0": "wrinkled bundle of fabric",
+        "state 1": "taut, flat fabric"
+    },
+    {
+        "prompt": "Fluffy clouds in the sky shape themselves into letters, forming a word.",
+        "state 0": "fluffy clouds",
+        "state 1": "clouds shaped into letters forming a word"
+    },
+    {
+        "prompt": "A red balloon deflating as air is released and a green balloon expanding as it is filled with air.",
+        "state 0": "inflated red balloon and uninflated green balloon",
+        "state 1": "deflated red balloon and inflated green balloon"
+    },
+    {
+        "prompt": "The tofu crisps in the pan, shifting from a soft, spongy feel to a firm crust.",
+        "state 0": "soft, spongy tofu",
+        "state 1": "firm-crusted tofu"
+    },
+    {
+        "prompt": "The sponge absorbs water, changing from dry and stiff to wet and squishy.",
+        "state 0": "dry and stiff sponge",
+        "state 1": "wet and squishy sponge"
+    },
+    {
+        "prompt": "The concrete hardens, changing from a gritty, wet mixture to a solid, rough surface.",
+        "state 0": "gritty, wet concrete mixture",
+        "state 1": "solid, rough concrete surface"
+    },
+    {
+        "prompt": "The leather jacket ages, shifting from a sleek, smooth finish to a worn, slightly rough texture.",
+        "state 0": "sleek, smooth leather jacket",
+        "state 1": "worn, rough leather jacket"
+    },
+    {
+        "prompt": "The stone surface polishes over time, shifting from rough and rugged to smooth and glossy.",
+        "state 0": "rough, rugged stone",
+        "state 1": "smooth, glossy stone"
+    },
+    {
+        "prompt": "A glass window, clean and clear, becoming dusty and spotted with grime over time.",
+        "state 0": "clean, clear glass window",
+        "state 1": "dusty, spotted glass window"
+    },
+    {
+        "prompt": "A metal garden gate, originally shiny, gradually corroding and covered in rust.",
+        "state 0": "shiny metal garden gate",
+        "state 1": "rusty, corroded garden gate"
+    },
+    {
+        "prompt": "A canvas painting, vivid and colorful, fading and cracking slightly as it ages in sunlight.",
+        "state 0": "vivid, colorful canvas painting",
+        "state 1": "faded, cracked canvas painting"
+    },
+    {
+        "prompt": "A concrete sidewalk, smooth and new, developing cracks over years of weather and use.",
+        "state 0": "new, smooth concrete sidewalk",
+        "state 1": "cracked, weathered concrete sidewalk"
+    },
+    {
+        "prompt": "The leather jacket is shifting from a worn, rough texture to a sleek, smooth finish.",
+        "state 0": "worn, rough leather jacket",
+        "state 1": "sleek, smooth leather jacket"
+    },
+    {
+        "prompt": "The stone surface is transforming from rough and rugged to smooth and glossy.",
+        "state 0": "rough, rugged stone surface",
+        "state 1": "smooth, glossy stone surface"
+    },
+    {
+        "prompt": "A glass window, once dusty and spotted with grime, is gradually cleaned, becoming clear and spotless.",
+        "state 0": "dusty, spotted glass window",
+        "state 1": "clean, clear glass window"
+    },
+    {
+        "prompt": "A metal garden gate, initially corroded and rusty, is returning to a shiny, polished state.",
+        "state 0": "rusty, corroded metal gate",
+        "state 1": "shiny, polished metal gate"
+    },
+    {
+        "prompt": "A canvas painting, once faded and cracked, is restored to its original vivid and colorful appearance.",
+        "state 0": "faded, cracked canvas painting",
+        "state 1": "vivid, colorful canvas painting"
+    },
+    {
+        "prompt": "A concrete sidewalk, cracked and weathered, is returning to a smooth condition.",
+        "state 0": "cracked, weathered sidewalk",
+        "state 1": "smooth, new sidewalk"
+    },
+    {
+        "prompt": "A paper changing from smooth to an embossed surface with virtual 3D effects.",
+        "state 0": "smooth paper",
+        "state 1": "embossed paper"
+    },
+    {
+        "prompt": "A rubber duck slowly transforms into a glassy crystal duck.",
+        "state 0": "rubber duck",
+        "state 1": "glassy crystal duck"
+    },
+    {
+        "prompt": "A ceramic teapot gradually turns into a wooden teapot.",
+        "state 0": "ceramic teapot",
+        "state 1": "wooden teapot"
+    },
+    {
+        "prompt": "A denim jacket shifts into a silk jacket, with the fabric softening and gaining a reflective surface.",
+        "state 0": "denim jacket",
+        "state 1": "silk jacket with reflective surface"
+    },
+    {
+        "prompt": "A clear glass window becoming dusty and spotted as a shiny metal gate gradually corroding over time.",
+        "state 0": "clean glass window and shiny metal gate",
+        "state 1": "dusty glass window and corroding metal gate"
+    },
+    {
+        "prompt": "The apple is shrinking and drying out.",
+        "state 0": "fresh apple",
+        "state 1": "shrinking, dried-out apple"
+    },
+    {
+        "prompt": "The lava cools, transforming from a molten, viscous flow to rough, porous rock.",
+        "state 0": "molten, viscous lava",
+        "state 1": "rough, porous rock"
+    },
+    {
+        "prompt": "The green and fresh leaf is curling and turning brown.",
+        "state 0": "green, fresh leaf",
+        "state 1": "curled, brown leaf"
+    },
+    {
+        "prompt": "The flower is wilting and losing its vibrant color.",
+        "state 0": "vibrant flower",
+        "state 1": "wilted, colorless flower"
+    },
+    {
+        "prompt": "The balloon is deflating and wrinkling.",
+        "state 0": "inflated balloon",
+        "state 1": "deflated, wrinkled balloon"
+    },
+    {
+        "prompt": "The mountain shifts from bare rocky cliffs into snow-covered peaks.",
+        "state 0": "bare rocky cliffs",
+        "state 1": "snow-covered peaks"
+    },
+    {
+        "prompt": "The tree fills out from bare branches into lush, green foliage.",
+        "state 0": "bare tree branches",
+        "state 1": "lush, green tree"
+    },
+    {
+        "prompt": "The pink flowers are turning from withered to full blossom.",
+        "state 0": "withered pink flowers",
+        "state 1": "fully blossomed pink flowers"
+    },
+    {
+        "prompt": "The pink flowers are turning from full blossom to withered.",
+        "state 0": "fully blossomed pink flowers",
+        "state 1": "withered pink flowers"
+    },
+    {
+        "prompt": "The blue ink dissolves in water, spreading out and turning the water blue.",
+        "state 0": "blue ink and clear water",
+        "state 1": "blue water"
+    },
+    {
+        "prompt": "The icicle forms, going from a single droplet to a long, pointed shape as water freezes layer by layer.",
+        "state 0": "single water droplet",
+        "state 1": "long, pointed icicle"
+    },
+    {
+        "prompt": "The face is morphing from a human into a chimpanzee.",
+        "state 0": "human face",
+        "state 1": "chimpanzee face"
+    },
+    {
+        "prompt": "The landscape transforms from a barren desert into a lush forest.",
+        "state 0": "barren desert",
+        "state 1": "lush forest"
+    },
+    {
+        "prompt": "The building changes from an ancient ruin into a modern skyscraper.",
+        "state 0": "ancient ruin",
+        "state 1": "modern skyscraper"
+    },
+    {
+        "prompt": "The painting develops from rough pencil sketches into a vibrant, detailed masterpiece.",
+        "state 0": "rough pencil sketches",
+        "state 1": "vibrant, detailed masterpiece"
+    },
+    {
+        "prompt": "The robot builds up from a simple metal framework into a fully armored machine.",
+        "state 0": "simple metal framework",
+        "state 1": "fully armored robot"
+    },
+    {
+        "prompt": "The rough stone refines from an unpolished rock into a smooth marble statue.",
+        "state 0": "rough, unpolished stone",
+        "state 1": "smooth, polished marble statue"
+    },
+    {
+        "prompt": "The galaxy assembles from scattered stars into a swirling spiral galaxy.",
+        "state 0": "scattered stars",
+        "state 1": "swirling spiral galaxy"
+    },
+    {
+        "prompt": "The garden blooms from bare soil patches into a vibrant paradise.",
+        "state 0": "bare soil patches garden",
+        "state 1": "vibrant blooming garden"
+    },
+    {
+        "prompt": "The city skyline grows from low historic buildings into towering futuristic structures.",
+        "state 0": "low historic city buildings",
+        "state 1": "towering futuristic city buildings"
+    },
+    {
+        "prompt": "The car transforms from a vintage model into a sleek, modern sports car.",
+        "state 0": "vintage car model",
+        "state 1": "sleek, modern sports car"
+    },
+    {
+        "prompt": "The planet shifts from barren landscapes into a vibrant, life-filled world.",
+        "state 0": "barren planet",
+        "state 1": "vibrant, life-filled planet"
+    },
+    {
+        "prompt": "The blueprint progresses from simple lines and measurements into a completed building.",
+        "state 0": "simple lines and measurements blueprint",
+        "state 1": "completed building"
+    },
+    {
+        "prompt": "The digital avatar advances from pixelated shapes into a lifelike character.",
+        "state 0": "pixelated avatar",
+        "state 1": "lifelike avatar"
+    },
+    {
+        "prompt": "The apple is shrinking and drying out as the flower is wilting and losing its vibrant color.",
+        "state 0": "fresh apple and vibrant flower",
+        "state 1": "shrinking, dried apple and wilted flower losing its vibrant color"
+    },
+    {
+        "prompt": "The green and fresh leaf is curling and turning brown as the balloon is deflating and wrinkling.",
+        "state 0": "green, fresh leaf and inflated balloon",
+        "state 1": "curled, brown leaf and deflated, wrinkled balloon"
+    }
+]

@@ -1,0 +1,1604 @@
+[
+    {
+        "prompt": "A dog runs through a field while a cat climbs a tree",
+        "phrase_0": [
+            "a dog?",
+            "a dog runs through a field?"
+        ],
+        "phrase_1": [
+            "a cat?",
+            "a cat climbs a tree?"
+        ]
+    },
+    {
+        "prompt": "A fish swims gracefully in a tank as a horse gallops outside",
+        "phrase_0": [
+            "a fish?",
+            "a fish swims gracefully in a tank?"
+        ],
+        "phrase_1": [
+            "a horse?",
+            "a horse gallops outside?"
+        ]
+    },
+    {
+        "prompt": "An elephant sprays water with its trunk, a lion sitting nearby",
+        "phrase_0": [
+            "an elephant?",
+            "an elephant sprays water with its trunk?"
+        ],
+        "phrase_1": [
+            "a lion?",
+            "a lion sitting nearby?"
+        ]
+    },
+    {
+        "prompt": "A panda eats bamboo while a monkey swings from branch to branch",
+        "phrase_0": [
+            "a panda?",
+            "a panda eats bamboo?"
+        ],
+        "phrase_1": [
+            "a monkey?",
+            "a monkey swings from branch to branch?"
+        ]
+    },
+    {
+        "prompt": "A deer grazes in the meadow as a rabbit hops by",
+        "phrase_0": [
+            "a deer?",
+            "a deer grazes in the meadow?"
+        ],
+        "phrase_1": [
+            "a rabbit?",
+            "a rabbit hops by?"
+        ]
+    },
+    {
+        "prompt": "A kangaroo bounds across the plain and a cow grazes",
+        "phrase_0": [
+            "a kangaroo?",
+            "a kangaroo bounds across the plain?"
+        ],
+        "phrase_1": [
+            "a cow?",
+            "a cow grazes?"
+        ]
+    },
+    {
+        "prompt": "A chicken pecks at the ground, a bee flies overhead",
+        "phrase_0": [
+            "a chicken?",
+            "a chicken pecks at the ground?"
+        ],
+        "phrase_1": [
+            "a bee?",
+            "a bee flies overhead?"
+        ]
+    },
+    {
+        "prompt": "A snail crosses the path as a butterfly flutters above",
+        "phrase_0": [
+            "a snail?",
+            "a snail crosses the path?"
+        ],
+        "phrase_1": [
+            "a butterfly?",
+            "a butterfly flutters above?"
+        ]
+    },
+    {
+        "prompt": "A penguin waddles on the ice, a camel treks by",
+        "phrase_0": [
+            "a penguin?",
+            "a penguin waddles on the ice?"
+        ],
+        "phrase_1": [
+            "a camel?",
+            "a camel treks by?"
+        ]
+    },
+    {
+        "prompt": "A squirrel scurries up a tree as a bat flies out from the leaves",
+        "phrase_0": [
+            "a squirrel?",
+            "a squirrel scurries up a tree?"
+        ],
+        "phrase_1": [
+            "a bat?",
+            "a bat flies out from the leaves?"
+        ]
+    },
+    {
+        "prompt": "A frog jumps from lily to lily, a swan swims nearby",
+        "phrase_0": [
+            "a frog?",
+            "a frog jumps from lily to lily?"
+        ],
+        "phrase_1": [
+            "a swan?",
+            "a swan swims nearby?"
+        ]
+    },
+    {
+        "prompt": "A cat sits on a windowsill and a dog plays in the yard",
+        "phrase_0": [
+            "a cat?",
+            "a cat sits on a windowsill?"
+        ],
+        "phrase_1": [
+            "a dog?",
+            "a dog plays in the yard?"
+        ]
+    },
+    {
+        "prompt": "A horse walks in the field and a rabbit nibbles on grass",
+        "phrase_0": [
+            "a horse?",
+            "a horse walks in the field?"
+        ],
+        "phrase_1": [
+            "a rabbit?",
+            "a rabbit nibbles on grass?"
+        ]
+    },
+    {
+        "prompt": "A monkey plays with fruit, a deer grazes nearby",
+        "phrase_0": [
+            "a monkey?",
+            "a monkey plays with fruit?"
+        ],
+        "phrase_1": [
+            "a deer?",
+            "a deer grazes nearby?"
+        ]
+    },
+    {
+        "prompt": "A rabbit digs a hole, a kangaroo bounds nearby",
+        "phrase_0": [
+            "a rabbit?",
+            "a rabbit digs a hole?"
+        ],
+        "phrase_1": [
+            "a kangaroo?",
+            "a kangaroo bounds nearby?"
+        ]
+    },
+    {
+        "prompt": "A bee lands on a flower and a butterfly dances around the petals",
+        "phrase_0": [
+            "a bee?",
+            "a bee lands on a flower?"
+        ],
+        "phrase_1": [
+            "a butterfly?",
+            "a butterfly dances around the petals?"
+        ]
+    },
+    {
+        "prompt": "A butterfly flies from flower to flower, a bird flies from above",
+        "phrase_0": [
+            "a butterfly?",
+            "a butterfly flies from flower to flower?"
+        ],
+        "phrase_1": [
+            "a bird?",
+            "a bird flies from above?"
+        ]
+    },
+    {
+        "prompt": "A penguin dives into cold waters and a seal surfaces",
+        "phrase_0": [
+            "a penguin?",
+            "a penguin dives into cold waters?"
+        ],
+        "phrase_1": [
+            "a seal?",
+            "a seal surfaces?"
+        ]
+    },
+    {
+        "prompt": "A squirrel gathers nuts and a bat hangs from a tree branch",
+        "phrase_0": [
+            "a squirrel?",
+            "a squirrel gathers nuts?"
+        ],
+        "phrase_1": [
+            "a bat?",
+            "a bat hangs from a tree branch?"
+        ]
+    },
+    {
+        "prompt": "A dolphin jumps while a shark lurks beneath the waves",
+        "phrase_0": [
+            "a dolphin?",
+            "a dolphin jumps?"
+        ],
+        "phrase_1": [
+            "a shark?",
+            "a shark lurks beneath the waves?"
+        ]
+    },
+    {
+        "prompt": "A mouse sneaks cheese from the kitchen, a cat lies in wait",
+        "phrase_0": [
+            "a mouse?",
+            "a mouse sneaks cheese from the kitchen?"
+        ],
+        "phrase_1": [
+            "a cat?",
+            "a cat lies in wait?"
+        ]
+    },
+    {
+        "prompt": "A duck swims in the pond and a frog hops onto a lily pad",
+        "phrase_0": [
+            "a duck?",
+            "a duck swims in the pond?"
+        ],
+        "phrase_1": [
+            "a frog?",
+            "a frog hops onto a lily pad?"
+        ]
+    },
+    {
+        "prompt": "A dog plays guitar while a cat takes a selfie",
+        "phrase_0": [
+            "a dog?",
+            "a dog plays guitar?"
+        ],
+        "phrase_1": [
+            "a cat?",
+            "a cat takes a selfie?"
+        ]
+    },
+    {
+        "prompt": "A horse listens to music with headphones and a cow eats pizza",
+        "phrase_0": [
+            "a horse?",
+            "a horse listens to music with headphones?"
+        ],
+        "phrase_1": [
+            "a cow?",
+            "a cow eats pizza?"
+        ]
+    },
+    {
+        "prompt": "An elephant lifts weights while a lion wears VR goggles",
+        "phrase_0": [
+            "an elephant?",
+            "an elephant lifts weights?"
+        ],
+        "phrase_1": [
+            "a lion?",
+            "a lion wears VR goggles?"
+        ]
+    },
+    {
+        "prompt": "A kangaroo boxes in a ring while a sheep jumps rope",
+        "phrase_0": [
+            "a kangaroo?",
+            "a kangaroo boxes in a ring?"
+        ],
+        "phrase_1": [
+            "a sheep?",
+            "a sheep jumps rope?"
+        ]
+    },
+    {
+        "prompt": "A pig cooks in a chef's hat and a chicken tastes the sauce",
+        "phrase_0": [
+            "a pig?",
+            "a pig cooks in a chef's hat?"
+        ],
+        "phrase_1": [
+            "a chicken?",
+            "a chicken tastes the sauce?"
+        ]
+    },
+    {
+        "prompt": "A snail races slowly in a miniature car, a butterfly flies alongside",
+        "phrase_0": [
+            "a snail?",
+            "a snail races slowly in a miniature car?"
+        ],
+        "phrase_1": [
+            "a butterfly?",
+            "a butterfly flies alongside?"
+        ]
+    },
+    {
+        "prompt": "A penguin slides down a snowy slope and a seal claps",
+        "phrase_0": [
+            "a penguin?",
+            "a penguin slides down a snowy slope?"
+        ],
+        "phrase_1": [
+            "a seal?",
+            "a seal claps?"
+        ]
+    },
+    {
+        "prompt": "A wolf howls into a microphone and a fox plays the drums",
+        "phrase_0": [
+            "a wolf?",
+            "a wolf howls into a microphone?"
+        ],
+        "phrase_1": [
+            "a fox?",
+            "a fox plays the drums?"
+        ]
+    },
+    {
+        "prompt": "A squirrel types on a laptop and a bat hangs from a charging cable",
+        "phrase_0": [
+            "a squirrel?",
+            "a squirrel types on a laptop?"
+        ],
+        "phrase_1": [
+            "a bat?",
+            "a bat hangs from a charging cable?"
+        ]
+    },
+    {
+        "prompt": "A dolphin paints underwater on canvas and a shark swims nearby",
+        "phrase_0": [
+            "a dolphin?",
+            "a dolphin paints underwater on canvas?"
+        ],
+        "phrase_1": [
+            "a shark?",
+            "a shark swims nearby?"
+        ]
+    },
+    {
+        "prompt": "A parrot hosts a talk show and a duck claps",
+        "phrase_0": [
+            "a parrot?",
+            "a parrot hosts a talk show?"
+        ],
+        "phrase_1": [
+            "a duck?",
+            "a duck claps?"
+        ]
+    },
+    {
+        "prompt": "A cat DJ at a party, a dog dances with glow sticks",
+        "phrase_0": [
+            "a cat?",
+            "a cat DJ at a party?"
+        ],
+        "phrase_1": [
+            "a dog?",
+            "a dog dances with glow sticks?"
+        ]
+    },
+    {
+        "prompt": "A rabbit hosts a magic show and a kangaroo watches in awe",
+        "phrase_0": [
+            "a rabbit?",
+            "a rabbit hosts a magic show?"
+        ],
+        "phrase_1": [
+            "a kangaroo?",
+            "a kangaroo watches in awe?"
+        ]
+    },
+    {
+        "prompt": "A sheep knits a sweater and a chicken models the outfit",
+        "phrase_0": [
+            "a sheep?",
+            "a sheep knits a sweater?"
+        ],
+        "phrase_1": [
+            "a chicken?",
+            "a chicken models the outfit?"
+        ]
+    },
+    {
+        "prompt": "A bee conducts an orchestra of flowers and a butterfly flutters to the beat",
+        "phrase_0": [
+            "a bee?",
+            "a bee conducts an orchestra of flowers?"
+        ],
+        "phrase_1": [
+            "a butterfly?",
+            "a butterfly flutters to the beat?"
+        ]
+    },
+    {
+        "prompt": "A squirrel is cooking and a bat tastes the dishes",
+        "phrase_0": [
+            "a squirrel?",
+            "a squirrel is cooking?"
+        ],
+        "phrase_1": [
+            "a bat?",
+            "a bat tastes the dishes?"
+        ]
+    },
+    {
+        "prompt": "A frog plays drums on lily pads, a snail sways along with the beats",
+        "phrase_0": [
+            "a frog?",
+            "a frog plays drums on lily pads?"
+        ],
+        "phrase_1": [
+            "a snail?",
+            "a snail sways along with the beats?"
+        ]
+    },
+    {
+        "prompt": "A crow writes a novel and a parrot reads a book",
+        "phrase_0": [
+            "a crow?",
+            "a crow writes a novel?"
+        ],
+        "phrase_1": [
+            "a parrot?",
+            "a parrot reads a book?"
+        ]
+    },
+    {
+        "prompt": "A parrot rides a skateboard and a duck takes a photo",
+        "phrase_0": [
+            "a parrot?",
+            "a parrot rides a skateboard?"
+        ],
+        "phrase_1": [
+            "a duck?",
+            "a duck takes a photo?"
+        ]
+    },
+    {
+        "prompt": "A monkey juggles bananas, a teddy bear is surprised",
+        "phrase_0": [
+            "a monkey?",
+            "a monkey juggles bananas?"
+        ],
+        "phrase_1": [
+            "a teddy bear?",
+            "a teddy bear is surprised?"
+        ]
+    },
+    {
+        "prompt": "A teddy bear plays a guitar and a kangaroo hops in rhythm",
+        "phrase_0": [
+            "a teddy bear?",
+            "a teddy bear plays a guitar?"
+        ],
+        "phrase_1": [
+            "a kangaroo?",
+            "a kangaroo hops in rhythm?"
+        ]
+    },
+    {
+        "prompt": "A monkey in a pilot jacket and a parrot with aviator goggles ready for flight",
+        "phrase_0": [
+            "a monkey?",
+            "a monkey in a pilot jacket?"
+        ],
+        "phrase_1": [
+            "a parrot?",
+            "a parrot with aviator goggles ready for flight?"
+        ]
+    },
+    {
+        "prompt": "A horse dons a top hat and a cow wears a bow tie at a barn dance",
+        "phrase_0": [
+            "a horse?",
+            "a horse dons a top hat?"
+        ],
+        "phrase_1": [
+            "a cow?",
+            "a cow wears a bow tie at a barn dance?"
+        ]
+    },
+    {
+        "prompt": "A man jogs through the park and a dog fetches a stick",
+        "phrase_0": [
+            "a man?",
+            "a man jogs through the park?"
+        ],
+        "phrase_1": [
+            "a dog?",
+            "a dog fetches a stick?"
+        ]
+    },
+    {
+        "prompt": "A woman reads a book and a cat naps on the sofa",
+        "phrase_0": [
+            "a woman?",
+            "a woman reads a book?"
+        ],
+        "phrase_1": [
+            "a cat?",
+            "a cat naps on the sofa?"
+        ]
+    },
+    {
+        "prompt": "A child blows bubbles and a fish swims around in a bowl",
+        "phrase_0": [
+            "a child?",
+            "a child blows bubbles?"
+        ],
+        "phrase_1": [
+            "a fish?",
+            "a fish swims around in a bowl?"
+        ]
+    },
+    {
+        "prompt": "A kid climbs a tree, a horse grazes nearby",
+        "phrase_0": [
+            "a kid?",
+            "a kid climbs a tree?"
+        ],
+        "phrase_1": [
+            "a horse?",
+            "a horse grazes nearby?"
+        ]
+    },
+    {
+        "prompt": "A person is painting and an elephant waves its trunk",
+        "phrase_0": [
+            "a person?",
+            "a person is painting?"
+        ],
+        "phrase_1": [
+            "an elephant?",
+            "an elephant waves its trunk?"
+        ]
+    },
+    {
+        "prompt": "A man cooks dinner and a dog lounges in the sun",
+        "phrase_0": [
+            "a man?",
+            "a man cooks dinner?"
+        ],
+        "phrase_1": [
+            "a dog?",
+            "a dog lounges in the sun?"
+        ]
+    },
+    {
+        "prompt": "A woman gardens and a panda munches on bamboo",
+        "phrase_0": [
+            "a woman?",
+            "a woman gardens?"
+        ],
+        "phrase_1": [
+            "a panda?",
+            "a panda munches on bamboo?"
+        ]
+    },
+    {
+        "prompt": "A child plays on a swing, a monkey dangles from branches",
+        "phrase_0": [
+            "a child?",
+            "a child plays on a swing?"
+        ],
+        "phrase_1": [
+            "a monkey?",
+            "a monkey dangles from branches?"
+        ]
+    },
+    {
+        "prompt": "A person rides a bicycle, a rabbit hops alongside the path",
+        "phrase_0": [
+            "a person?",
+            "a person rides a bicycle?"
+        ],
+        "phrase_1": [
+            "a rabbit?",
+            "a rabbit hops alongside the path?"
+        ]
+    },
+    {
+        "prompt": "A woman walks and a cow is chewing grass",
+        "phrase_0": [
+            "a woman?",
+            "a woman walks?"
+        ],
+        "phrase_1": [
+            "a cow?",
+            "a cow is chewing grass?"
+        ]
+    },
+    {
+        "prompt": "A kid flies a kite and a sheep grazes under the sky",
+        "phrase_0": [
+            "a kid?",
+            "a kid flies a kite?"
+        ],
+        "phrase_1": [
+            "a sheep?",
+            "a sheep grazes under the sky?"
+        ]
+    },
+    {
+        "prompt": "A person sketches in a park and a chicken lays an egg",
+        "phrase_0": [
+            "a person?",
+            "a person sketches in a park?"
+        ],
+        "phrase_1": [
+            "a chicken?",
+            "a chicken lays an egg?"
+        ]
+    },
+    {
+        "prompt": "A woman waters plants and a snail crawls along the pot",
+        "phrase_0": [
+            "a woman?",
+            "a woman waters plants?"
+        ],
+        "phrase_1": [
+            "a snail?",
+            "a snail crawls along the pot?"
+        ]
+    },
+    {
+        "prompt": "A kid and a penguin watch a movie in the cinema",
+        "phrase_0": [
+            "a kid?",
+            "a kid watches a movie?"
+        ],
+        "phrase_1": [
+            "a penguin?",
+            "a penguin watches a movie?"
+        ]
+    },
+    {
+        "prompt": "A person makes coffee and a camel stands outside the window",
+        "phrase_0": [
+            "a person?",
+            "a person makes coffee?"
+        ],
+        "phrase_1": [
+            "a camel?",
+            "a camel stands outside the window?"
+        ]
+    },
+    {
+        "prompt": "A man takes photos and a boy dances on the street",
+        "phrase_0": [
+            "a man?",
+            "a man takes photos?"
+        ],
+        "phrase_1": [
+            "a boy?",
+            "a boy dances on the street?"
+        ]
+    },
+    {
+        "prompt": "A child picks apples and a squirrel gathers nuts in the orchard",
+        "phrase_0": [
+            "a child?",
+            "a child picks apples?"
+        ],
+        "phrase_1": [
+            "a squirrel?",
+            "a squirrel gathers nuts in the orchard?"
+        ]
+    },
+    {
+        "prompt": "A kid plays piano and a bat hangs from the ceiling",
+        "phrase_0": [
+            "a kid?",
+            "a kid plays piano?"
+        ],
+        "phrase_1": [
+            "a bat?",
+            "a bat hangs from the ceiling?"
+        ]
+    },
+    {
+        "prompt": "A person swims in a lake, a dolphin jumps nearby",
+        "phrase_0": [
+            "a person?",
+            "a person swims in a lake?"
+        ],
+        "phrase_1": [
+            "a dolphin?",
+            "a dolphin jumps nearby?"
+        ]
+    },
+    {
+        "prompt": "A man teaches math and a mouse scurries around the classroom",
+        "phrase_0": [
+            "a man?",
+            "a man teaches math?"
+        ],
+        "phrase_1": [
+            "a mouse?",
+            "a mouse scurries around the classroom?"
+        ]
+    },
+    {
+        "prompt": "A woman bakes cookies and a frog hops on the kitchen window",
+        "phrase_0": [
+            "a woman?",
+            "a woman bakes cookies?"
+        ],
+        "phrase_1": [
+            "a frog?",
+            "a frog hops on the kitchen window?"
+        ]
+    },
+    {
+        "prompt": "A person rows a boat, a duck swims alongside",
+        "phrase_0": [
+            "a person?",
+            "a person rows a boat?"
+        ],
+        "phrase_1": [
+            "a duck?",
+            "a duck swims alongside?"
+        ]
+    },
+    {
+        "prompt": "A man fixes a bike, a dog sits beside",
+        "phrase_0": [
+            "a man?",
+            "a man fixes a bike?"
+        ],
+        "phrase_1": [
+            "a dog?",
+            "a dog sits beside?"
+        ]
+    },
+    {
+        "prompt": "A woman knits a sweater and a cat plays with the yarn",
+        "phrase_0": [
+            "a woman?",
+            "a woman knits a sweater?"
+        ],
+        "phrase_1": [
+            "a cat?",
+            "a cat plays with the yarn?"
+        ]
+    },
+    {
+        "prompt": "A child throws a frisbee and a fish splashes in a nearby pond",
+        "phrase_0": [
+            "a child?",
+            "a child throws a frisbee?"
+        ],
+        "phrase_1": [
+            "a fish?",
+            "a fish splashes in a nearby pond?"
+        ]
+    },
+    {
+        "prompt": "A man sets up a telescope and a lion rests under the stars",
+        "phrase_0": [
+            "a man?",
+            "a man sets up a telescope?"
+        ],
+        "phrase_1": [
+            "a lion?",
+            "a lion rests under the stars?"
+        ]
+    },
+    {
+        "prompt": "A woman practices yoga and a panda relaxes under a tree",
+        "phrase_0": [
+            "a woman?",
+            "a woman practices yoga?"
+        ],
+        "phrase_1": [
+            "a panda?",
+            "a panda relaxes under a tree?"
+        ]
+    },
+    {
+        "prompt": "A man jogs and a car drives on the road",
+        "phrase_0": [
+            "a man?",
+            "a man jogs?"
+        ],
+        "phrase_1": [
+            "a car?",
+            "a car drives on the road?"
+        ]
+    },
+    {
+        "prompt": "A woman rides a bicycle and a drone hovers above capturing the scene",
+        "phrase_0": [
+            "a woman?",
+            "a woman rides a bicycle?"
+        ],
+        "phrase_1": [
+            "a drone?",
+            "a drone hovers above capturing the scene?"
+        ]
+    },
+    {
+        "prompt": "A dog chases after a balloon drifting in the wind",
+        "phrase_0": [
+            "a dog?",
+            "a dog chases after a balloon?"
+        ],
+        "phrase_1": [
+            "a balloon?",
+            "a balloon drifts in the wind?"
+        ]
+    },
+    {
+        "prompt": "A cat skates on a skateboard, chasing a rolling ball",
+        "phrase_0": [
+            "a cat?",
+            "a cat skates on a skateboard?"
+        ],
+        "phrase_1": [
+            "a ball?",
+            "a ball rolls?"
+        ]
+    },
+    {
+        "prompt": "A fish swims in a tank and a model boat floats above",
+        "phrase_0": [
+            "a fish?",
+            "a fish swims in a tank?"
+        ],
+        "phrase_1": [
+            "a model boat?",
+            "a model boat floats above?"
+        ]
+    },
+    {
+        "prompt": "A horse races alongside a moving train",
+        "phrase_0": [
+            "a horse?",
+            "a horse races alongside?"
+        ],
+        "phrase_1": [
+            "a train?",
+            "a train moves?"
+        ]
+    },
+    {
+        "prompt": "A deer grazes as a motorcycle speeds along a nearby road",
+        "phrase_0": [
+            "a deer?",
+            "a deer grazes?"
+        ],
+        "phrase_1": [
+            "a motorcycle?",
+            "a motorcycle speeds along a nearby road?"
+        ]
+    },
+    {
+        "prompt": "A rabbit hops near a rotating windmill",
+        "phrase_0": [
+            "a rabbit?",
+            "a rabbit hops near?"
+        ],
+        "phrase_1": [
+            "a windmill?",
+            "a windmill rotates?"
+        ]
+    },
+    {
+        "prompt": "A kangaroo bounds alongside a moving bus",
+        "phrase_0": [
+            "a kangaroo?",
+            "a kangaroo bounds alongside?"
+        ],
+        "phrase_1": [
+            "a bus?",
+            "a bus moves?"
+        ]
+    },
+    {
+        "prompt": "The sun rises above the horizon and a ship sails across the sea",
+        "phrase_0": [
+            "the sun?",
+            "the sun rises above the horizon?"
+        ],
+        "phrase_1": [
+            "a ship?",
+            "a ship sails across the sea?"
+        ]
+    },
+    {
+        "prompt": "A sheep walks on the grass as a hot air balloon floats overhead",
+        "phrase_0": [
+            "a sheep?",
+            "a sheep walks on the grass?"
+        ],
+        "phrase_1": [
+            "a hot air balloon?",
+            "a hot air balloon floats overhead?"
+        ]
+    },
+    {
+        "prompt": "A penguin waddles as a ship cruises in the distance",
+        "phrase_0": [
+            "a penguin?",
+            "a penguin waddles?"
+        ],
+        "phrase_1": [
+            "a ship?",
+            "a ship cruises in the distance?"
+        ]
+    },
+    {
+        "prompt": "A camel walks through the desert, a car drives in the background",
+        "phrase_0": [
+            "a camel?",
+            "a camel walks through the desert?"
+        ],
+        "phrase_1": [
+            "a car?",
+            "a car drives in the background?"
+        ]
+    },
+    {
+        "prompt": "A bat flies out of a cave as a helicopter flies overhead",
+        "phrase_0": [
+            "a bat?",
+            "a bat flies out of a cave?"
+        ],
+        "phrase_1": [
+            "a helicopter?",
+            "a helicopter flies overhead?"
+        ]
+    },
+    {
+        "prompt": "A dolphin jumps next to a speeding boat",
+        "phrase_0": [
+            "a dolphin?",
+            "a dolphin jumps next to?"
+        ],
+        "phrase_1": [
+            "a boat?",
+            "a boat speeds?"
+        ]
+    },
+    {
+        "prompt": "A frog jumps onto a lily pad, a toy boat passes by",
+        "phrase_0": [
+            "a frog?",
+            "a frog jumps onto a lily pad?"
+        ],
+        "phrase_1": [
+            "a toy boat?",
+            "a toy boat passes by?"
+        ]
+    },
+    {
+        "prompt": "A duck swims in a pond and a model ship floats nearby",
+        "phrase_0": [
+            "a duck?",
+            "a duck swims in a pond?"
+        ],
+        "phrase_1": [
+            "a model ship?",
+            "a model ship floats nearby?"
+        ]
+    },
+    {
+        "prompt": "A child plays toys, a robot walks around",
+        "phrase_0": [
+            "a child?",
+            "a child plays toys?"
+        ],
+        "phrase_1": [
+            "a robot?",
+            "a robot walks around?"
+        ]
+    },
+    {
+        "prompt": "A kid throws stones and a ferris wheel slowly rotates",
+        "phrase_0": [
+            "a kid?",
+            "a kid throws stones?"
+        ],
+        "phrase_1": [
+            "a ferris wheel?",
+            "a ferris wheel slowly rotates?"
+        ]
+    },
+    {
+        "prompt": "A person rows a boat and a duck paddles alongside",
+        "phrase_0": [
+            "a person?",
+            "a person rows a boat?"
+        ],
+        "phrase_1": [
+            "a duck?",
+            "a duck paddles alongside?"
+        ]
+    },
+    {
+        "prompt": "A bird sits on a branch while a squirrel climbs the tree",
+        "phrase_0": [
+            "a bird?",
+            "a bird sits on a branch?"
+        ],
+        "phrase_1": [
+            "a squirrel?",
+            "a squirrel climbs the tree?"
+        ]
+    },
+    {
+        "prompt": "A dolphin leaps out of the water as a shark glides beneath the waves",
+        "phrase_0": [
+            "a dolphin?",
+            "a dolphin leaps out of the water?"
+        ],
+        "phrase_1": [
+            "a shark?",
+            "a shark glides beneath the waves?"
+        ]
+    },
+    {
+        "prompt": "A boy plays basketball and a girl jumps rope",
+        "phrase_0": [
+            "a boy?",
+            "a boy plays basketball?"
+        ],
+        "phrase_1": [
+            "a girl?",
+            "a girl jumps rope?"
+        ]
+    },
+    {
+        "prompt": "A peacock fans its feathers while a rabbit nibbles on clover",
+        "phrase_0": [
+            "a peacock?",
+            "a peacock fans its feathers?"
+        ],
+        "phrase_1": [
+            "a rabbit?",
+            "a rabbit nibbles on clover?"
+        ]
+    },
+    {
+        "prompt": "A penguin slides on the ice while a seal lounges nearby",
+        "phrase_0": [
+            "a penguin?",
+            "a penguin slides on the ice?"
+        ],
+        "phrase_1": [
+            "a seal?",
+            "a seal lounges nearby?"
+        ]
+    },
+    {
+        "prompt": "A cow grazes in a pasture while a dog herds sheep nearby",
+        "phrase_0": [
+            "a cow?",
+            "a cow grazes in a pasture?"
+        ],
+        "phrase_1": [
+            "a dog?",
+            "a dog herds sheep nearby?"
+        ]
+    },
+    {
+        "prompt": "A flamingo balances on one leg and a woman takes photos",
+        "phrase_0": [
+            "a flamingo?",
+            "a flamingo balances on one leg?"
+        ],
+        "phrase_1": [
+            "a woman?",
+            "a woman takes photos?"
+        ]
+    },
+    {
+        "prompt": "A kangaroo hops across the plain while an emu strides beside it",
+        "phrase_0": [
+            "a kangaroo?",
+            "a kangaroo hops across the plain?"
+        ],
+        "phrase_1": [
+            "an emu?",
+            "an emu strides beside it?"
+        ]
+    },
+    {
+        "prompt": "A car is driving down the street while a dog is barking at a passerby.",
+        "phrase_0": ["a car?", "a car is driving down the street?"],
+        "phrase_1": ["a dog?", "a dog is barking at a passerby?"]
+    },
+    {
+        "prompt": "A robot is fixing a malfunctioning light while a dog is chasing its tail in the backyard.",
+        "phrase_0": ["a robot?", "a robot is fixing a malfunctioning light?"],
+        "phrase_1": ["a dog?", "a dog is chasing its tail in the backyard?"]
+    },
+    {
+        "prompt": "A tree is swaying in the wind while a fish is swimming in a pond below.",
+        "phrase_0": ["a tree?", "a tree is swaying in the wind?"],
+        "phrase_1": ["a fish?", "a fish is swimming in a pond below?"]
+    },
+    {
+        "prompt": "A spaceship is launching into the sky while a deer is grazing in the meadow below.",
+        "phrase_0": ["a spaceship?", "a spaceship is launching into the sky?"],
+        "phrase_1": ["a deer?", "a deer is grazing in the meadow below?"]
+    },
+    {
+        "prompt": "A bike is racing down the street as a butterfly is fluttering above the flowers.",
+        "phrase_0": ["a bike?", "a bike is racing down the street?"],
+        "phrase_1": ["a butterfly?", "a butterfly is fluttering above the flowers?"]
+    },
+    {
+        "prompt": "A rock is rolling down a hill as a panda is climbing a bamboo tree.",
+        "phrase_0": ["a rock?", "a rock is rolling down a hill?"],
+        "phrase_1": ["a panda?", "a panda is climbing a bamboo tree?"]
+    },
+    {
+        "prompt": "A bed is covered in a soft blanket while a puppy is playing with a toy on the floor.",
+        "phrase_0": ["a bed?", "a bed is covered in a soft blanket?"],
+        "phrase_1": ["a puppy?", "a puppy is playing with a toy on the floor?"]
+    },
+    {
+        "prompt": "A football is being kicked across the field while a sparrow is pecking at seeds.",
+        "phrase_0": ["a football?", "a football is being kicked across the field?"],
+        "phrase_1": ["a sparrow?", "a sparrow is pecking at seeds?"]
+    },
+    {
+        "prompt": "A frog is hopping through the marsh while a kite is soaring above the fields.",
+        "phrase_0": ["a frog?", "a frog is hopping through the marsh?"],
+        "phrase_1": ["a kite?", "a kite is soaring above the fields?"]
+    },
+    {
+        "prompt": "A fireplace is crackling with flames while a motorcycle is racing down the highway.",
+        "phrase_0": ["a fireplace?", "a fireplace is crackling with flames?"],
+        "phrase_1": ["a motorcycle?", "a motorcycle is racing down the highway?"]
+    },
+    {
+        "prompt": "A squirrel is climbing a tree as a swan is floating on the pond nearby.",
+        "phrase_0": ["a squirrel?", "a squirrel is climbing a tree?"],
+        "phrase_1": ["a swan?", "a swan is floating on the pond nearby?"]
+    },
+    {
+        "prompt": "A canoe is drifting down the river as a toddler is running in the park.",
+        "phrase_0": ["a canoe?", "a canoe is drifting down the river?"],
+        "phrase_1": ["a toddler?", "a toddler is running in the park?"]
+    },
+    {
+        "prompt": "A robot is painting a mural on a brick wall, while a cat is leaping onto a nearby ledge.",
+        "phrase_0": ["a robot?", "a robot is painting a mural on a brick wall?"],
+        "phrase_1": ["a cat?", "a cat is leaping onto a nearby ledge?"]
+    },
+    {
+        "prompt": "A kite is soaring high in the sky, while a dog is chasing after a ball on the grassy field below.",
+        "phrase_0": ["a kite?", "a kite is soaring high in the sky?"],
+        "phrase_1": ["a dog?", "a dog is chasing after a ball on the grassy field below?"]
+    },
+    {
+        "prompt": "A ship is sailing through the waves, while a seagull is gliding above the deck.",
+        "phrase_0": ["a ship?", "a ship is sailing through the waves?"],
+        "phrase_1": ["a seagull?", "a seagull is gliding above the deck?"]
+    },
+    {
+        "prompt": "A bicycle is cruising down a street, while a squirrel is scampering up a tree trunk.",
+        "phrase_0": ["a bicycle?", "a bicycle is cruising down a street?"],
+        "phrase_1": ["a squirrel?", "a squirrel is scampering up a tree trunk?"]
+    },
+    {
+        "prompt": "A dolphin is leaping out of the water, while a boat is gliding through the waves.",
+        "phrase_0": ["a dolphin?", "a dolphin is leaping out of the water?"],
+        "phrase_1": ["a boat?", "a boat is gliding through the waves?"]
+    },
+    {
+        "prompt": "A rabbit is hopping across the meadow, while a butterfly is dancing above a patch of blooming daisies.",
+        "phrase_0": ["a rabbit?", "a rabbit is hopping across the meadow?"],
+        "phrase_1": ["a butterfly?", "a butterfly is dancing above a patch of blooming daisies?"]
+    },
+    {
+        "prompt": "A truck is rumbling along the road, while a sheep is grazing in a nearby field.",
+        "phrase_0": ["a truck?", "a truck is rumbling along the road?"],
+        "phrase_1": ["a sheep?", "a sheep is grazing in a nearby field?"]
+    },
+    {
+        "prompt": "A baby is giggling, while a puppy is wagging its tail.",
+        "phrase_0": ["a baby?", "a baby is giggling?"],
+        "phrase_1": ["a puppy?", "a puppy is wagging its tail?"]
+    },
+    {
+        "prompt": "A penguin is sliding on its belly across the ice, while a polar bear is lumbering along the snowy shore.",
+        "phrase_0": ["a penguin?", "a penguin is sliding on its belly across the ice?"],
+        "phrase_1": ["a polar bear?", "a polar bear is lumbering along the snowy shore?"]
+    },
+    {
+        "prompt": "A cat is stretching on a sunlit windowsill, while a dog is digging in the garden.",
+        "phrase_0": ["a cat?", "a cat is stretching on a sunlit windowsill?"],
+        "phrase_1": ["a dog?", "a dog is digging in the garden?"]
+    },
+    {
+        "prompt": "A spaceship is ascending into the sky, while a meteor is streaking across the heavens.",
+        "phrase_0": ["a spaceship?", "a spaceship is ascending into the sky?"],
+        "phrase_1": ["a meteor?", "a meteor is streaking across the heavens?"]
+    },
+    {
+        "prompt": "A crane is lifting heavy beams at the construction site, while a pigeon is strutting along the sidewalk.",
+        "phrase_0": ["a crane?", "a crane is lifting heavy beams at the construction site?"],
+        "phrase_1": ["a pigeon?", "a pigeon is strutting along the sidewalk?"]
+    },
+    {
+        "prompt": "A cowboy is riding his horse across the open plain, while a bird is circling overhead.",
+        "phrase_0": ["a cowboy?", "a cowboy is riding his horse across the open plain?"],
+        "phrase_1": ["a bird?", "a bird is circling overhead?"]
+    },
+    {
+        "prompt": "A plane is soaring high above the clouds, while a parachutist is descending slowly with a colorful canopy.",
+        "phrase_0": ["a plane?", "a plane is soaring high above the clouds?"],
+        "phrase_1": ["a parachutist?", "a parachutist is descending slowly with a colorful canopy?"]
+    },
+    {
+        "prompt": "A musician is strumming a guitar on stage, while a dancer is twirling gracefully under the spotlight.",
+        "phrase_0": ["a musician?", "a musician is strumming a guitar on stage?"],
+        "phrase_1": ["a dancer?", "a dancer is twirling gracefully under the spotlight?"]
+    },
+    {
+        "prompt": "A runner is sprinting down the track, while a coach is yelling encouragement from the sidelines.",
+        "phrase_0": ["a runner?", "a runner is sprinting down the track?"],
+        "phrase_1": ["a coach?", "a coach is yelling encouragement from the sidelines?"]
+    },
+    {
+        "prompt": "An orange is rolling off the kitchen counter, while a knife is lying on the cutting board.",
+        "phrase_0": ["an orange?", "an orange is rolling off the kitchen counter?"],
+        "phrase_1": ["a knife?", "a knife is lying on the cutting board?"]
+    },
+    {
+        "prompt": "A fish is swimming in the water, while a frog is hopping onto a lily pad.",
+        "phrase_0": ["a fish?", "a fish is swimming in the water?"],
+        "phrase_1": ["a frog?", "a frog is hopping onto a lily pad?"]
+    },
+    {
+        "prompt": "A train is chugging through the valley, while a cow is grazing peacefully in the meadow.",
+        "phrase_0": ["a train?", "a train is chugging through the valley?"],
+        "phrase_1": ["a cow?", "a cow is grazing peacefully in the meadow?"]
+    },
+    {
+        "prompt": "A boat is floating quietly on the lake, while a duck is wading along the shore.",
+        "phrase_0": ["a boat?", "a boat is floating quietly on the lake?"],
+        "phrase_1": ["a duck?", "a duck is wading along the shore?"]
+    },
+    {
+        "prompt": "A bottle is rolling across the picnic table, while an ant is crawling toward the food.",
+        "phrase_0": ["a bottle?", "a bottle is rolling across the picnic table?"],
+        "phrase_1": ["an ant?", "an ant is crawling toward the food?"]
+    },
+    {
+        "prompt": "An apple is falling from the tree, while a monkey is climbing up the tree.",
+        "phrase_0": ["an apple?", "an apple is falling from the tree?"],
+        "phrase_1": ["a monkey?", "a monkey is climbing up the tree?"]
+    },
+    {
+        "prompt": "A rocket is blasting off into space, while an astronaut is waving from the launch platform.",
+        "phrase_0": ["a rocket?", "a rocket is blasting off into space?"],
+        "phrase_1": ["an astronaut?", "an astronaut is waving from the launch platform?"]
+    },
+    {
+        "prompt": "An umbrella is fluttering in the strong wind, while a bus is waiting at the crowded bus stop.",
+        "phrase_0": ["an umbrella?", "an umbrella is fluttering in the strong wind?"],
+        "phrase_1": ["a bus?", "a bus is waiting at the crowded bus stop?"]
+    },
+    {
+        "prompt": "A flag is fluttering in the strong wind, while a leaf is twisting and turning in the breeze.",
+        "phrase_0": ["a flag?", "a flag is fluttering in the strong wind?"],
+        "phrase_1": ["a leaf?", "a leaf is twisting and turning in the breeze?"]
+    },
+    {
+        "prompt": "A bus is crossing the bridge, while a boat is floating in the river below.",
+        "phrase_0": ["a bus?", "a bus is crossing the bridge?"],
+        "phrase_1": ["a boat?", "a boat is floating in the river below?"]
+    },
+    {
+        "prompt": "A bottle is floating down the river, while a fish is jumping out of the water.",
+        "phrase_0": ["a bottle?", "a bottle is floating down the river?"],
+        "phrase_1": ["a fish?", "a fish is jumping out of the water?"]
+    },
+    {
+        "prompt": "A snowboarder is sliding down the snowy slope, while a bear is walking through the forest nearby.",
+        "phrase_0": ["a snowboarder?", "a snowboarder is sliding down the snowy slope?"],
+        "phrase_1": ["a bear?", "a bear is walking through the forest nearby?"]
+    },
+    {
+        "prompt": "A cow is chewing on grass in the field, while a tractor is plowing the soil nearby.",
+        "phrase_0": ["a cow?", "a cow is chewing on grass in the field?"],
+        "phrase_1": ["a tractor?", "a tractor is plowing the soil nearby?"]
+    },
+    {
+        "prompt": "A jellyfish is drifting gracefully through the water, while a shark is gliding silently below.",
+        "phrase_0": ["a jellyfish?", "a jellyfish is drifting gracefully through the water?"],
+        "phrase_1": ["a shark?", "a shark is gliding silently below?"]
+    },
+    {
+        "prompt": "A vase is holding fresh-cut flowers, while a bee is buzzing nearby.",
+        "phrase_0": ["a vase?", "a vase is holding fresh-cut flowers?"],
+        "phrase_1": ["a bee?", "a bee is buzzing nearby?"]
+    },
+    {
+        "prompt": "A seagull is swooping low over the water, while a surfboard is carving through the waves.",
+        "phrase_0": ["a seagull?", "a seagull is swooping low over the water?"],
+        "phrase_1": ["a surfboard?", "a surfboard is carving through the waves?"]
+    },
+    {
+        "prompt": "A girl is running along the sidewalk, while a butterfly is fluttering.",
+        "phrase_0": ["a girl?", "a girl is running along the sidewalk?"],
+        "phrase_1": ["a butterfly?", "a butterfly is fluttering?"]
+    },
+    {
+        "prompt": "A woman is watering her garden with a hose, while a cat is walking nearby.",
+        "phrase_0": ["a woman?", "a woman is watering her garden with a hose?"],
+        "phrase_1": ["a cat?", "a cat is walking nearby?"]
+    },
+    {
+        "prompt": "A man is reading a newspaper on a park bench, while a squirrel is climbing a tree.",
+        "phrase_0": ["a man?", "a man is reading a newspaper on a park bench?"],
+        "phrase_1": ["a squirrel?", "a squirrel is climbing a tree?"]
+    },
+    {
+        "prompt": "A woman is walking with a briefcase in hand, while a car is passing by on the busy street.",
+        "phrase_0": ["a woman?", "a woman is walking with a briefcase in hand?"],
+        "phrase_1": ["a car?", "a car is passing by on the busy street?"]
+    },
+    {
+        "prompt": "A girl is playing the piano in the living room, while a boy is playing the guitar.",
+        "phrase_0": ["a girl?", "a girl is playing the piano in the living room?"],
+        "phrase_1": ["a boy?", "a boy is playing the guitar?"]
+    },
+    {
+        "prompt": "A boy is climbing a tree in the yard, while a cat is drinking water from a bowl.",
+        "phrase_0": ["a boy?", "a boy is climbing a tree in the yard?"],
+        "phrase_1": ["a cat?", "a cat is drinking water from a bowl?"]
+    },
+    {
+        "prompt": "A man is fishing by the lake, while a duck is paddling past him on the water.",
+        "phrase_0": ["a man?", "a man is fishing by the lake?"],
+        "phrase_1": ["a duck?", "a duck is paddling past him on the water?"]
+    },
+    {
+        "prompt": "A girl is blowing bubbles in the yard, while a puppy is jumping.",
+        "phrase_0": ["a girl?", "a girl is blowing bubbles in the yard?"],
+        "phrase_1": ["a puppy?", "a puppy is jumping?"]
+    },
+    {
+        "prompt": "A boy is skateboarding down the street, while a man is jogging nearby.",
+        "phrase_0": ["a boy?", "a boy is skateboarding down the street?"],
+        "phrase_1": ["a man?", "a man is jogging nearby?"]
+    },
+    {
+        "prompt": "A man is rowing a canoe across the lake, while a boy is waving from the dock.",
+        "phrase_0": ["a man?", "a man is rowing a canoe across the lake?"],
+        "phrase_1": ["a boy?", "a boy is waving from the dock?"]
+    },
+    {
+        "prompt": "A girl is feeding ducks at the pond, while a mother is holding her baby.",
+        "phrase_0": ["a girl?", "a girl is feeding ducks at the pond?"],
+        "phrase_1": ["a mother?", "a mother is holding her baby?"]
+    },
+    {
+        "prompt": "A boy is riding his scooter down the sidewalk, while a mailman is delivering letters to nearby houses.",
+        "phrase_0": ["a boy?", "a boy is riding his scooter down the sidewalk?"],
+        "phrase_1": ["a mailman?", "a mailman is delivering letters to nearby houses?"]
+    },
+    {
+        "prompt": "A baby is crawling across the living room floor, while a kitten is jumping up.",
+        "phrase_0": ["a baby?", "a baby is crawling across the living room floor?"],
+        "phrase_1": ["a kitten?", "a kitten is jumping up?"]
+    },
+    {
+        "prompt": "A pirate is digging for treasure on the beach, while a parrot is perched on a tree.",
+        "phrase_0": ["a pirate?", "a pirate is digging for treasure on the beach?"],
+        "phrase_1": ["a parrot?", "a parrot is perched on a tree?"]
+    },
+    {
+        "prompt": "A prince is riding through the forest on his horse, while an eagle is soaring above.",
+        "phrase_0": ["a prince?", "a prince is riding through the forest on his horse?"],
+        "phrase_1": ["an eagle?", "an eagle is soaring above?"]
+    },
+    {
+        "prompt": "A toddler is playing with building blocks on the living room floor, while a dog is napping in the sunbeam.",
+        "phrase_0": ["a toddler?", "a toddler is playing with building blocks on the living room floor?"],
+        "phrase_1": ["a dog?", "a dog is napping in the sunbeam?"]
+    },
+    {
+        "prompt": "A child is wading through the shallow creek, while a dragonfly is flying nearby.",
+        "phrase_0": ["a child?", "a child is wading through the shallow creek?"],
+        "phrase_1": ["a dragonfly?", "a dragonfly is flying nearby?"]
+    },
+    {
+        "prompt": "A man is vacuuming the living room carpet, while a dog is trotting around.",
+        "phrase_0": ["a man?", "a man is vacuuming the living room carpet?"],
+        "phrase_1": ["a dog?", "a dog is trotting around?"]
+    },
+    {
+        "prompt": "A butterfly is flitting from one flower to the next, while a gardener is trimming the hedges carefully.",
+        "phrase_0": ["a butterfly?", "a butterfly is flitting from one flower to the next?"],
+        "phrase_1": ["a gardener?", "a gardener is trimming the hedges carefully?"]
+    },
+    {
+        "prompt": "A baby is crawling on the playground, while a puppy is rolling around in the grass.",
+        "phrase_0": ["a baby?", "a baby is crawling on the playground?"],
+        "phrase_1": ["a puppy?", "a puppy is rolling around in the grass?"]
+    },
+    {
+        "prompt": "A man is trekking up the mountain, while an owl is soaring in the sky.",
+        "phrase_0": ["a man?", "a man is trekking up the mountain?"],
+        "phrase_1": ["an owl?", "an owl is soaring in the sky?"]
+    },
+    {
+        "prompt": "A woman is turning pages of her favorite book, while a dog is lying on the floor.",
+        "phrase_0": ["a woman?", "a woman is turning pages of her favorite book?"],
+        "phrase_1": ["a dog?", "a dog is lying on the floor?"]
+    },
+    {
+        "prompt": "A child is fleeing from the waves at the beach, while a seagull is swooping down to catch a fish.",
+        "phrase_0": ["a child?", "a child is fleeing from the waves at the beach?"],
+        "phrase_1": ["a seagull?", "a seagull is swooping down to catch a fish?"]
+    },
+    {
+        "prompt": "A dog running through a field while a bird flying across the sky.",
+        "phrase_0": ["a dog?", "a dog running through a field?"],
+        "phrase_1": ["a bird?", "a bird flying across the sky?"]
+    },
+    {
+        "prompt": "A chef cooking in a bustling kitchen while a waiter carrying a tray of dishes.",
+        "phrase_0": ["a chef?", "a chef cooking in a bustling kitchen?"],
+        "phrase_1": ["a waiter?", "a waiter carrying a tray of dishes?"]
+    },
+    {
+        "prompt": "A dancer spinning gracefully on stage while a musician playing the violin.",
+        "phrase_0": ["a dancer?", "a dancer spinning gracefully on stage?"],
+        "phrase_1": ["a musician?", "a musician playing the violin?"]
+    },
+    {
+        "prompt": "A child jumping in a puddle while a kite floating in the air.",
+        "phrase_0": ["a child?", "a child jumping in a puddle?"],
+        "phrase_1": ["a kite?", "a kite floating in the air?"]
+    },
+    {
+        "prompt": "A lion prowling in the grass while an elephant walking nearby.",
+        "phrase_0": ["a lion?", "a lion prowling in the grass?"],
+        "phrase_1": ["an elephant?", "an elephant walking nearby?"]
+    },
+    {
+        "prompt": "A farmer plowing the field while a horse galloping in the pasture.",
+        "phrase_0": ["a farmer?", "a farmer plowing the field?"],
+        "phrase_1": ["a horse?", "a horse galloping in the pasture?"]
+    },
+    {
+        "prompt": "A teacher explaining a lesson while a student taking notes.",
+        "phrase_0": ["a teacher?", "a teacher explaining a lesson?"],
+        "phrase_1": ["a student?", "a student taking notes?"]
+    },
+    {
+        "prompt": "A deer grazing in a meadow while a rabbit hopping nearby.",
+        "phrase_0": ["a deer?", "a deer grazing in a meadow?"],
+        "phrase_1": ["a rabbit?", "a rabbit hopping nearby?"]
+    },
+    {
+        "prompt": "A gardener pruning roses while a cat strolling through the garden.",
+        "phrase_0": ["a gardener?", "a gardener pruning roses?"],
+        "phrase_1": ["a cat?", "a cat strolling through the garden?"]
+    },
+    {
+        "prompt": "A child drawing with chalk while a butterfly fluttering around.",
+        "phrase_0": ["a child?", "a child drawing with chalk?"],
+        "phrase_1": ["a butterfly?", "a butterfly fluttering around?"]
+    },
+    {
+        "prompt": "A fan spinning in a living room while a cupcake melting in the heat.",
+        "phrase_0": ["a fan?", "a fan spinning in a living room?"],
+        "phrase_1": ["a cupcake?", "a cupcake melting in the heat?"]
+    },
+    {
+        "prompt": "A car speeding down the highway while a painter mixing colors on a palette.",
+        "phrase_0": ["a car?", "a car speeding down the highway?"],
+        "phrase_1": ["a painter?", "a painter mixing colors on a palette?"]
+    },
+    {
+        "prompt": "A frisbee spinning through the air while a raccoon climbing a fence.",
+        "phrase_0": ["a frisbee?", "a frisbee spinning through the air?"],
+        "phrase_1": ["a raccoon?", "a raccoon climbing a fence?"]
+    },
+    {
+        "prompt": "A fire hydrant spraying water while a kite dancing in the wind.",
+        "phrase_0": ["a fire hydrant?", "a fire hydrant spraying water?"],
+        "phrase_1": ["a kite?", "a kite dancing in the wind?"]
+    },
+    {
+        "prompt": "A turtle crawls on the beach as a seagull soars overhead.",
+        "phrase_0": ["a turtle?", "a turtle crawls on the beach?"],
+        "phrase_1": ["a seagull?", "a seagull soars overhead?"]
+    },
+    {
+        "prompt": "A deer drinks from a river while a canoe drifts nearby.",
+        "phrase_0": ["a deer?", "a deer drinks from a river?"],
+        "phrase_1": ["a canoe?", "a canoe drifts nearby?"]
+    },
+    {
+        "prompt": "A turtle rides a skateboard while an owl reads a newspaper.",
+        "phrase_0": ["a turtle?", "a turtle rides a skateboard?"],
+        "phrase_1": ["an owl?", "an owl reads a newspaper?"]
+    },
+    {
+        "prompt": "A squirrel drives a car while a penguin blows bubbles.",
+        "phrase_0": ["a squirrel?", "a squirrel drives a car?"],
+        "phrase_1": ["a penguin?", "a penguin blows bubbles?"]
+    },
+    {
+        "prompt": "A kangaroo juggles oranges while a zebra uses a laptop.",
+        "phrase_0": ["a kangaroo?", "a kangaroo juggles oranges?"],
+        "phrase_1": ["a zebra?", "a zebra uses a laptop?"]
+    },
+    {
+        "prompt": "A panda takes selfies while a tiger watches TV.",
+        "phrase_0": ["a panda?", "a panda takes selfies?"],
+        "phrase_1": ["a tiger?", "a tiger watches TV?"]
+    },
+    {
+        "prompt": "A rabbit skateboards through town while an owl watches a movie.",
+        "phrase_0": ["a rabbit?", "a rabbit skateboards through town?"],
+        "phrase_1": ["an owl?", "an owl watches a movie?"]
+    },
+    {
+        "prompt": "A panda drinks tea while a penguin eats cookies.",
+        "phrase_0": ["a panda?", "a panda drinks tea?"],
+        "phrase_1": ["a penguin?", "a penguin eats cookies?"]
+    },
+    {
+        "prompt": "A bear brews coffee while a raccoon decorates a wedding cake.",
+        "phrase_0": ["a bear?", "a bear brews coffee?"],
+        "phrase_1": ["a raccoon?", "a raccoon decorates a wedding cake?"]
+    },
+    {
+        "prompt": "A dog plays chess and a cat rides a bike.",
+        "phrase_0": ["a dog?", "a dog plays chess?"],
+        "phrase_1": ["a cat?", "a cat rides a bike?"]
+    },
+    {
+        "prompt": "A rabbit ice skates on a frozen lake while a chipmunk builds a snowman.",
+        "phrase_0": ["a rabbit?", "a rabbit ice skates on a frozen lake?"],
+        "phrase_1": ["a chipmunk?", "a chipmunk builds a snowman?"]
+    },
+    {
+        "prompt": "A cat paints a canvas while a dog jumps rope.",
+        "phrase_0": ["a cat?", "a cat paints a canvas?"],
+        "phrase_1": ["a dog?", "a dog jumps rope?"]
+    },
+    {
+        "prompt": "A kangaroo kicks a soccer ball while a koala hangs from a bar.",
+        "phrase_0": ["a kangaroo?", "a kangaroo kicks a soccer ball?"],
+        "phrase_1": ["a koala?", "a koala hangs from a bar?"]
+    },
+    {
+        "prompt": "A dog wears sunglasses while a cat wears a superhero cape.",
+        "phrase_0": ["a dog?", "a dog wears sunglasses?"],
+        "phrase_1": ["a cat?", "a cat wears a superhero cape?"]
+    },
+    {
+        "prompt": "A fox wears VR goggles while a raccoon rides a scooter.",
+        "phrase_0": ["a fox?", "a fox wears VR goggles?"],
+        "phrase_1": ["a raccoon?", "a raccoon rides a scooter?"]
+    },
+    {
+        "prompt": "A panda wears a chef hat while a tiger tastes the food.",
+        "phrase_0": ["a panda?", "a panda wears a chef hat?"],
+        "phrase_1": ["a tiger?", "a tiger tastes the food?"]
+    },
+    {
+        "prompt": "A cat takes selfies while a dog rides a skateboard in the background.",
+        "phrase_0": ["a cat?", "a cat takes selfies?"],
+        "phrase_1": ["a dog?", "a dog rides a skateboard in the background?"]
+    },
+    {
+        "prompt": "A giraffe wears a sun hat while an elephant waters plants with its trunk.",
+        "phrase_0": ["a giraffe?", "a giraffe wears a sun hat?"],
+        "phrase_1": ["an elephant?", "an elephant waters plants with its trunk?"]
+    },
+    {
+        "prompt": "A rabbit wears a detective hat and a cat drives a toy car.",
+        "phrase_0": ["a rabbit?", "a rabbit wears a detective hat?"],
+        "phrase_1": ["a cat?", "a cat drives a toy car?"]
+    }
+]
+
+

@@ -1,0 +1,65 @@
+absl-py==2.1.0
+asttokens==2.4.1
+av==12.0.0
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1707229174982/work/certifi
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+contourpy==1.2.1
+cycler==0.12.1
+decorator==5.1.1
+einops==0.8.0
+einshape==1.0
+exceptiongroup==1.2.1
+executing==2.0.1
+filelock @ file:///croot/filelock_1700591183607/work
+fonttools==4.51.0
+fsspec==2024.5.0
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645438755360/work
+huggingface-hub==0.23.0
+idna @ file:///croot/idna_1714398848350/work
+importlib_resources==6.4.0
+ipython==8.18.1
+jedi==0.19.1
+Jinja2 @ file:///croot/jinja2_1706733616596/work
+kiwisolver==1.4.5
+lmdb==1.4.1
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib==3.9.0
+matplotlib-inline==0.1.7
+mediapy==1.2.0
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1690561992265/work
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp39-cp39-linux_x86_64.whl#sha256=6094eeedd869502faa0fd0a8c5ad3a70c5779be06ddd1feb7627e5c212fac420
+packaging==24.0
+parso==0.8.4
+pexpect==4.9.0
+pillow @ file:///croot/pillow_1714398848491/work
+prompt-toolkit==3.0.43
+ptyprocess==0.7.0
+pure-eval==0.2.2
+Pygments==2.18.0
+pyparsing==3.1.2
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil==2.9.0.post0
+PyYAML @ file:///croot/pyyaml_1698096049011/work
+requests @ file:///croot/requests_1707355572290/work
+resample2d-cuda==0.0.0
+safetensors==0.4.3
+scipy==1.13.0
+six==1.16.0
+stack-data==0.6.3
+sympy @ file:///croot/sympy_1701397643339/work
+timm==1.0.3
+torch==2.3.0
+torchaudio==2.3.0
+torchvision==0.18.0
+tqdm==4.66.4
+traitlets==5.14.3
+triton==2.3.0
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+urllib3 @ file:///croot/urllib3_1715635851070/work
+wcwidth==0.2.13
+zipp==3.18.1

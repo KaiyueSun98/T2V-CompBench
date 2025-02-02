@@ -469,7 +469,7 @@ def model_score(csv_path):
         cnt = 0
         for line in lines[1:]:
             try:
-                score_tmp = float(line[-1]) 
+                score_tmp = (float(line[-1])-1)/9 
                 score+=score_tmp
                 cnt+=1
             except:

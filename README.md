@@ -65,7 +65,7 @@ mymodel_numeracy_video.csv,
 ```
 
 1. All of the files listed above are final CSV files that record the model's score for their respective categories, except for "mymodel_motion_back_fore.csv," which contains the intermediate results for motion binding.
-Please replace "my_model" with your model name.
+Please replace "mymodel" with your model name.
 2. If your model is unable to generate one or more videos for certain categories due to safety reasons or other technical issues, the evaluation scripts will automatically skip these cases. As a result, they will not be recorded in the CSV file, and the final average score will exclude them.
 3. The backend script of our leaderboard will also exclude those ungenerated videos if any of the submitted final CSV files contain fewer than 200 videos.
 4. To successfully showcase your model's performance on our leaderboard, please ensure that the last line of each final CSV file, which records the video-level scores, includes the model's score for that category. This line must begin with "score: " or "Score: ".

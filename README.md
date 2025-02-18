@@ -103,6 +103,7 @@ export AM_I_DOCKER=False
 export BUILD_WITH_CUDA=True
 export CUDA_HOME=/path/to/cuda/
 conda create -n compbench python==3.12.3
+conda activate compbench
 cd Grounded-Segment-Anything
 python -m pip install -e segment_anything
 pip install -r requirements.txt

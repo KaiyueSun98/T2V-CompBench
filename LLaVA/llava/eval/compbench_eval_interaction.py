@@ -293,7 +293,7 @@ def eval_model(args):
                     
                 output_1 = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0].strip()
                 outputs_1.append(output_1)
-                conv.messages[-1][-1] = outputs_1
+                conv.messages[-1][-1] = output_1
                 
                 Q2 = f"To evaluate if this prompt \'{this_prompt}\' is correctly portrayed in the video, please carefully answer the following question.\n \
 Question: \n \

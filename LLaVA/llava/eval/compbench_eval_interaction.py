@@ -400,7 +400,6 @@ Provide your answer in a JSON format with the following keys: option (e.g., A), 
                         )
                         
                     output_3 = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0].strip()
-                    outputs_3.append(output_3)
                     
                     json_obj_3 = extract_json(output_3)
                     try:
@@ -442,8 +441,9 @@ Provide your answer in a JSON format with the following keys: option (e.g., A), 
                             score_tmp = "bad reply ?"
                             print("reply wrong format") 
                             
+                outputs_3.append(output_3)          
+                
                 scores_tmp.append(score_tmp)  
-                    
                 print("score for",grid_images[i] , score_tmp)
                 
             int_flag = 0

@@ -258,7 +258,7 @@ def eval_model(args):
             conv_init = conv_templates[args.conv_mode].copy()
             conv_init.append_message(conv_init.roles[0], qs1)
             conv_init.append_message(conv_init.roles[1], None)
-            prompt_init = conv.get_prompt()
+            prompt_init = conv_init.get_prompt()
 
             input_ids_init = (
                 tokenizer_image_token(prompt_init, tokenizer, IMAGE_TOKEN_INDEX, return_tensors="pt")

@@ -356,12 +356,12 @@ B2: It is not obvious if \'{obj2_action}\'. \n \
 C2: The action of \'{obj2_action}\' is not depicted \n \
 Put each option in a JSON format with the following keys: option (e.g., A1,B2), explanation (explaining the option made within 50 words), adjust (adjusted option after explanation, e.g., A1,C2)."
             
-            Q3_BC_obj1 = f"Please select the most suitable option:\n \
+                Q3_BC_obj1 = f"Please select the most suitable option:\n \
 A: \'{obj1_action}\' is clearly depicted . \n \
 B: It is not obvious if \'{obj1_action}\'. \n \
 C: The action of \'{obj1_action}\' is not depicted \n \
 Put the options in JSON format with the following keys: option (e.g., A), explanation (explaining the option made within 50 words), adjust (adjusted option after explanation, e.g., B)."
-            Q3_BC_obj2 = f"Please select the most suitable option:\n \
+                Q3_BC_obj2 = f"Please select the most suitable option:\n \
 A: \'{obj2_action}\' is clearly depicted . \n \
 B: It is not obvious if \'{obj2_action}\'. \n \
 C: The action of \'{obj2_action}\' is not depicted \n \

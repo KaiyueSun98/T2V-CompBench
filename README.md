@@ -83,7 +83,7 @@ The meta data used to assist the evaluation are saved in a json file under the `
 <a name="installation"></a>
 ## :hammer: Installation
 
-MLLM-based evaluation metrics are based on the official repository of [LLaVA](https://github.com/KaiyueSun98/test2/tree/main/LLaVA). 
+MLLM-based evaluation metrics are based on the official repository of [LLaVA](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2/LLaVA). 
 If you are evaluating **consistent attribute bindig, dynamic attribute binding, action binding and object interactions** with MLLM-based metrics, set the environment variable manually as follows:
 ```
 conda create -n llava python==3.10.15
@@ -95,8 +95,8 @@ pip install -e ".[train]"
 pip install flash-attn --no-build-isolation --no-cache-dir
 ```
 
-Detection-based Evaluation metrics are based on the official repositories of [Depth Anything](https://github.com/KaiyueSun98/test2/tree/main/Depth-Anything) and [GroundingSAM](https://github.com/KaiyueSun98/test2/tree/main/Grounded-Segment-Anything). 
-Tracking-based Evaluation metric is based on the repositories of [GroundingSAM](https://github.com/KaiyueSun98/test2/tree/main/Grounded-Segment-Anything) and [Dense Optical Tracking](https://github.com/KaiyueSun98/test2/tree/main/dot). 
+Detection-based Evaluation metrics are based on the official repositories of [Depth Anything](https://github.com/KaiyueSun98/tree/V2/Depth-Anything) and [GroundingSAM](https://github.com/KaiyueSun98/tree/v2/Grounded-Segment-Anything). 
+Tracking-based Evaluation metric is based on the repositories of [GroundingSAM](https://github.com/KaiyueSun98/tree/V2/main/Grounded-Segment-Anything) and [Dense Optical Tracking](https://github.com/KaiyueSun98/tree/V2/main/dot). 
 If you are evaluating **spatial relationships, generative numeracy** with Detection-based metrics, or  **motion binding** with Tracking-based metrics:
 1. Set the environment variable manually as follows:
 ```

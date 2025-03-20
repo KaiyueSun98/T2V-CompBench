@@ -96,7 +96,7 @@ pip install flash-attn --no-build-isolation --no-cache-dir
 ```
 
 Detection-based Evaluation metrics are based on the official repositories of [Depth Anything](https://github.com/KaiyueSun98/tree/V2/Depth-Anything) and [GroundingSAM](https://github.com/KaiyueSun98/tree/v2/Grounded-Segment-Anything). 
-Tracking-based Evaluation metric is based on the repositories of [GroundingSAM](https://github.com/KaiyueSun98/tree/V2/main/Grounded-Segment-Anything) and [Dense Optical Tracking](https://github.com/KaiyueSun98/tree/V2/main/dot). 
+Tracking-based Evaluation metric is based on the repositories of [GroundingSAM](https://github.com/KaiyueSun98/tree/V2/Grounded-Segment-Anything) and [Dense Optical Tracking](https://github.com/KaiyueSun98/tree/V2/dot). 
 If you are evaluating **spatial relationships, generative numeracy** with Detection-based metrics, or  **motion binding** with Tracking-based metrics:
 1. Set the environment variable manually as follows:
 ```

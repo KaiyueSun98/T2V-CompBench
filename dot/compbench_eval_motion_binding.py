@@ -343,6 +343,34 @@ def combine_fore_back(foreground,background,output_csv):
                 else:
                     print("no x_change or no y_change")
 
+
+def object_score(obj1_net_left,left_thresh,obj1_net_up,up_thresh,d_1):
+    W = 856
+    H = 480
+    correct_direction = False
+    score_tmp = 0
+    obj1_net_left = float(obj1_net_left)
+    obj1_net_up = float(obj1_net_up)
+    if d_1 == "left":
+        if obj1_net_left>left_thresh:
+            correct_direction = True
+            score_tmp = abs(obj1_net_left)/W
+    elif d_1 == "right":
+        if obj1_net_left<-left_thresh:
+            correct_direction = True
+            score_tmp = abs(obj1_net_left)/W
+    elif d_1 == "up":
+        if obj1_net_up>up_thresh:
+            correct_direction = True
+            score_tmp = abs(obj1_net_up)/H
+    elif d_1 == "down":
+        if obj1_net_up<-up_thresh:
+            correct_direction = True
+            score_tmp = abs(obj1_net_up)/H
+    else:
+        print("direction not in [left, right, up, down]")
+    return correct_direction,score_tmp
+
 def cal_score(output_csv,score_csv): 
     #mid point y:240, x:428  height = 480, width = 856
     left_thresh = 0

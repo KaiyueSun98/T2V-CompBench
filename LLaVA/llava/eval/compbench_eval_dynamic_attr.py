@@ -547,7 +547,7 @@ if __name__ == "__main__":
     parser.add_argument("--top_p", type=float, default=None)
     parser.add_argument("--num_beams", type=int, default=1)
     parser.add_argument("--max_new_tokens", type=int, default=512)
-    parser.add_argument("--output-path", type=str, default="../csv_dynamic_attr",elp="path to store the video scores")
+    parser.add_argument("--output-path", type=str, default="../csv_dynamic_attr",help="path to store the video scores")
     parser.add_argument("--read-prompt-file", type=str, default="../meta_data/dynamic_attribute_binding.json", help="path of json file with meta data")
     parser.add_argument("--seed", type=int, default=0)
     

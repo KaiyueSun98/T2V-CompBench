@@ -33,6 +33,7 @@ This repository is the official implementation of the following paper:
 <a name="updates"></a>
 ## 🚩 Updates
 - :black_square_button: [TODO] Release the generated videos for T2V-CompBench evaluation.
+- :boom: [02/2025] Paper accepted to CVPR 2025.
 - ✅ [01/2025] T2V-CompBench Leaderboard
 - ✅ [01/2025] Release the evaluation scripts for the 7 categories.
 - ✅ [01/2025] Release the prompt dataset and metadata.

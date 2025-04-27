@@ -625,6 +625,9 @@ def background(args):
             else:
                     csv_writer.writerow([vid.split('.')[0],this_prompt,object_1,d_1,object_2,d_2,"","","",""])
                     csvfile.flush()
+                
+    background_csv = f'{output_path}/{args.t2v_model}_background.csv'
+    return background_csv
                     
 def foreground(args):
     output_dir = os.path.join(args.output_dir,args.t2v_model)

@@ -191,7 +191,7 @@ The final score of the model in this category (consistent attribute binding) wil
 Input the video path and run the command:
 
 ```
-python llava/eval/compbench_eval_dynamic_attr.py
+python llava/eval/compbench_eval_dynamic_attr.py \
   --video-path ../video/dynamic_attr \
   --output-path ../csv_dynamic_attr \
   --read-prompt-file ../meta_data/dynamic_attribute_binding.json \
@@ -208,7 +208,7 @@ The final score of the model in this category (dynamic attribute binding) will b
 Input the video path and run the command:
 
 ```
-python llava/eval/compbench_eval_action_binding.py
+python llava/eval/compbench_eval_action_binding.py \
   --video-path ../video/action_binding \
   --output-path ../csv_action_binding \
   --read-prompt-file ../meta_data/action_binding.json \
@@ -225,7 +225,7 @@ The final score of the model in this category (action binding) will be printed i
 Input the video path and run the command:
 
 ```
-python llava/eval/compbench_eval_interaction.py
+python llava/eval/compbench_eval_interaction.py \
   --video-path ../video/interaction \
   --output-path ../csv_object_interactions \
   --read-prompt-file ../meta_data/object_interactions.json \

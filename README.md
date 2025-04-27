@@ -262,7 +262,7 @@ The following evaluation script for numeracy has been placed in the `Grounded-Se
 Input the video path and run the command:
 
 ```
-python Grounded-Segment-Anything/compbench_eval_spatial_relationships.py
+python Grounded-Segment-Anything/compbench_eval_spatial_relationships.py \
   --video-path video/spatial_relationships \
   --depth_folder output_spatial_depth \
   --output-path csv_spatial \
@@ -288,7 +288,7 @@ The score for each video of this category (spatial relationships), and the final
 Input the video path and run the command:
 
 ```
-python Grounded-Segment-Anything/GroundingDINO/demo/compbench_eval_numeracy.py
+python Grounded-Segment-Anything/GroundingDINO/demo/compbench_eval_numeracy.py \
   --video-path video/generative_numeracy \
   --output-path csv_numeracy \
   --read-prompt-file meta_data/generative_numeracy.json \
@@ -329,7 +329,7 @@ The config file for the evaluation script has been placed in the `dot/dot/utils/
 Configure the total number of video frames with the `--total_frame` argument, the video fps (frames per second) with the `--fps` argument. The script will convert the videos into the required formats.
 
 ```
-python Grounded-Segment-Anything/compbench_motion_binding_seg.py
+python Grounded-Segment-Anything/compbench_motion_binding_seg.py \
   --video-path video/motion_binding \
   --read-prompt-file meta_data/motion_binding.json \
   --t2v-model mymodel \
@@ -346,7 +346,7 @@ The background and forground segmentations of the 1st frame for videos in this c
 
 ```
 cd dot
-python compbench_eavl_motion_binding.py
+python compbench_eavl_motion_binding.py \
   --video-path ../video/video_standard/motion_binding \
   --mask_folder ../output_motion_binding_seg \
   --read-prompt-file ../meta_data/motion_binding.json \

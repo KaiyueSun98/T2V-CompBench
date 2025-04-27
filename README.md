@@ -346,7 +346,7 @@ The background and forground segmentations of the 1st frame for videos in this c
 
 ```
 cd dot
-python compbench_eavl_motion_binding.py \
+python compbench_eval_motion_binding.py \
   --video-path ../video/video_standard/motion_binding \
   --mask_folder ../output_motion_binding_seg \
   --read-prompt-file ../meta_data/motion_binding.json \

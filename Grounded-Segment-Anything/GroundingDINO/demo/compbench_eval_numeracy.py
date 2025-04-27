@@ -478,7 +478,7 @@ if __name__ == "__main__":
     
     vid2frame = Video_preprocess()
     if args.frame_folder == None:
-        frame_folder = Video_preprocess.convert_video_to_frames(video_path)
+        frame_folder = vid2frame.convert_video_to_frames(video_path)
     else:
         frame_folder = args.frame_folder
     

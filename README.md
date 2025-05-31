@@ -3,7 +3,7 @@
 <a href='https://t2v-compbench-2025.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://arxiv.org/abs/2407.14505'><img src='https://img.shields.io/badge/T2V--CompBench-Arxiv-red'></a> 
 <a href='https://huggingface.co/spaces/Kaiyue/T2V-CompBench_Leaderboard'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Leaderboard-blue'></a> 
-<a href='https://www.youtube.com/watch?v=td0wWN-5PbY'><img src='https://img.shields.io/badge/VBench-Video-c4302b?logo=youtube&logoColor=red'></a> 
+<a href='https://www.youtube.com/watch?v=td0wWN-5PbY'><img src='https://img.shields.io/badge/T2V-CompBench-Video-c4302b?logo=youtube&logoColor=red'></a> 
 
 This repository is the official implementation of the following paper:
 > **T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation**<br>
